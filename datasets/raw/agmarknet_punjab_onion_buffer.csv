@@ -1,0 +1,188 @@
+State Name,District Name,Market Name,Variety,Group,Arrivals (Tonnes),Min Price (Rs./Quintal),Max Price (Rs./Quintal),Modal Price (Rs./Quintal),Reported Date
+Punjab,Bhatinda,Maur,Other,Vegetables,0.70,5700,6000,5800,2019-12-01
+Punjab,Ferozpur,Makhu,Other,Vegetables,1.00,2000,4000,3000,2019-12-01
+Punjab,Gurdaspur,F.G.Churian,Onion,Vegetables,0.40,4980,5000,4990,2019-12-01
+Punjab,Hoshiarpur,Hoshiarpur,Other,Vegetables,9.00,5500,7000,6200,2019-12-01
+Punjab,Tarntaran,Patti,Other,Vegetables,0.80,3800,4200,4000,2019-12-01
+-,-,-,-,Punjab Sub Total,11.90,-,-,-,
+-,-,-,-,Total:-,11.90,-,-,-,
+Punjab,Bhatinda,Bhucho,Other,Vegetables,0.10,3500,4000,3800,2019-12-02
+Punjab,Ferozpur,Makhu,Other,Vegetables,1.00,2000,4000,3000,2019-12-02
+Punjab,Gurdaspur,Batala,Other,Vegetables,23.00,2000,2400,2200,2019-12-02
+Punjab,Gurdaspur,F.G.Churian,Onion,Vegetables,0.30,4950,4980,4960,2019-12-02
+Punjab,Ludhiana,Samrala,Other,Vegetables,3.00,1800,2200,2000,2019-12-02
+Punjab,Pathankot,Pathankot,Onion,Vegetables,30.00,3600,6100,5500,2019-12-02
+-,-,-,-,Punjab Sub Total,57.40,-,-,-,
+-,-,-,-,Total:-,57.40,-,-,-,
+Punjab,Bhatinda,Bhucho,Other,Vegetables,0.10,3500,4000,3800,2019-12-03
+Punjab,Ferozpur,Makhu,Other,Vegetables,0.50,2000,4000,3000,2019-12-03
+Punjab,Hoshiarpur,Hoshiarpur,Other,Vegetables,8.00,5500,7000,6200,2019-12-03
+Punjab,Pathankot,Pathankot,Onion,Vegetables,27.50,5000,7000,6000,2019-12-03
+-,-,-,-,Punjab Sub Total,36.10,-,-,-,
+-,-,-,-,Total:-,36.10,-,-,-,
+Punjab,Bhatinda,Bhucho,Other,Vegetables,0.10,4000,4500,4200,2019-12-04
+Punjab,Ferozpur,Makhu,Other,Vegetables,0.50,2000,4000,3000,2019-12-04
+Punjab,Hoshiarpur,Hoshiarpur,Other,Vegetables,12.00,5500,7000,6200,2019-12-04
+Punjab,Mohali,Lalru,Other,Vegetables,0.83,4000,4000,4000,2019-12-04
+Punjab,Muktsar,Giddarbaha,Local,Vegetables,0.50,6000,7000,6500,2019-12-04
+Punjab,Pathankot,Pathankot,Onion,Vegetables,17.00,3600,8200,6500,2019-12-04
+-,-,-,-,Punjab Sub Total,30.93,-,-,-,
+-,-,-,-,Total:-,30.93,-,-,-,
+Punjab,Bhatinda,Bhucho,Other,Vegetables,0.10,4000,4500,4300,2019-12-05
+Punjab,Ferozpur,Makhu,Other,Vegetables,0.50,2000,4000,3000,2019-12-05
+Punjab,Hoshiarpur,Hoshiarpur,Other,Vegetables,9.00,5500,6500,5800,2019-12-05
+Punjab,Jalandhar,Phillaur(Apra Mandi),Other,Vegetables,0.07,7900,9000,8000,2019-12-05
+Punjab,Mohali,Banur (Kheragaju),1st Sort,Vegetables,0.30,2500,3000,3000,2019-12-05
+Punjab,Muktsar,Muktsar,Nasik,Vegetables,4.20,3000,3500,3250,2019-12-05
+Punjab,Pathankot,Pathankot,Onion,Vegetables,12.10,8000,8200,8100,2019-12-05
+Punjab,Tarntaran,Patti,Other,Vegetables,0.80,4000,4500,4200,2019-12-05
+-,-,-,-,Punjab Sub Total,27.07,-,-,-,
+-,-,-,-,Total:-,27.07,-,-,-,
+Punjab,Bhatinda,Bhucho,Other,Vegetables,0.10,4000,4300,4100,2019-12-06
+Punjab,Ferozpur,Makhu,Other,Vegetables,0.50,2000,4000,3000,2019-12-06
+Punjab,Pathankot,Pathankot,Onion,Vegetables,27.00,7000,7800,7400,2019-12-06
+-,-,-,-,Punjab Sub Total,27.60,-,-,-,
+-,-,-,-,Total:-,27.60,-,-,-,
+Punjab,Mohali,Lalru,Other,Vegetables,0.86,5000,5100,5100,2019-12-07
+Punjab,Pathankot,Pathankot,Onion,Vegetables,9.70,6000,7500,6700,2019-12-07
+-,-,-,-,Punjab Sub Total,10.56,-,-,-,
+-,-,-,-,Total:-,10.56,-,-,-,
+Punjab,Ferozpur,Makhu,Other,Vegetables,0.50,2000,4000,3000,2019-12-08
+Punjab,Jalandhar,Phillaur(Apra Mandi),Other,Vegetables,0.07,7900,8100,8000,2019-12-08
+Punjab,Sangrur,Sangrur,Onion,Vegetables,0.10,1800,1800,1800,2019-12-08
+-,-,-,-,Punjab Sub Total,0.67,-,-,-,
+-,-,-,-,Total:-,0.67,-,-,-,
+Punjab,Bhatinda,Bhucho,Other,Vegetables,0.10,4000,4300,4200,2019-12-09
+Punjab,Ferozpur,Makhu,Other,Vegetables,0.50,2000,4000,3000,2019-12-09
+Punjab,Hoshiarpur,Hoshiarpur,Other,Vegetables,8.00,5500,8000,7500,2019-12-09
+Punjab,Jalandhar,Phillaur(Apra Mandi),Other,Vegetables,0.07,7900,8100,8000,2019-12-09
+-,-,-,-,Punjab Sub Total,8.67,-,-,-,
+-,-,-,-,Total:-,8.67,-,-,-,
+Punjab,Bhatinda,Bhucho,Other,Vegetables,0.10,4000,4300,4100,2019-12-10
+Punjab,Ferozpur,Makhu,Other,Vegetables,0.50,2000,4000,3000,2019-12-10
+Punjab,Ferozpur,Zira,Nasik,Vegetables,0.05,8000,9000,8500,2019-12-10
+Punjab,Gurdaspur,F.G.Churian,Onion,Vegetables,0.25,4480,4510,4490,2019-12-10
+Punjab,Hoshiarpur,Hoshiarpur,Other,Vegetables,12.00,5500,8000,7500,2019-12-10
+Punjab,Mohali,Lalru,Other,Vegetables,0.85,5000,5000,5000,2019-12-10
+Punjab,Pathankot,Pathankot,Onion,Vegetables,22.80,5500,7600,6300,2019-12-10
+-,-,-,-,Punjab Sub Total,36.55,-,-,-,
+-,-,-,-,Total:-,36.55,-,-,-,
+Punjab,Bhatinda,Bhucho,Other,Vegetables,0.10,3500,4000,3800,2019-12-11
+Punjab,Ferozpur,Makhu,Other,Vegetables,0.50,2000,4000,3000,2019-12-11
+Punjab,Hoshiarpur,Hoshiarpur,Other,Vegetables,9.00,5500,8000,7500,2019-12-11
+Punjab,Jalandhar,Phillaur(Apra Mandi),Other,Vegetables,0.02,7900,8100,8000,2019-12-11
+Punjab,Pathankot,Pathankot,Onion,Vegetables,18.00,1800,7000,3900,2019-12-11
+-,-,-,-,Punjab Sub Total,27.62,-,-,-,
+-,-,-,-,Total:-,27.62,-,-,-,
+Punjab,Ferozpur,Makhu,Other,Vegetables,0.50,2000,4000,3000,2019-12-12
+Punjab,Jalandhar,Phillaur(Apra Mandi),Other,Vegetables,0.03,7900,8100,8000,2019-12-12
+Punjab,Mohali,Lalru,Other,Vegetables,0.88,5000,5400,5400,2019-12-12
+Punjab,Pathankot,Pathankot,Onion,Vegetables,13.10,5600,7300,6200,2019-12-12
+-,-,-,-,Punjab Sub Total,14.51,-,-,-,
+-,-,-,-,Total:-,14.51,-,-,-,
+Punjab,Barnala,Barnala,Other,Vegetables,5.63,1200,1600,1400,2019-12-13
+Punjab,Ferozpur,Makhu,Other,Vegetables,0.50,2000,4000,3000,2019-12-13
+Punjab,Mohali,Lalru,Other,Vegetables,0.85,5000,5000,5000,2019-12-13
+Punjab,Muktsar,Giddarbaha,Local,Vegetables,0.30,6000,7000,6500,2019-12-13
+-,-,-,-,Punjab Sub Total,7.28,-,-,-,
+-,-,-,-,Total:-,7.28,-,-,-,
+Punjab,Bhatinda,Bhucho,Other,Vegetables,0.10,3500,4000,3800,2019-12-14
+Punjab,Ferozpur,Makhu,Other,Vegetables,0.50,2000,4000,3000,2019-12-14
+Punjab,Hoshiarpur,Hoshiarpur,Other,Vegetables,8.00,5500,8000,7500,2019-12-14
+Punjab,Jalandhar,Phillaur(Apra Mandi),Other,Vegetables,0.02,7900,8100,8000,2019-12-14
+-,-,-,-,Punjab Sub Total,8.62,-,-,-,
+-,-,-,-,Total:-,8.62,-,-,-,
+Punjab,Bhatinda,Bhucho,Other,Vegetables,0.10,3500,4000,3800,2019-12-15
+Punjab,Ferozpur,Makhu,Other,Vegetables,0.50,2000,4000,3000,2019-12-15
+Punjab,Jalandhar,Phillaur(Apra Mandi),Other,Vegetables,0.05,6900,7100,7000,2019-12-15
+-,-,-,-,Punjab Sub Total,0.65,-,-,-,
+-,-,-,-,Total:-,0.65,-,-,-,
+Punjab,Bhatinda,Bhucho,Other,Vegetables,0.10,3500,4000,3700,2019-12-16
+Punjab,Ferozpur,Makhu,Other,Vegetables,0.50,2000,4000,3000,2019-12-16
+Punjab,Hoshiarpur,Garh Shankar(Mahalpur),Other,Vegetables,2.30,6000,7500,7000,2019-12-16
+Punjab,Muktsar,Bariwala,Other,Vegetables,0.03,3500,3500,3500,2019-12-16
+Punjab,Pathankot,Pathankot,Onion,Vegetables,26.70,5400,7100,6300,2019-12-16
+-,-,-,-,Punjab Sub Total,29.63,-,-,-,
+-,-,-,-,Total:-,29.63,-,-,-,
+Punjab,Bhatinda,Bhucho,Other,Vegetables,0.10,3500,4000,3800,2019-12-17
+Punjab,Ferozpur,Makhu,Other,Vegetables,0.50,2000,4000,3000,2019-12-17
+Punjab,Pathankot,Pathankot,Onion,Vegetables,41.20,6200,9000,7800,2019-12-17
+-,-,-,-,Punjab Sub Total,41.80,-,-,-,
+-,-,-,-,Total:-,41.80,-,-,-,
+Punjab,Jalandhar,Phillaur(Apra Mandi),Other,Vegetables,0.03,5900,6100,6000,2019-12-18
+-,-,-,-,Punjab Sub Total,0.03,-,-,-,
+-,-,-,-,Total:-,0.03,-,-,-,
+Punjab,Bhatinda,Bhucho,Other,Vegetables,0.10,3500,4000,3800,2019-12-19
+Punjab,Pathankot,Pathankot,Onion,Vegetables,18.00,3100,7100,5200,2019-12-19
+-,-,-,-,Punjab Sub Total,18.10,-,-,-,
+-,-,-,-,Total:-,18.10,-,-,-,
+Punjab,Bhatinda,Bhucho,Other,Vegetables,0.10,3500,4000,3700,2019-12-20
+Punjab,Hoshiarpur,Hoshiarpur,Other,Vegetables,0.70,7000,8000,7500,2019-12-20
+Punjab,Pathankot,Pathankot,Onion,Vegetables,11.18,5900,9000,8900,2019-12-20
+-,-,-,-,Punjab Sub Total,11.98,-,-,-,
+-,-,-,-,Total:-,11.98,-,-,-,
+Punjab,Amritsar,Rayya,Red,Vegetables,0.20,4500,4500,4500,2019-12-21
+Punjab,Bhatinda,Bhucho,Other,Vegetables,0.10,3500,4000,3800,2019-12-21
+Punjab,Hoshiarpur,Hoshiarpur,Other,Vegetables,0.50,7000,8200,8000,2019-12-21
+Punjab,Jalandhar,Phillaur(Apra Mandi),Other,Vegetables,0.03,5900,6100,6000,2019-12-21
+Punjab,Pathankot,Pathankot,Onion,Vegetables,12.90,5500,8800,7000,2019-12-21
+-,-,-,-,Punjab Sub Total,13.73,-,-,-,
+-,-,-,-,Total:-,13.73,-,-,-,
+Punjab,Bhatinda,Bhucho,Other,Vegetables,0.10,3500,4000,3800,2019-12-22
+Punjab,Ferozpur,Makhu,Other,Vegetables,1.00,2000,4000,3000,2019-12-22
+Punjab,Hoshiarpur,Hoshiarpur,Other,Vegetables,8.00,7000,8200,8000,2019-12-22
+-,-,-,-,Punjab Sub Total,9.10,-,-,-,
+-,-,-,-,Total:-,9.10,-,-,-,
+Punjab,Bhatinda,Bhucho,Other,Vegetables,0.10,3500,4000,3800,2019-12-23
+Punjab,Hoshiarpur,Hoshiarpur,Other,Vegetables,15.00,8000,8500,8300,2019-12-23
+Punjab,Pathankot,Pathankot,Onion,Vegetables,22.24,4400,8700,6500,2019-12-23
+Punjab,Tarntaran,Patti,Other,Vegetables,0.50,4000,4500,4200,2019-12-23
+-,-,-,-,Punjab Sub Total,37.84,-,-,-,
+-,-,-,-,Total:-,37.84,-,-,-,
+Punjab,Hoshiarpur,Hoshiarpur,Other,Vegetables,8.00,7800,8500,8200,2019-12-24
+Punjab,Pathankot,Pathankot,Onion,Vegetables,60.00,6000,8900,7400,2019-12-24
+Punjab,Tarntaran,Patti,Other,Vegetables,0.40,4000,4500,4200,2019-12-24
+-,-,-,-,Punjab Sub Total,68.40,-,-,-,
+-,-,-,-,Total:-,68.40,-,-,-,
+Punjab,Bhatinda,Bhucho,Other,Vegetables,0.10,3500,4000,3800,2019-12-25
+Punjab,Bhatinda,Maur,Other,Vegetables,0.90,5000,5500,5200,2019-12-25
+Punjab,Hoshiarpur,Hoshiarpur,Other,Vegetables,8.00,7800,8500,8200,2019-12-25
+Punjab,Muktsar,Giddarbaha,Local,Vegetables,0.40,6500,6800,6600,2019-12-25
+Punjab,Pathankot,Pathankot,Onion,Vegetables,50.00,3200,8000,6100,2019-12-25
+Punjab,Tarntaran,Patti,Other,Vegetables,0.39,4000,4200,4000,2019-12-25
+-,-,-,-,Punjab Sub Total,59.79,-,-,-,
+-,-,-,-,Total:-,59.79,-,-,-,
+Punjab,Bhatinda,Bhucho,Other,Vegetables,0.10,3500,4000,3800,2019-12-26
+Punjab,Hoshiarpur,Hoshiarpur,Other,Vegetables,15.00,5200,8500,7000,2019-12-26
+Punjab,Muktsar,Giddarbaha,Local,Vegetables,0.43,6400,6600,6500,2019-12-26
+Punjab,Pathankot,Pathankot,Onion,Vegetables,16.80,4300,8100,6400,2019-12-26
+-,-,-,-,Punjab Sub Total,32.33,-,-,-,
+-,-,-,-,Total:-,32.33,-,-,-,
+Punjab,Bhatinda,Bhucho,Other,Vegetables,0.10,3500,4000,3800,2019-12-27
+Punjab,Hoshiarpur,Hoshiarpur,Other,Vegetables,15.00,5200,8500,7000,2019-12-27
+Punjab,Pathankot,Pathankot,Onion,Vegetables,15.00,4500,7500,5900,2019-12-27
+-,-,-,-,Punjab Sub Total,30.10,-,-,-,
+-,-,-,-,Total:-,30.10,-,-,-,
+Punjab,Bhatinda,Bhucho,Other,Vegetables,0.10,3500,4000,3800,2019-12-28
+Punjab,Bhatinda,Maur,Other,Vegetables,0.30,5500,6000,5800,2019-12-28
+Punjab,Jalandhar,Phillaur(Apra Mandi),Other,Vegetables,0.03,7900,8100,8000,2019-12-28
+Punjab,Pathankot,Pathankot,Onion,Vegetables,25.00,4000,5500,4700,2019-12-28
+-,-,-,-,Punjab Sub Total,25.43,-,-,-,
+-,-,-,-,Total:-,25.43,-,-,-,
+Punjab,Bhatinda,Maur,Other,Vegetables,0.30,5000,5500,5200,2019-12-29
+Punjab,Ferozpur,Makhu,Other,Vegetables,2.00,2000,4000,3000,2019-12-29
+-,-,-,-,Punjab Sub Total,2.30,-,-,-,
+-,-,-,-,Total:-,2.30,-,-,-,
+Punjab,Ferozpur,Makhu,Other,Vegetables,2.00,2000,4000,3000,2019-12-30
+Punjab,Hoshiarpur,Hoshiarpur,Other,Vegetables,14.00,5200,8500,7000,2019-12-30
+Punjab,Pathankot,Pathankot,Onion,Vegetables,22.21,3200,8200,5200,2019-12-30
+-,-,-,-,Punjab Sub Total,38.21,-,-,-,
+-,-,-,-,Total:-,38.21,-,-,-,
+Punjab,Bhatinda,Bhucho,Other,Vegetables,0.10,3500,4000,3800,2019-12-31
+Punjab,Bhatinda,Maur,Other,Vegetables,0.30,5300,5500,5400,2019-12-31
+Punjab,Ferozpur,Makhu,Other,Vegetables,0.50,2000,4000,3000,2019-12-31
+Punjab,Hoshiarpur,Hoshiarpur,Other,Vegetables,16.00,5200,8500,7000,2019-12-31
+Punjab,Jalandhar,Phillaur(Apra Mandi),Other,Vegetables,0.04,5900,6100,6000,2019-12-31
+Punjab,Pathankot,Pathankot,Onion,Vegetables,26.00,3200,8400,6400,2019-12-31
+-,-,-,-,Punjab Sub Total,42.94,-,-,-,
+-,-,-,-,Total:-,42.94,-,-,-,

@@ -1,0 +1,1673 @@
+State Name,District Name,Market Name,Variety,Group,Arrivals (Tonnes),Min Price (Rs./Quintal),Max Price (Rs./Quintal),Modal Price (Rs./Quintal),Reported Date
+Punjab,Barnala,Barnala,Other,Vegetables,2.71,1250,1800,1525,2019-12-01
+Punjab,Bhatinda,Maur,Other,Vegetables,0.90,1300,1500,1400,2019-12-01
+Punjab,Bhatinda,Raman,Other,Vegetables,0.20,1200,1600,1500,2019-12-01
+Punjab,Ferozpur,Ferozepur Cantt.,Tomato,Vegetables,0.15,1500,1700,1600,2019-12-01
+Punjab,Ferozpur,Guru Har Sahai,Tomato,Vegetables,1.22,1400,1600,1500,2019-12-01
+Punjab,Ferozpur,Makhu,Other,Vegetables,0.40,1300,1500,1400,2019-12-01
+Punjab,Ferozpur,Zira,Tomato,Vegetables,0.30,1200,1800,1500,2019-12-01
+Punjab,Gurdaspur,Batala,Other,Vegetables,2.30,1400,1600,1500,2019-12-01
+Punjab,Hoshiarpur,Dasuya,Other,Vegetables,0.80,1500,1700,1700,2019-12-01
+Punjab,Hoshiarpur,Hoshiarpur,Other,Vegetables,12.40,1500,2000,1800,2019-12-01
+Punjab,Hoshiarpur,Mukerian(Talwara),Tomato,Vegetables,0.30,1800,2350,2150,2019-12-01
+Punjab,Mansa,Mansa,Tomato,Vegetables,1.60,1000,1500,1200,2019-12-01
+Punjab,Mohali,Banur (Kheragaju),Deshi,Vegetables,0.30,1500,1800,1800,2019-12-01
+Punjab,Mohali,Dera Bassi,Other,Vegetables,0.10,2400,2800,2600,2019-12-01
+Punjab,Mohali,Kharar,Tomato,Vegetables,1.10,1200,1600,1400,2019-12-01
+Punjab,Muktsar,Giddarbaha,Tomato,Vegetables,0.80,1200,1600,1300,2019-12-01
+Punjab,Muktsar,Muktsar,Tomato,Vegetables,6.00,1200,1500,1350,2019-12-01
+Punjab,Patiala,Nabha,Other,Vegetables,6.80,1000,1700,1300,2019-12-01
+Punjab,Patiala,Patran,Other,Vegetables,1.80,1000,1500,1184,2019-12-01
+Punjab,Patiala,Rajpura,Local,Vegetables,3.20,1200,2000,1600,2019-12-01
+Punjab,Patiala,Samana,Hybrid,Vegetables,1.30,1000,1600,1200,2019-12-01
+Punjab,Sangrur,Bhawanigarh,Other,Vegetables,0.80,1100,1400,1200,2019-12-01
+Punjab,Sangrur,Dhuri,Other,Vegetables,0.40,1400,1900,1700,2019-12-01
+Punjab,Sangrur,Lehra Gaga,Other,Vegetables,0.70,2700,3000,3000,2019-12-01
+Punjab,Sangrur,Malerkotla,Other,Vegetables,6.00,1650,2000,1800,2019-12-01
+Punjab,Sangrur,Sangrur,Tomato,Vegetables,2.10,1100,1400,1300,2019-12-01
+Punjab,Tarntaran,Patti,Other,Vegetables,0.28,2000,2600,2400,2019-12-01
+-,-,-,-,Punjab Sub Total,54.96,-,-,-,
+-,-,-,-,Total:-,54.96,-,-,-,
+Punjab,Amritsar,Amritsar(Amritsar Mewa Mandi),Tomato,Vegetables,121.50,600,1400,1100,2019-12-02
+Punjab,Amritsar,Rayya,Hybrid,Vegetables,0.25,2600,2600,2600,2019-12-02
+Punjab,Barnala,Barnala,Other,Vegetables,2.79,1200,1500,1350,2019-12-02
+Punjab,Bhatinda,Bathinda,Other,Vegetables,4.50,1000,1500,1200,2019-12-02
+Punjab,Bhatinda,Maur,Other,Vegetables,0.40,1200,1500,1400,2019-12-02
+Punjab,Faridkot,Faridkot,Tomato,Vegetables,1.34,1000,1500,1300,2019-12-02
+Punjab,Faridkot,Jaitu,Deshi,Vegetables,0.24,1600,1800,1600,2019-12-02
+Punjab,Fatehgarh,Bassi Pathana,Tomato,Vegetables,1.00,2000,2500,2200,2019-12-02
+Punjab,Fatehgarh,Khamano,Tomato,Vegetables,0.10,2500,2500,2500,2019-12-02
+Punjab,Fatehgarh,Sirhind,Other,Vegetables,3.60,1100,1500,1300,2019-12-02
+Punjab,Fazilka,Abohar,Tomato,Vegetables,7.54,1150,1510,1336,2019-12-02
+Punjab,Fazilka,Jalalabad,Other,Vegetables,0.32,2200,2500,2300,2019-12-02
+Punjab,Ferozpur,Ferozepur Cantt.,Tomato,Vegetables,0.04,1400,1600,1500,2019-12-02
+Punjab,Ferozpur,Makhu,Other,Vegetables,0.40,1300,1500,1400,2019-12-02
+Punjab,Ferozpur,Zira,Tomato,Vegetables,0.20,1500,2000,1700,2019-12-02
+Punjab,Gurdaspur,Batala,Other,Vegetables,2.80,1500,2500,2000,2019-12-02
+Punjab,Gurdaspur,Dinanagar,Tomato,Vegetables,0.90,1800,2050,2000,2019-12-02
+Punjab,Gurdaspur,Gurdaspur,Other,Vegetables,2.30,2200,2500,2300,2019-12-02
+Punjab,Hoshiarpur,Dasuya,Other,Vegetables,1.00,1300,1500,1500,2019-12-02
+Punjab,Hoshiarpur,Garh Shankar,Deshi,Vegetables,1.60,1600,2000,1800,2019-12-02
+Punjab,Hoshiarpur,Garh Shankar(Mahalpur),Tomato,Vegetables,0.85,2000,2500,2200,2019-12-02
+Punjab,Hoshiarpur,GarhShankar (Kotfatuhi),Other,Vegetables,0.10,1800,2200,2000,2019-12-02
+Punjab,Hoshiarpur,Mukerian,Tomato,Vegetables,1.70,3000,4000,3600,2019-12-02
+Punjab,Hoshiarpur,Mukerian(Talwara),Tomato,Vegetables,0.30,1600,2250,1800,2019-12-02
+Punjab,Hoshiarpur,Tanda Urmur,Other,Vegetables,1.00,1800,2100,2000,2019-12-02
+Punjab,Jalandhar,Adampur,Other,Vegetables,1.00,1500,1800,1800,2019-12-02
+Punjab,Jalandhar,Goraya,Other,Vegetables,0.20,1400,1400,1400,2019-12-02
+Punjab,Jalandhar,Jalandhar City(Jalandhar),Other,Vegetables,106.00,400,900,550,2019-12-02
+Punjab,Jalandhar,Nakodar,Other,Vegetables,0.10,1500,1500,1500,2019-12-02
+Punjab,kapurthala,Phagwara,Other,Vegetables,16.80,1150,1415,1254,2019-12-02
+Punjab,Ludhiana,Jagraon,Other,Vegetables,2.00,2300,2500,2400,2019-12-02
+Punjab,Ludhiana,Sahnewal,Tomato,Vegetables,0.10,1833,1833,1833,2019-12-02
+Punjab,Ludhiana,Samrala,Other,Vegetables,1.00,1800,2200,2000,2019-12-02
+Punjab,Mansa,Mansa,Tomato,Vegetables,1.00,1100,1600,1400,2019-12-02
+Punjab,Moga,Baghapurana,Tomato,Vegetables,0.30,1500,2000,1800,2019-12-02
+Punjab,Mohali,Banur (Kheragaju),Deshi,Vegetables,0.40,1000,1500,1500,2019-12-02
+Punjab,Mohali,Dera Bassi,Other,Vegetables,0.10,2400,2800,2600,2019-12-02
+Punjab,Mohali,Kharar,Tomato,Vegetables,1.20,1200,1600,1400,2019-12-02
+Punjab,Muktsar,Bariwala,Other,Vegetables,0.03,2000,2000,2000,2019-12-02
+Punjab,Muktsar,Giddarbaha,Tomato,Vegetables,0.40,1400,1600,1500,2019-12-02
+Punjab,Muktsar,Malout,Tomato,Vegetables,2.60,800,1500,1000,2019-12-02
+Punjab,Muktsar,Muktsar,Tomato,Vegetables,3.00,1200,1600,1500,2019-12-02
+Punjab,Nawanshahr,Nawan Shahar(Subzi Mandi),Other,Vegetables,1.25,1800,2500,2300,2019-12-02
+Punjab,Pathankot,Pathankot,Tomato,Vegetables,27.70,1200,1400,1300,2019-12-02
+Punjab,Patiala,Nabha,Other,Vegetables,3.30,1000,1700,1300,2019-12-02
+Punjab,Patiala,Patiala,Tomato,Vegetables,31.00,2500,3500,3000,2019-12-02
+Punjab,Patiala,Patran,Other,Vegetables,2.00,1100,1800,1312,2019-12-02
+Punjab,Patiala,Rajpura,Local,Vegetables,1.60,1500,2000,1750,2019-12-02
+Punjab,Sangrur,Bhawanigarh,Other,Vegetables,0.50,1200,1600,1400,2019-12-02
+Punjab,Sangrur,Dhuri,Other,Vegetables,0.40,1450,1700,1550,2019-12-02
+Punjab,Sangrur,Malerkotla,Other,Vegetables,5.20,1600,2000,1800,2019-12-02
+Punjab,Sangrur,Sangrur,Tomato,Vegetables,1.70,1200,1300,1300,2019-12-02
+Punjab,Sangrur,Sunam,Tomato,Vegetables,0.80,1500,2000,1800,2019-12-02
+Punjab,Tarntaran,Tarantaran,Other,Vegetables,0.40,1800,3000,2500,2019-12-02
+-,-,-,-,Punjab Sub Total,368.85,-,-,-,
+-,-,-,-,Total:-,368.85,-,-,-,
+Punjab,Amritsar,Amritsar(Amritsar Mewa Mandi),Tomato,Vegetables,154.50,500,1500,1000,2019-12-03
+Punjab,Amritsar,Rayya,Hybrid,Vegetables,0.30,2500,2500,2500,2019-12-03
+Punjab,Barnala,Barnala,Other,Vegetables,1.65,1200,1400,1300,2019-12-03
+Punjab,Bhatinda,Bathinda,Other,Vegetables,20.60,1000,1500,1000,2019-12-03
+Punjab,Bhatinda,Bhagta Bhai Ka,Other,Vegetables,0.20,2000,2000,2000,2019-12-03
+Punjab,Bhatinda,Goniana,Other,Vegetables,0.20,1500,1800,1800,2019-12-03
+Punjab,Bhatinda,Maur,Other,Vegetables,0.60,1100,1300,1200,2019-12-03
+Punjab,Bhatinda,Raman,Other,Vegetables,0.40,1300,1600,1500,2019-12-03
+Punjab,Bhatinda,Talwandi Sabo,Other,Vegetables,0.30,1000,1300,1200,2019-12-03
+Punjab,Faridkot,Faridkot,Tomato,Vegetables,1.50,1000,1500,1200,2019-12-03
+Punjab,Faridkot,Jaitu,Deshi,Vegetables,0.25,2200,2200,2200,2019-12-03
+Punjab,Fatehgarh,Bassi Pathana,Tomato,Vegetables,1.50,1800,2200,2000,2019-12-03
+Punjab,Fatehgarh,Sirhind,Other,Vegetables,2.90,1300,1500,1400,2019-12-03
+Punjab,Fazilka,Abohar,Tomato,Vegetables,8.84,1300,1726,1532,2019-12-03
+Punjab,Fazilka,Jalalabad,Other,Vegetables,0.59,2200,2500,2300,2019-12-03
+Punjab,Ferozpur,Firozepur City,Other,Vegetables,4.00,1000,1300,1150,2019-12-03
+Punjab,Ferozpur,Makhu,Other,Vegetables,0.20,1300,1500,1400,2019-12-03
+Punjab,Ferozpur,Mamdot,Other,Vegetables,0.20,1500,1600,1550,2019-12-03
+Punjab,Ferozpur,Zira,Tomato,Vegetables,0.40,1200,1800,1500,2019-12-03
+Punjab,Gurdaspur,Batala,Other,Vegetables,2.50,1400,1600,1500,2019-12-03
+Punjab,Gurdaspur,Dinanagar,Tomato,Vegetables,1.20,1800,2200,2000,2019-12-03
+Punjab,Gurdaspur,F.G.Churian,Tomato,Vegetables,0.12,1980,2010,1990,2019-12-03
+Punjab,Gurdaspur,Gurdaspur,Other,Vegetables,1.90,1800,2000,1900,2019-12-03
+Punjab,Hoshiarpur,Dasuya,Other,Vegetables,1.50,1500,1700,1700,2019-12-03
+Punjab,Hoshiarpur,Garh Shankar,Deshi,Vegetables,0.58,1500,2000,1700,2019-12-03
+Punjab,Hoshiarpur,Garh Shankar(Mahalpur),Tomato,Vegetables,1.70,1500,2500,2000,2019-12-03
+Punjab,Hoshiarpur,GarhShankar (Kotfatuhi),Other,Vegetables,0.10,1800,2000,1900,2019-12-03
+Punjab,Hoshiarpur,Hoshiarpur,Other,Vegetables,11.00,1500,2000,1800,2019-12-03
+Punjab,Hoshiarpur,Mukerian,Tomato,Vegetables,1.40,3000,4000,3600,2019-12-03
+Punjab,Hoshiarpur,Mukerian(Talwara),Tomato,Vegetables,0.29,1800,2350,2100,2019-12-03
+Punjab,Hoshiarpur,Tanda Urmur,Other,Vegetables,0.70,1200,1600,1400,2019-12-03
+Punjab,Jalandhar,Adampur,Other,Vegetables,0.70,1500,1800,1800,2019-12-03
+Punjab,Jalandhar,Goraya,Other,Vegetables,0.20,1300,1300,1300,2019-12-03
+Punjab,Jalandhar,Jalandhar City(Jalandhar),Other,Vegetables,50.80,400,1200,800,2019-12-03
+Punjab,Jalandhar,Mehatpur,Local,Vegetables,0.05,2500,2500,2500,2019-12-03
+Punjab,Jalandhar,Nakodar,Other,Vegetables,0.10,1400,1400,1400,2019-12-03
+Punjab,kapurthala,Phagwara,Other,Vegetables,9.40,800,1500,1286,2019-12-03
+Punjab,Ludhiana,Jagraon,Other,Vegetables,2.40,2300,2700,2500,2019-12-03
+Punjab,Ludhiana,Khanna,Other,Vegetables,171.00,1000,1800,1500,2019-12-03
+Punjab,Ludhiana,Samrala,Other,Vegetables,0.90,1800,2200,2000,2019-12-03
+Punjab,Moga,Baghapurana,Tomato,Vegetables,0.40,1500,2000,1800,2019-12-03
+Punjab,Mohali,Banur (Kheragaju),Deshi,Vegetables,0.40,1500,2000,2000,2019-12-03
+Punjab,Mohali,Dera Bassi,Other,Vegetables,0.10,2400,2800,2600,2019-12-03
+Punjab,Mohali,Kharar,Tomato,Vegetables,1.00,1200,1800,1500,2019-12-03
+Punjab,Mohali,Kurali,Other,Vegetables,1.00,2200,2500,2400,2019-12-03
+Punjab,Muktsar,Bariwala,Other,Vegetables,0.04,2000,2000,2000,2019-12-03
+Punjab,Muktsar,Giddarbaha,Tomato,Vegetables,0.50,1400,1600,1500,2019-12-03
+Punjab,Muktsar,Malout,Tomato,Vegetables,2.90,1000,1500,1200,2019-12-03
+Punjab,Nawanshahr,Nawan Shahar(Subzi Mandi),Other,Vegetables,1.08,1500,2000,1800,2019-12-03
+Punjab,Pathankot,Pathankot,Tomato,Vegetables,14.00,1000,1500,1250,2019-12-03
+Punjab,Patiala,Dudhansadhan,Other,Vegetables,0.30,1500,2200,2000,2019-12-03
+Punjab,Patiala,Nabha,Other,Vegetables,4.90,1000,1700,1300,2019-12-03
+Punjab,Patiala,Patiala,Tomato,Vegetables,14.00,2500,3500,3000,2019-12-03
+Punjab,Patiala,Patran,Other,Vegetables,2.10,1000,1500,1190,2019-12-03
+Punjab,Patiala,Rajpura,Local,Vegetables,4.50,1500,2000,1750,2019-12-03
+Punjab,Sangrur,Bhawanigarh,Other,Vegetables,0.90,1000,1400,1200,2019-12-03
+Punjab,Sangrur,Dhuri,Other,Vegetables,0.20,1300,1500,1400,2019-12-03
+Punjab,Sangrur,Malerkotla,Other,Vegetables,5.00,1600,2000,1800,2019-12-03
+Punjab,Sangrur,Sangrur,Tomato,Vegetables,2.20,900,1300,1100,2019-12-03
+Punjab,Sangrur,Sunam,Tomato,Vegetables,1.00,1500,2500,2000,2019-12-03
+Punjab,Tarntaran,Patti,Other,Vegetables,0.40,1800,2200,2000,2019-12-03
+Punjab,Tarntaran,Tarantaran,Other,Vegetables,0.60,1800,3000,2500,2019-12-03
+-,-,-,-,Punjab Sub Total,515.19,-,-,-,
+-,-,-,-,Total:-,515.19,-,-,-,
+Punjab,Amritsar,Amritsar(Amritsar Mewa Mandi),Tomato,Vegetables,59.50,600,1300,1000,2019-12-04
+Punjab,Amritsar,Rayya,Hybrid,Vegetables,0.30,2500,2500,2500,2019-12-04
+Punjab,Barnala,Barnala,Other,Vegetables,1.66,1100,1260,1180,2019-12-04
+Punjab,Bhatinda,Bathinda,Other,Vegetables,20.60,1000,1500,1500,2019-12-04
+Punjab,Bhatinda,Bhagta Bhai Ka,Other,Vegetables,0.10,1800,1800,1800,2019-12-04
+Punjab,Bhatinda,Bhucho,Other,Vegetables,0.10,2500,2800,2700,2019-12-04
+Punjab,Bhatinda,Goniana,Other,Vegetables,0.15,1500,1800,1800,2019-12-04
+Punjab,Bhatinda,Maur,Other,Vegetables,0.30,1000,1300,1200,2019-12-04
+Punjab,Bhatinda,Raman,Other,Vegetables,0.30,1400,1600,1550,2019-12-04
+Punjab,Bhatinda,Talwandi Sabo,Other,Vegetables,0.20,1100,1300,1200,2019-12-04
+Punjab,Faridkot,Faridkot,Tomato,Vegetables,1.81,1200,1500,1250,2019-12-04
+Punjab,Faridkot,Jaitu,Deshi,Vegetables,0.25,1800,2200,1800,2019-12-04
+Punjab,Fatehgarh,Bassi Pathana,Tomato,Vegetables,1.50,2000,2500,2200,2019-12-04
+Punjab,Fatehgarh,Sirhind,Other,Vegetables,2.50,1300,1500,1400,2019-12-04
+Punjab,Fazilka,Abohar,Tomato,Vegetables,5.05,2073,2707,2572,2019-12-04
+Punjab,Fazilka,Jalalabad,Other,Vegetables,0.75,1300,1500,1400,2019-12-04
+Punjab,Ferozpur,Ferozepur Cantt.,Tomato,Vegetables,0.04,1100,1300,1200,2019-12-04
+Punjab,Ferozpur,Firozepur City,Other,Vegetables,4.50,1000,1500,1250,2019-12-04
+Punjab,Ferozpur,Makhu,Other,Vegetables,0.20,1300,1500,1400,2019-12-04
+Punjab,Ferozpur,Zira,Tomato,Vegetables,0.30,1300,2000,1600,2019-12-04
+Punjab,Gurdaspur,Batala,Other,Vegetables,1.90,1400,1600,1500,2019-12-04
+Punjab,Gurdaspur,Dinanagar,Tomato,Vegetables,0.80,2000,2100,2050,2019-12-04
+Punjab,Gurdaspur,Gurdaspur,Other,Vegetables,1.90,2000,2500,2200,2019-12-04
+Punjab,Hoshiarpur,Dasuya,Other,Vegetables,1.50,1500,1800,1800,2019-12-04
+Punjab,Hoshiarpur,Garh Shankar(Mahalpur),Tomato,Vegetables,1.60,1400,1800,1500,2019-12-04
+Punjab,Hoshiarpur,Hoshiarpur,Other,Vegetables,10.00,1500,2000,1800,2019-12-04
+Punjab,Hoshiarpur,Mukerian,Tomato,Vegetables,1.30,3000,4000,3400,2019-12-04
+Punjab,Hoshiarpur,Mukerian(Talwara),Tomato,Vegetables,0.30,1800,2450,2200,2019-12-04
+Punjab,Hoshiarpur,Tanda Urmur,Other,Vegetables,0.90,1300,1500,1400,2019-12-04
+Punjab,Jalandhar,Adampur,Other,Vegetables,0.80,1500,1800,1800,2019-12-04
+Punjab,Jalandhar,Goraya,Other,Vegetables,0.20,1300,1300,1300,2019-12-04
+Punjab,Jalandhar,Jalandhar City(Jalandhar),Other,Vegetables,48.80,400,1200,800,2019-12-04
+Punjab,Jalandhar,Nakodar,Other,Vegetables,0.10,1500,1500,1500,2019-12-04
+Punjab,kapurthala,Phagwara,Other,Vegetables,7.30,1000,1600,1320,2019-12-04
+Punjab,Ludhiana,Jagraon,Other,Vegetables,2.50,2200,2600,2400,2019-12-04
+Punjab,Ludhiana,Khanna,Other,Vegetables,119.00,1000,1500,1300,2019-12-04
+Punjab,Ludhiana,Sahnewal,Tomato,Vegetables,0.20,1600,2000,2000,2019-12-04
+Punjab,Ludhiana,Samrala,Other,Vegetables,1.30,1800,2000,1900,2019-12-04
+Punjab,Mansa,Mansa,Tomato,Vegetables,4.00,2000,2500,2200,2019-12-04
+Punjab,Moga,Baghapurana,Tomato,Vegetables,0.40,1500,2000,1800,2019-12-04
+Punjab,Mohali,Banur (Kheragaju),Deshi,Vegetables,0.40,1500,2000,2000,2019-12-04
+Punjab,Mohali,Dera Bassi,Other,Vegetables,0.10,2400,2600,2500,2019-12-04
+Punjab,Mohali,Kharar,Tomato,Vegetables,1.20,1200,1800,1500,2019-12-04
+Punjab,Mohali,Kurali,Other,Vegetables,1.20,2500,2700,2600,2019-12-04
+Punjab,Mohali,Lalru,Other,Vegetables,0.56,1800,2000,1800,2019-12-04
+Punjab,Muktsar,Bariwala,Other,Vegetables,0.03,1500,1500,1500,2019-12-04
+Punjab,Muktsar,Giddarbaha,Tomato,Vegetables,0.50,1300,1500,1400,2019-12-04
+Punjab,Muktsar,Malout,Tomato,Vegetables,3.30,1000,1500,1400,2019-12-04
+Punjab,Muktsar,Muktsar,Tomato,Vegetables,3.70,1200,1500,1350,2019-12-04
+Punjab,Nawanshahr,Banga,Other,Vegetables,2.50,1208,1900,1705,2019-12-04
+Punjab,Nawanshahr,Nawan Shahar(Subzi Mandi),Other,Vegetables,1.20,1500,2000,1800,2019-12-04
+Punjab,Pathankot,Pathankot,Tomato,Vegetables,36.80,1300,1500,1400,2019-12-04
+Punjab,Patiala,Nabha,Other,Vegetables,4.80,1000,1800,1400,2019-12-04
+Punjab,Patiala,Patiala,Tomato,Vegetables,25.00,2500,3500,3000,2019-12-04
+Punjab,Patiala,Patran,Other,Vegetables,2.30,1000,1200,1110,2019-12-04
+Punjab,Patiala,Rajpura,Local,Vegetables,4.80,1200,1400,1300,2019-12-04
+Punjab,Sangrur,Bhawanigarh,Other,Vegetables,1.00,1200,1400,1300,2019-12-04
+Punjab,Sangrur,Dhuri,Other,Vegetables,0.20,1400,1600,1500,2019-12-04
+Punjab,Sangrur,Khanauri,Other,Vegetables,0.30,2100,2300,2200,2019-12-04
+Punjab,Sangrur,Malerkotla,Other,Vegetables,3.50,1700,2100,1850,2019-12-04
+Punjab,Sangrur,Sangrur,Tomato,Vegetables,3.50,1200,1300,1300,2019-12-04
+Punjab,Tarntaran,Patti,Other,Vegetables,0.20,2200,3000,2500,2019-12-04
+Punjab,Tarntaran,Tarantaran,Other,Vegetables,0.60,1800,3000,2400,2019-12-04
+-,-,-,-,Punjab Sub Total,402.60,-,-,-,
+-,-,-,-,Total:-,402.60,-,-,-,
+Punjab,Amritsar,Amritsar(Amritsar Mewa Mandi),Tomato,Vegetables,95.20,600,1300,1000,2019-12-05
+Punjab,Amritsar,Rayya,Hybrid,Vegetables,0.30,2600,2600,2600,2019-12-05
+Punjab,Bhatinda,Bathinda,Other,Vegetables,20.00,1000,1500,1000,2019-12-05
+Punjab,Bhatinda,Goniana,Other,Vegetables,0.10,1500,1800,1800,2019-12-05
+Punjab,Bhatinda,Maur,Other,Vegetables,0.80,1100,1300,1200,2019-12-05
+Punjab,Bhatinda,Talwandi Sabo,Other,Vegetables,0.40,1000,1500,1200,2019-12-05
+Punjab,Faridkot,Faridkot,Tomato,Vegetables,1.80,1000,1500,1200,2019-12-05
+Punjab,Faridkot,Kotkapura,Tomato,Vegetables,2.50,2000,2500,2200,2019-12-05
+Punjab,Fatehgarh,Khamano,Tomato,Vegetables,0.20,2500,2500,2500,2019-12-05
+Punjab,Fatehgarh,Sirhind,Other,Vegetables,3.00,1200,1500,1300,2019-12-05
+Punjab,Fazilka,Abohar,Tomato,Vegetables,4.28,1207,1382,1361,2019-12-05
+Punjab,Fazilka,Jalalabad,Other,Vegetables,0.80,1500,1700,1600,2019-12-05
+Punjab,Ferozpur,Ferozepur Cantt.,Tomato,Vegetables,0.10,1100,1300,1200,2019-12-05
+Punjab,Ferozpur,Firozepur City,Other,Vegetables,4.30,1000,1400,1200,2019-12-05
+Punjab,Ferozpur,Makhu,Other,Vegetables,0.20,1300,1500,1400,2019-12-05
+Punjab,Ferozpur,Zira,Tomato,Vegetables,0.40,1300,1800,1500,2019-12-05
+Punjab,Gurdaspur,Gurdaspur,Other,Vegetables,1.70,1500,2000,1800,2019-12-05
+Punjab,Hoshiarpur,Dasuya,Other,Vegetables,1.50,1200,1500,1500,2019-12-05
+Punjab,Hoshiarpur,Garh Shankar,Deshi,Vegetables,1.28,1400,1800,1600,2019-12-05
+Punjab,Hoshiarpur,Garh Shankar(Mahalpur),Tomato,Vegetables,0.70,1400,1800,1500,2019-12-05
+Punjab,Hoshiarpur,GarhShankar (Kotfatuhi),Other,Vegetables,0.10,1500,2000,1700,2019-12-05
+Punjab,Hoshiarpur,Hoshiarpur,Other,Vegetables,12.00,1500,2000,1800,2019-12-05
+Punjab,Hoshiarpur,Mukerian,Tomato,Vegetables,1.30,3200,4000,3600,2019-12-05
+Punjab,Hoshiarpur,Mukerian(Talwara),Tomato,Vegetables,0.28,1800,2350,2100,2019-12-05
+Punjab,Jalandhar,Adampur,Other,Vegetables,0.80,1500,1800,1800,2019-12-05
+Punjab,Jalandhar,Goraya,Other,Vegetables,0.20,1300,1300,1300,2019-12-05
+Punjab,Jalandhar,Jalandhar City(Jalandhar),Other,Vegetables,58.70,400,1100,750,2019-12-05
+Punjab,Jalandhar,Lohian Khas,Other,Vegetables,0.20,1800,2000,1900,2019-12-05
+Punjab,Jalandhar,Mehatpur,Local,Vegetables,0.06,3000,3000,3000,2019-12-05
+Punjab,kapurthala,Phagwara,Other,Vegetables,10.00,1200,1375,1336,2019-12-05
+Punjab,Ludhiana,Jagraon,Other,Vegetables,2.50,2200,2600,2400,2019-12-05
+Punjab,Ludhiana,Khanna,Other,Vegetables,164.00,1000,1500,1300,2019-12-05
+Punjab,Ludhiana,Sahnewal,Tomato,Vegetables,0.10,1400,1400,1400,2019-12-05
+Punjab,Ludhiana,Samrala,Other,Vegetables,1.50,1800,2200,2000,2019-12-05
+Punjab,Mansa,Mansa,Tomato,Vegetables,3.00,1400,2000,1700,2019-12-05
+Punjab,Moga,Baghapurana,Tomato,Vegetables,0.50,1500,2000,1800,2019-12-05
+Punjab,Mohali,Banur (Kheragaju),Deshi,Vegetables,0.50,1500,1600,1600,2019-12-05
+Punjab,Mohali,Dera Bassi,Other,Vegetables,0.10,1800,2200,2000,2019-12-05
+Punjab,Mohali,Kharar,Tomato,Vegetables,1.20,1200,1800,1500,2019-12-05
+Punjab,Mohali,Kurali,Other,Vegetables,1.10,2000,2200,2100,2019-12-05
+Punjab,Mohali,Lalru,Other,Vegetables,0.56,1500,2000,1600,2019-12-05
+Punjab,Muktsar,Bariwala,Other,Vegetables,0.03,1300,1300,1300,2019-12-05
+Punjab,Muktsar,Giddarbaha,Tomato,Vegetables,0.50,1300,1500,1400,2019-12-05
+Punjab,Muktsar,Muktsar,Tomato,Vegetables,4.00,1000,1300,1150,2019-12-05
+Punjab,Nawanshahr,Banga,Other,Vegetables,2.10,1746,2033,2000,2019-12-05
+Punjab,Nawanshahr,Nawan Shahar(Mandi Aur),Tomato,Vegetables,0.01,1800,1800,1800,2019-12-05
+Punjab,Nawanshahr,Nawan Shahar(MandiRaho),Other,Vegetables,0.02,2800,2800,2800,2019-12-05
+Punjab,Nawanshahr,Nawan Shahar(Subzi Mandi),Other,Vegetables,1.70,1500,2000,1800,2019-12-05
+Punjab,Pathankot,Pathankot,Tomato,Vegetables,26.60,1000,1500,1250,2019-12-05
+Punjab,Patiala,Dudhansadhan,Other,Vegetables,0.20,1000,1500,1300,2019-12-05
+Punjab,Patiala,Nabha,Other,Vegetables,6.20,1000,1800,1400,2019-12-05
+Punjab,Patiala,Patiala,Tomato,Vegetables,25.20,2500,3500,3000,2019-12-05
+Punjab,Patiala,Patran,Other,Vegetables,2.60,1000,1200,1117,2019-12-05
+Punjab,Patiala,Rajpura,Local,Vegetables,4.70,1400,2000,1700,2019-12-05
+Punjab,Ropar (Rupnagar),Morinda,Deshi,Vegetables,2.10,1800,2000,1900,2019-12-05
+Punjab,Sangrur,Bhawanigarh,Other,Vegetables,1.30,1200,1400,1300,2019-12-05
+Punjab,Sangrur,Dhuri,Other,Vegetables,0.20,1400,1600,1500,2019-12-05
+Punjab,Sangrur,Khanauri,Other,Vegetables,0.20,1600,1800,1700,2019-12-05
+Punjab,Sangrur,Lehra Gaga,Other,Vegetables,0.40,3000,3000,3000,2019-12-05
+Punjab,Sangrur,Malerkotla,Other,Vegetables,4.00,1600,2000,1800,2019-12-05
+Punjab,Sangrur,Sangrur,Tomato,Vegetables,2.50,1200,1400,1300,2019-12-05
+Punjab,Sangrur,Sunam,Tomato,Vegetables,1.00,1500,2000,1800,2019-12-05
+Punjab,Tarntaran,Patti,Other,Vegetables,0.10,1800,2200,2000,2019-12-05
+Punjab,Tarntaran,Tarantaran,Other,Vegetables,0.70,1800,3000,2400,2019-12-05
+-,-,-,-,Punjab Sub Total,484.62,-,-,-,
+-,-,-,-,Total:-,484.62,-,-,-,
+Punjab,Amritsar,Amritsar(Amritsar Mewa Mandi),Tomato,Vegetables,83.10,600,1300,1000,2019-12-06
+Punjab,Amritsar,Rayya,Hybrid,Vegetables,0.30,2500,2500,2500,2019-12-06
+Punjab,Barnala,Barnala,Other,Vegetables,3.51,1200,1350,1275,2019-12-06
+Punjab,Bhatinda,Bathinda,Other,Vegetables,20.00,1000,1500,1200,2019-12-06
+Punjab,Bhatinda,Bhagta Bhai Ka,Other,Vegetables,0.10,1800,1800,1800,2019-12-06
+Punjab,Bhatinda,Goniana,Other,Vegetables,0.20,1800,2000,2000,2019-12-06
+Punjab,Bhatinda,Maur,Other,Vegetables,0.40,1100,1400,1200,2019-12-06
+Punjab,Bhatinda,Raman,Other,Vegetables,0.40,1300,1550,1500,2019-12-06
+Punjab,Bhatinda,Talwandi Sabo,Other,Vegetables,0.30,1200,2000,1500,2019-12-06
+Punjab,Faridkot,Faridkot,Tomato,Vegetables,1.33,1000,1500,1200,2019-12-06
+Punjab,Faridkot,Jaitu,Deshi,Vegetables,0.11,1800,1800,1800,2019-12-06
+Punjab,Fatehgarh,Sirhind,Other,Vegetables,3.10,1200,1600,1400,2019-12-06
+Punjab,Fazilka,Abohar,Tomato,Vegetables,7.18,1047,1781,1300,2019-12-06
+Punjab,Fazilka,Jalalabad,Other,Vegetables,0.48,900,1100,1000,2019-12-06
+Punjab,Ferozpur,Ferozepur Cantt.,Tomato,Vegetables,0.07,1200,1400,1300,2019-12-06
+Punjab,Ferozpur,Firozepur City,Other,Vegetables,4.80,1000,1350,1150,2019-12-06
+Punjab,Ferozpur,Guru Har Sahai,Tomato,Vegetables,1.01,1400,1600,1500,2019-12-06
+Punjab,Ferozpur,Zira,Tomato,Vegetables,0.30,1200,1700,1500,2019-12-06
+Punjab,Gurdaspur,Dinanagar,Tomato,Vegetables,1.20,1600,1800,1700,2019-12-06
+Punjab,Gurdaspur,Gurdaspur,Other,Vegetables,1.80,1500,1800,1600,2019-12-06
+Punjab,Hoshiarpur,Dasuya,Other,Vegetables,1.30,1200,1800,1800,2019-12-06
+Punjab,Hoshiarpur,Garh Shankar,Deshi,Vegetables,1.64,1500,2000,1800,2019-12-06
+Punjab,Hoshiarpur,Garh Shankar(Mahalpur),Tomato,Vegetables,1.90,1400,1800,1700,2019-12-06
+Punjab,Hoshiarpur,GarhShankar (Kotfatuhi),Other,Vegetables,0.10,2000,2200,2100,2019-12-06
+Punjab,Hoshiarpur,Mukerian(Talwara),Tomato,Vegetables,0.33,1800,2450,2200,2019-12-06
+Punjab,Hoshiarpur,Tanda Urmur,Other,Vegetables,0.80,1700,2000,1800,2019-12-06
+Punjab,Jalandhar,Adampur,Other,Vegetables,0.80,1500,1800,1800,2019-12-06
+Punjab,Jalandhar,Goraya,Other,Vegetables,0.20,1200,1200,1200,2019-12-06
+Punjab,Jalandhar,Jalandhar City(Jalandhar),Other,Vegetables,61.80,400,900,800,2019-12-06
+Punjab,Jalandhar,Lohian Khas,Other,Vegetables,0.20,180,2000,1900,2019-12-06
+Punjab,kapurthala,Phagwara,Other,Vegetables,11.50,1183,1375,1183,2019-12-06
+Punjab,Ludhiana,Jagraon,Other,Vegetables,2.00,2500,2800,2600,2019-12-06
+Punjab,Ludhiana,Khanna,Other,Vegetables,45.00,1000,1500,1300,2019-12-06
+Punjab,Ludhiana,Sahnewal,Tomato,Vegetables,0.10,1520,1520,1520,2019-12-06
+Punjab,Ludhiana,Samrala,Other,Vegetables,2.00,1800,2000,1900,2019-12-06
+Punjab,Moga,Baghapurana,Tomato,Vegetables,0.60,1500,2000,1800,2019-12-06
+Punjab,Mohali,Banur (Kheragaju),Deshi,Vegetables,0.40,1800,2000,2000,2019-12-06
+Punjab,Mohali,Dera Bassi,Other,Vegetables,0.10,1800,2000,1900,2019-12-06
+Punjab,Mohali,Kharar,Tomato,Vegetables,1.50,1800,2000,1900,2019-12-06
+Punjab,Mohali,Kurali,Other,Vegetables,1.00,2000,2200,2100,2019-12-06
+Punjab,Mohali,Lalru,Other,Vegetables,0.57,1400,2000,1500,2019-12-06
+Punjab,Muktsar,Bariwala,Other,Vegetables,0.03,1400,1400,1400,2019-12-06
+Punjab,Muktsar,Giddarbaha,Tomato,Vegetables,0.50,1200,1500,1400,2019-12-06
+Punjab,Muktsar,Malout,Tomato,Vegetables,1.90,1000,1300,1200,2019-12-06
+Punjab,Muktsar,Muktsar,Tomato,Vegetables,2.00,1500,1800,1600,2019-12-06
+Punjab,Nawanshahr,Banga,Other,Vegetables,2.10,1433,1763,1700,2019-12-06
+Punjab,Nawanshahr,Nawan Shahar(MandiRaho),Other,Vegetables,0.01,2000,2000,2000,2019-12-06
+Punjab,Nawanshahr,Nawan Shahar(Subzi Mandi),Other,Vegetables,1.50,1500,2000,1800,2019-12-06
+Punjab,Pathankot,Pathankot,Tomato,Vegetables,25.00,1300,1500,1400,2019-12-06
+Punjab,Patiala,Dudhansadhan,Other,Vegetables,0.30,1000,1200,1100,2019-12-06
+Punjab,Patiala,Nabha,Other,Vegetables,4.90,900,1600,1100,2019-12-06
+Punjab,Patiala,Patiala,Tomato,Vegetables,25.50,2500,3500,3000,2019-12-06
+Punjab,Patiala,Rajpura,Local,Vegetables,4.40,1200,1800,1500,2019-12-06
+Punjab,Sangrur,Bhawanigarh,Other,Vegetables,1.30,1200,1400,1300,2019-12-06
+Punjab,Sangrur,Dhuri,Other,Vegetables,0.20,1400,1600,1500,2019-12-06
+Punjab,Sangrur,Khanauri,Other,Vegetables,0.40,1400,1600,1500,2019-12-06
+Punjab,Sangrur,Lehra Gaga,Other,Vegetables,0.40,3000,3000,3000,2019-12-06
+Punjab,Sangrur,Sunam,Tomato,Vegetables,1.50,1500,2000,1800,2019-12-06
+Punjab,Tarntaran,Patti,Other,Vegetables,0.29,2000,2800,2400,2019-12-06
+Punjab,Tarntaran,Tarantaran,Other,Vegetables,0.80,1800,3000,2400,2019-12-06
+-,-,-,-,Punjab Sub Total,336.56,-,-,-,
+-,-,-,-,Total:-,336.56,-,-,-,
+Punjab,Amritsar,Amritsar(Amritsar Mewa Mandi),Tomato,Vegetables,68.50,600,1300,1000,2019-12-07
+Punjab,Barnala,Barnala,Other,Vegetables,5.55,800,1200,1000,2019-12-07
+Punjab,Bhatinda,Goniana,Other,Vegetables,0.40,1400,1500,1500,2019-12-07
+Punjab,Bhatinda,Maur,Other,Vegetables,0.50,1000,1200,1100,2019-12-07
+Punjab,Bhatinda,Talwandi Sabo,Other,Vegetables,0.30,1100,1500,1200,2019-12-07
+Punjab,Faridkot,Faridkot,Tomato,Vegetables,1.54,1000,1500,1200,2019-12-07
+Punjab,Faridkot,Kotkapura,Tomato,Vegetables,2.20,1200,1500,1400,2019-12-07
+Punjab,Fatehgarh,Bassi Pathana,Tomato,Vegetables,1.50,2000,2500,2200,2019-12-07
+Punjab,Fatehgarh,Sirhind,Other,Vegetables,3.40,1200,1500,1300,2019-12-07
+Punjab,Fazilka,Abohar,Tomato,Vegetables,8.00,1098,1670,1500,2019-12-07
+Punjab,Fazilka,Jalalabad,Other,Vegetables,0.99,1000,1200,1100,2019-12-07
+Punjab,Ferozpur,Ferozepur Cantt.,Tomato,Vegetables,0.04,1100,1300,1200,2019-12-07
+Punjab,Ferozpur,Guru Har Sahai,Tomato,Vegetables,1.20,1500,1600,1500,2019-12-07
+Punjab,Ferozpur,Zira,Tomato,Vegetables,0.30,1200,1700,1500,2019-12-07
+Punjab,Gurdaspur,Batala,Other,Vegetables,3.50,1600,2000,1800,2019-12-07
+Punjab,Gurdaspur,Dinanagar,Tomato,Vegetables,1.30,1500,1650,1600,2019-12-07
+Punjab,Gurdaspur,F.G.Churian,Tomato,Vegetables,0.33,1980,2000,1990,2019-12-07
+Punjab,Gurdaspur,Gurdaspur,Other,Vegetables,1.60,1500,2000,1800,2019-12-07
+Punjab,Hoshiarpur,Dasuya,Other,Vegetables,1.50,1500,1700,1700,2019-12-07
+Punjab,Hoshiarpur,Garh Shankar(Mahalpur),Tomato,Vegetables,1.90,1400,1800,1700,2019-12-07
+Punjab,Hoshiarpur,Mukerian,Tomato,Vegetables,1.50,2000,3000,2600,2019-12-07
+Punjab,Hoshiarpur,Mukerian(Talwara),Tomato,Vegetables,0.30,1500,2150,1800,2019-12-07
+Punjab,Jalandhar,Adampur,Other,Vegetables,0.90,1500,1800,1800,2019-12-07
+Punjab,Jalandhar,Jalandhar City(Jalandhar),Other,Vegetables,75.00,400,1200,700,2019-12-07
+Punjab,Jalandhar,Mehatpur,Deshi,Vegetables,0.11,2000,2000,2000,2019-12-07
+Punjab,Ludhiana,Jagraon,Other,Vegetables,2.50,2200,2600,2400,2019-12-07
+Punjab,Ludhiana,Khanna,Other,Vegetables,80.00,1000,1300,1200,2019-12-07
+Punjab,Ludhiana,Sahnewal,Tomato,Vegetables,0.50,1240,1280,1280,2019-12-07
+Punjab,Ludhiana,Samrala,Other,Vegetables,1.20,2000,2500,2200,2019-12-07
+Punjab,Moga,Baghapurana,Tomato,Vegetables,0.50,1500,2000,1800,2019-12-07
+Punjab,Moga,Moga,Other,Vegetables,5.30,1200,2000,1500,2019-12-07
+Punjab,Mohali,Banur (Kheragaju),Deshi,Vegetables,0.40,1500,2000,2000,2019-12-07
+Punjab,Mohali,Dera Bassi,Other,Vegetables,0.10,1800,2200,2000,2019-12-07
+Punjab,Mohali,Kharar,Tomato,Vegetables,1.40,1800,2000,1900,2019-12-07
+Punjab,Mohali,Lalru,Other,Vegetables,0.58,1500,2100,2000,2019-12-07
+Punjab,Muktsar,Bariwala,Other,Vegetables,0.01,2000,2000,2000,2019-12-07
+Punjab,Muktsar,Giddarbaha,Tomato,Vegetables,0.50,1300,1500,1400,2019-12-07
+Punjab,Muktsar,Muktsar,Tomato,Vegetables,2.00,1500,1800,1600,2019-12-07
+Punjab,Nawanshahr,Banga,Other,Vegetables,3.50,1300,2000,1528,2019-12-07
+Punjab,Nawanshahr,Nawan Shahar(Subzi Mandi),Other,Vegetables,1.20,2000,2500,2300,2019-12-07
+Punjab,Patiala,Nabha,Other,Vegetables,6.10,1000,1700,1300,2019-12-07
+Punjab,Patiala,Patiala,Tomato,Vegetables,26.00,1200,1400,1300,2019-12-07
+Punjab,Patiala,Patran,Other,Vegetables,1.50,800,1200,1030,2019-12-07
+Punjab,Patiala,Rajpura,Local,Vegetables,4.20,1400,2000,1700,2019-12-07
+Punjab,Sangrur,Bhawanigarh,Other,Vegetables,1.10,1200,1400,1300,2019-12-07
+Punjab,Sangrur,Dhuri,Other,Vegetables,0.20,1200,1400,1300,2019-12-07
+Punjab,Sangrur,Khanauri,Other,Vegetables,0.20,1400,1700,1600,2019-12-07
+Punjab,Sangrur,Lehra Gaga,Other,Vegetables,0.26,2500,3000,3000,2019-12-07
+Punjab,Sangrur,Malerkotla,Other,Vegetables,4.50,1500,1800,1600,2019-12-07
+Punjab,Sangrur,Sangrur,Tomato,Vegetables,1.00,1400,1400,1400,2019-12-07
+Punjab,Sangrur,Sunam,Tomato,Vegetables,0.80,1000,2000,1500,2019-12-07
+Punjab,Tarntaran,Patti,Other,Vegetables,0.35,2400,3000,2700,2019-12-07
+Punjab,Tarntaran,Tarantaran,Other,Vegetables,0.80,2000,2500,2300,2019-12-07
+-,-,-,-,Punjab Sub Total,329.06,-,-,-,
+-,-,-,-,Total:-,329.06,-,-,-,
+Punjab,Bhatinda,Maur,Other,Vegetables,0.50,1100,1300,1200,2019-12-08
+Punjab,Bhatinda,Talwandi Sabo,Other,Vegetables,0.30,1400,1500,1500,2019-12-08
+Punjab,Fatehgarh,Bassi Pathana,Tomato,Vegetables,0.40,2000,2500,2200,2019-12-08
+Punjab,Ferozpur,Ferozepur Cantt.,Tomato,Vegetables,0.06,1100,1300,1200,2019-12-08
+Punjab,Ferozpur,Makhu,Other,Vegetables,0.20,1300,1500,1400,2019-12-08
+Punjab,Ferozpur,Zira,Tomato,Vegetables,0.20,1500,1800,1600,2019-12-08
+Punjab,Hoshiarpur,Mukerian,Tomato,Vegetables,1.40,2000,2600,2400,2019-12-08
+Punjab,Jalandhar,Lohian Khas,Other,Vegetables,0.20,1800,2000,1900,2019-12-08
+Punjab,Jalandhar,Mehatpur,Deshi,Vegetables,0.11,2000,2000,2000,2019-12-08
+Punjab,Mansa,Mansa,Tomato,Vegetables,2.00,1400,2000,1800,2019-12-08
+Punjab,Mansa,Sardulgarh,Tomato,Vegetables,0.80,1200,1500,1300,2019-12-08
+Punjab,Mohali,Banur (Kheragaju),Deshi,Vegetables,0.40,1500,2000,2000,2019-12-08
+Punjab,Mohali,Dera Bassi,Other,Vegetables,0.10,1800,2200,2000,2019-12-08
+Punjab,Mohali,Kharar,Tomato,Vegetables,1.20,1800,2000,1900,2019-12-08
+Punjab,Mohali,Lalru,Other,Vegetables,0.59,1200,1800,1200,2019-12-08
+Punjab,Muktsar,Malout,Tomato,Vegetables,3.10,1000,1500,1200,2019-12-08
+Punjab,Muktsar,Muktsar,Tomato,Vegetables,0.50,1200,1500,1400,2019-12-08
+Punjab,Nawanshahr,Balachaur,Other,Vegetables,1.10,1800,1900,1850,2019-12-08
+Punjab,Nawanshahr,Banga,Other,Vegetables,4.40,1229,1800,1524,2019-12-08
+Punjab,Patiala,Nabha,Other,Vegetables,6.00,900,1700,1200,2019-12-08
+Punjab,Patiala,Patran,Other,Vegetables,1.60,900,1100,1021,2019-12-08
+Punjab,Patiala,Rajpura,Local,Vegetables,4.17,1300,2000,1700,2019-12-08
+Punjab,Sangrur,Bhawanigarh,Other,Vegetables,1.10,1100,1300,1200,2019-12-08
+Punjab,Sangrur,Malerkotla,Other,Vegetables,5.00,1500,1800,1600,2019-12-08
+Punjab,Sangrur,Sangrur,Tomato,Vegetables,2.40,1100,1200,1200,2019-12-08
+Punjab,Sangrur,Sunam,Tomato,Vegetables,1.00,1500,2500,2000,2019-12-08
+Punjab,Tarntaran,Patti,Other,Vegetables,0.20,2000,2800,2400,2019-12-08
+-,-,-,-,Punjab Sub Total,39.03,-,-,-,
+-,-,-,-,Total:-,39.03,-,-,-,
+Punjab,Amritsar,Amritsar(Amritsar Mewa Mandi),Tomato,Vegetables,113.30,600,1200,900,2019-12-09
+Punjab,Amritsar,Rayya,Hybrid,Vegetables,0.35,2500,2500,2500,2019-12-09
+Punjab,Barnala,Barnala,Other,Vegetables,5.96,1000,1100,1050,2019-12-09
+Punjab,Bhatinda,Bathinda,Other,Vegetables,20.00,1000,1500,1200,2019-12-09
+Punjab,Bhatinda,Bhagta Bhai Ka,Other,Vegetables,0.20,2000,2000,2000,2019-12-09
+Punjab,Bhatinda,Goniana,Other,Vegetables,0.20,1400,1500,1500,2019-12-09
+Punjab,Bhatinda,Talwandi Sabo,Other,Vegetables,0.20,1000,1500,1300,2019-12-09
+Punjab,Faridkot,Faridkot,Tomato,Vegetables,2.40,1000,1500,1250,2019-12-09
+Punjab,Faridkot,Jaitu,Deshi,Vegetables,0.15,1400,1400,1400,2019-12-09
+Punjab,Faridkot,Kotkapura,Tomato,Vegetables,1.80,1200,1800,1500,2019-12-09
+Punjab,Fatehgarh,Bassi Pathana,Tomato,Vegetables,1.00,2000,2500,2200,2019-12-09
+Punjab,Fatehgarh,Khamano,Tomato,Vegetables,0.20,2000,2000,2000,2019-12-09
+Punjab,Fatehgarh,Sirhind,Other,Vegetables,4.00,1000,1500,1300,2019-12-09
+Punjab,Fazilka,Jalalabad,Other,Vegetables,1.09,1300,1500,1400,2019-12-09
+Punjab,Ferozpur,Ferozepur Cantt.,Tomato,Vegetables,0.07,1200,1400,1300,2019-12-09
+Punjab,Ferozpur,Firozepur City,Other,Vegetables,7.60,1000,1350,1175,2019-12-09
+Punjab,Ferozpur,Guru Har Sahai,Tomato,Vegetables,1.20,1400,1600,1500,2019-12-09
+Punjab,Ferozpur,Makhu,Other,Vegetables,0.20,1300,1500,1400,2019-12-09
+Punjab,Ferozpur,Mamdot,Other,Vegetables,0.50,1700,1800,1756,2019-12-09
+Punjab,Ferozpur,Zira,Tomato,Vegetables,0.20,1300,1800,1500,2019-12-09
+Punjab,Gurdaspur,Dera Baba Nanak,Tomato,Vegetables,0.10,1800,2000,1900,2019-12-09
+Punjab,Gurdaspur,Dinanagar,Tomato,Vegetables,1.20,1800,2200,2000,2019-12-09
+Punjab,Gurdaspur,Gurdaspur,Other,Vegetables,1.80,1300,1500,1400,2019-12-09
+Punjab,Hoshiarpur,Dasuya,Other,Vegetables,1.50,1200,1500,1500,2019-12-09
+Punjab,Hoshiarpur,Garh Shankar,Deshi,Vegetables,1.66,1500,1800,1700,2019-12-09
+Punjab,Hoshiarpur,Garh Shankar(Mahalpur),Tomato,Vegetables,2.00,1400,1800,1700,2019-12-09
+Punjab,Hoshiarpur,GarhShankar (Kotfatuhi),Other,Vegetables,0.10,2000,2200,2100,2019-12-09
+Punjab,Hoshiarpur,Hoshiarpur,Other,Vegetables,12.00,1500,1700,1600,2019-12-09
+Punjab,Hoshiarpur,Mukerian,Tomato,Vegetables,1.70,2000,3000,2500,2019-12-09
+Punjab,Hoshiarpur,Mukerian(Talwara),Tomato,Vegetables,0.28,1700,2250,1900,2019-12-09
+Punjab,Hoshiarpur,Tanda Urmur,Other,Vegetables,1.80,1200,1600,1400,2019-12-09
+Punjab,Jalandhar,Adampur,Other,Vegetables,0.90,1500,1800,1800,2019-12-09
+Punjab,Jalandhar,Goraya,Other,Vegetables,0.20,1200,1200,1200,2019-12-09
+Punjab,Jalandhar,Jalandhar City(Jalandhar),Other,Vegetables,113.80,400,1100,700,2019-12-09
+Punjab,Jalandhar,Lohian Khas,Other,Vegetables,0.20,180,2000,190,2019-12-09
+Punjab,Jalandhar,Mehatpur,Local,Vegetables,0.30,800,800,800,2019-12-09
+Punjab,kapurthala,Phagwara,Other,Vegetables,14.00,1081,1200,1200,2019-12-09
+Punjab,Ludhiana,Jagraon,Other,Vegetables,1.50,2400,2800,2600,2019-12-09
+Punjab,Ludhiana,Khanna,Other,Vegetables,118.00,1000,1500,1200,2019-12-09
+Punjab,Ludhiana,Sahnewal,Tomato,Vegetables,0.90,1500,1500,1500,2019-12-09
+Punjab,Ludhiana,Samrala,Other,Vegetables,2.20,2000,2500,2200,2019-12-09
+Punjab,Mansa,Mansa,Tomato,Vegetables,1.20,1400,2000,1600,2019-12-09
+Punjab,Mansa,Sardulgarh,Tomato,Vegetables,0.30,1300,1500,1400,2019-12-09
+Punjab,Moga,Baghapurana,Tomato,Vegetables,0.40,1500,2000,1800,2019-12-09
+Punjab,Mohali,Banur (Kheragaju),Deshi,Vegetables,0.50,1500,1800,1800,2019-12-09
+Punjab,Mohali,Dera Bassi,Other,Vegetables,0.10,1800,2200,2000,2019-12-09
+Punjab,Mohali,Kharar,Tomato,Vegetables,1.50,1500,2000,1800,2019-12-09
+Punjab,Mohali,Kurali,Other,Vegetables,1.40,1500,1700,1600,2019-12-09
+Punjab,Mohali,Lalru,Other,Vegetables,0.59,1000,2000,1600,2019-12-09
+Punjab,Muktsar,Bariwala,Other,Vegetables,0.03,1500,1500,1500,2019-12-09
+Punjab,Muktsar,Giddarbaha,Tomato,Vegetables,0.60,1200,1400,1300,2019-12-09
+Punjab,Muktsar,Malout,Tomato,Vegetables,2.90,1200,1500,1300,2019-12-09
+Punjab,Nawanshahr,Balachaur,Other,Vegetables,1.20,2000,2000,2000,2019-12-09
+Punjab,Nawanshahr,Nawan Shahar(Subzi Mandi),Other,Vegetables,1.40,2000,2500,2300,2019-12-09
+Punjab,Pathankot,Pathankot,Tomato,Vegetables,24.72,1000,1500,1200,2019-12-09
+Punjab,Patiala,Patiala,Tomato,Vegetables,25.00,1200,1400,1300,2019-12-09
+Punjab,Patiala,Patran,Other,Vegetables,2.30,1800,2300,1880,2019-12-09
+Punjab,Patiala,Rajpura,Local,Vegetables,3.60,1200,2000,1600,2019-12-09
+Punjab,Patiala,Samana,Hybrid,Vegetables,1.28,1200,2000,1600,2019-12-09
+Punjab,Sangrur,Malerkotla,Other,Vegetables,5.50,1350,1650,1500,2019-12-09
+Punjab,Sangrur,Sangrur,Tomato,Vegetables,0.90,800,1000,1000,2019-12-09
+Punjab,Sangrur,Sunam,Tomato,Vegetables,1.00,1500,2000,1800,2019-12-09
+Punjab,Tarntaran,Patti,Other,Vegetables,0.35,2000,2600,2400,2019-12-09
+Punjab,Tarntaran,Tarantaran,Other,Vegetables,0.50,3000,3500,3250,2019-12-09
+-,-,-,-,Punjab Sub Total,514.03,-,-,-,
+-,-,-,-,Total:-,514.03,-,-,-,
+Punjab,Amritsar,Amritsar(Amritsar Mewa Mandi),Tomato,Vegetables,132.20,600,1200,900,2019-12-10
+Punjab,Amritsar,Rayya,Hybrid,Vegetables,0.30,2600,2600,2600,2019-12-10
+Punjab,Barnala,Barnala,Other,Vegetables,5.55,1100,1500,1300,2019-12-10
+Punjab,Bhatinda,Bhagta Bhai Ka,Other,Vegetables,0.10,1900,1900,1900,2019-12-10
+Punjab,Bhatinda,Goniana,Other,Vegetables,0.20,1500,1600,1600,2019-12-10
+Punjab,Bhatinda,Talwandi Sabo,Other,Vegetables,0.30,1000,1500,1500,2019-12-10
+Punjab,Faridkot,Faridkot,Tomato,Vegetables,1.81,1300,1300,1300,2019-12-10
+Punjab,Faridkot,Jaitu,Deshi,Vegetables,0.11,1300,1300,1300,2019-12-10
+Punjab,Fatehgarh,Bassi Pathana,Tomato,Vegetables,1.50,2000,2500,2200,2019-12-10
+Punjab,Fatehgarh,Sirhind,Other,Vegetables,2.50,1200,1500,1400,2019-12-10
+Punjab,Fazilka,Abohar,Tomato,Vegetables,5.86,1275,1374,1300,2019-12-10
+Punjab,Fazilka,Jalalabad,Other,Vegetables,1.02,1000,1300,1100,2019-12-10
+Punjab,Ferozpur,Firozepur City,Other,Vegetables,5.10,1000,1400,1200,2019-12-10
+Punjab,Ferozpur,Guru Har Sahai,Tomato,Vegetables,1.05,1500,1600,1500,2019-12-10
+Punjab,Ferozpur,Makhu,Other,Vegetables,0.20,1300,1500,1400,2019-12-10
+Punjab,Ferozpur,Zira,Tomato,Vegetables,0.40,1300,1700,1500,2019-12-10
+Punjab,Gurdaspur,Batala,Other,Vegetables,2.00,1400,1600,1500,2019-12-10
+Punjab,Gurdaspur,Dinanagar,Tomato,Vegetables,1.00,2000,2200,2100,2019-12-10
+Punjab,Gurdaspur,Gurdaspur,Other,Vegetables,1.60,1500,2500,2000,2019-12-10
+Punjab,Hoshiarpur,Dasuya,Other,Vegetables,2.00,1000,1500,1500,2019-12-10
+Punjab,Hoshiarpur,Garh Shankar,Deshi,Vegetables,0.74,1500,1800,1700,2019-12-10
+Punjab,Hoshiarpur,Garh Shankar(Mahalpur),Tomato,Vegetables,2.50,1400,1800,1700,2019-12-10
+Punjab,Hoshiarpur,Hoshiarpur,Other,Vegetables,11.00,1500,1700,1600,2019-12-10
+Punjab,Hoshiarpur,Mukerian,Tomato,Vegetables,1.20,2200,3000,2600,2019-12-10
+Punjab,Hoshiarpur,Mukerian(Talwara),Tomato,Vegetables,0.30,1500,2250,1900,2019-12-10
+Punjab,Hoshiarpur,Tanda Urmur,Other,Vegetables,1.50,1300,1600,1500,2019-12-10
+Punjab,Jalandhar,Adampur,Other,Vegetables,0.50,1500,1800,1800,2019-12-10
+Punjab,Jalandhar,Goraya,Other,Vegetables,0.20,1200,1200,1200,2019-12-10
+Punjab,Jalandhar,Jalandhar City(Jalandhar),Other,Vegetables,68.90,400,800,600,2019-12-10
+Punjab,kapurthala,Phagwara,Other,Vegetables,7.50,1200,1400,1214,2019-12-10
+Punjab,Ludhiana,Jagraon,Other,Vegetables,2.00,1300,1500,1400,2019-12-10
+Punjab,Ludhiana,Khanna,Other,Vegetables,84.00,1000,1400,1200,2019-12-10
+Punjab,Ludhiana,Sahnewal,Tomato,Vegetables,0.20,1538,1640,1640,2019-12-10
+Punjab,Ludhiana,Samrala,Other,Vegetables,1.80,1200,1500,1400,2019-12-10
+Punjab,Mansa,Mansa,Tomato,Vegetables,2.00,1800,2200,2000,2019-12-10
+Punjab,Moga,Baghapurana,Tomato,Vegetables,0.50,1500,2000,1800,2019-12-10
+Punjab,Moga,Moga,Other,Vegetables,9.20,1200,1400,1300,2019-12-10
+Punjab,Mohali,Banur (Kheragaju),Deshi,Vegetables,0.40,1500,2000,2000,2019-12-10
+Punjab,Mohali,Dera Bassi,Other,Vegetables,0.10,1800,2200,2000,2019-12-10
+Punjab,Mohali,Kharar,Tomato,Vegetables,0.80,1500,2000,1800,2019-12-10
+Punjab,Mohali,Kurali,Other,Vegetables,1.00,1600,1800,1700,2019-12-10
+Punjab,Mohali,Lalru,Other,Vegetables,0.55,1500,2000,2000,2019-12-10
+Punjab,Muktsar,Bariwala,Other,Vegetables,0.02,1200,1200,1200,2019-12-10
+Punjab,Muktsar,Giddarbaha,Tomato,Vegetables,0.50,1000,1400,1200,2019-12-10
+Punjab,Muktsar,Malout,Tomato,Vegetables,2.10,1000,1600,1500,2019-12-10
+Punjab,Nawanshahr,Banga,Other,Vegetables,3.30,1177,1800,1660,2019-12-10
+Punjab,Nawanshahr,Nawan Shahar(MandiRaho),Other,Vegetables,0.01,2500,2500,2500,2019-12-10
+Punjab,Nawanshahr,Nawan Shahar(Subzi Mandi),Other,Vegetables,1.75,2000,2500,2300,2019-12-10
+Punjab,Pathankot,Pathankot,Tomato,Vegetables,37.50,1200,1400,1300,2019-12-10
+Punjab,Patiala,Dudhansadhan,Other,Vegetables,0.20,1000,1600,1400,2019-12-10
+Punjab,Patiala,Nabha,Other,Vegetables,4.70,900,1600,1100,2019-12-10
+Punjab,Patiala,Patiala,Tomato,Vegetables,25.00,1200,1400,1300,2019-12-10
+Punjab,Patiala,Patran,Other,Vegetables,3.00,800,1000,940,2019-12-10
+Punjab,Sangrur,Lehra Gaga,Other,Vegetables,0.24,1000,2000,2000,2019-12-10
+Punjab,Sangrur,Malerkotla,Other,Vegetables,7.00,1350,1600,1500,2019-12-10
+Punjab,Sangrur,Sangrur,Tomato,Vegetables,8.10,1200,1200,1200,2019-12-10
+Punjab,Tarntaran,Patti,Other,Vegetables,0.26,2000,3100,2500,2019-12-10
+Punjab,Tarntaran,Tarantaran,Other,Vegetables,0.50,3000,3500,3250,2019-12-10
+-,-,-,-,Punjab Sub Total,455.87,-,-,-,
+-,-,-,-,Total:-,455.87,-,-,-,
+Punjab,Amritsar,Amritsar(Amritsar Mewa Mandi),Tomato,Vegetables,31.00,500,1500,1100,2019-12-11
+Punjab,Amritsar,Rayya,Hybrid,Vegetables,0.25,2500,2500,2500,2019-12-11
+Punjab,Barnala,Barnala,Other,Vegetables,3.38,1000,1300,1150,2019-12-11
+Punjab,Bhatinda,Bhucho,Other,Vegetables,0.15,2000,2200,2100,2019-12-11
+Punjab,Bhatinda,Goniana,Other,Vegetables,0.10,1400,1500,1500,2019-12-11
+Punjab,Bhatinda,Maur,Other,Vegetables,0.70,1000,1200,1100,2019-12-11
+Punjab,Bhatinda,Talwandi Sabo,Other,Vegetables,0.40,1000,1500,1500,2019-12-11
+Punjab,Faridkot,Faridkot,Tomato,Vegetables,2.20,1000,1500,1200,2019-12-11
+Punjab,Faridkot,Jaitu,Deshi,Vegetables,0.46,1500,1500,1500,2019-12-11
+Punjab,Fatehgarh,Bassi Pathana,Tomato,Vegetables,0.30,2000,2500,2200,2019-12-11
+Punjab,Fazilka,Abohar,Tomato,Vegetables,6.01,1110,1370,1295,2019-12-11
+Punjab,Fazilka,Jalalabad,Other,Vegetables,1.27,1300,1500,1400,2019-12-11
+Punjab,Ferozpur,Firozepur City,Other,Vegetables,5.10,1000,1400,1200,2019-12-11
+Punjab,Ferozpur,Guru Har Sahai,Tomato,Vegetables,1.10,1700,2000,2000,2019-12-11
+Punjab,Ferozpur,Makhu,Other,Vegetables,0.20,1300,1500,1400,2019-12-11
+Punjab,Ferozpur,Mamdot,Other,Vegetables,0.30,1700,1800,1750,2019-12-11
+Punjab,Ferozpur,Zira,Tomato,Vegetables,0.50,1300,1800,1500,2019-12-11
+Punjab,Gurdaspur,F.G.Churian,Tomato,Vegetables,0.12,1980,2000,1990,2019-12-11
+Punjab,Gurdaspur,Gurdaspur,Other,Vegetables,1.10,2000,2400,2200,2019-12-11
+Punjab,Hoshiarpur,Dasuya,Other,Vegetables,1.50,1500,1700,1700,2019-12-11
+Punjab,Hoshiarpur,Garh Shankar,Deshi,Vegetables,1.67,1500,1900,1700,2019-12-11
+Punjab,Hoshiarpur,Garh Shankar(Mahalpur),Tomato,Vegetables,2.30,1400,1700,1700,2019-12-11
+Punjab,Hoshiarpur,GarhShankar (Kotfatuhi),Other,Vegetables,0.15,1500,2000,1800,2019-12-11
+Punjab,Hoshiarpur,Hoshiarpur,Other,Vegetables,10.00,1500,1700,1600,2019-12-11
+Punjab,Hoshiarpur,Mukerian,Tomato,Vegetables,1.50,2400,3000,2700,2019-12-11
+Punjab,Hoshiarpur,Mukerian(Talwara),Tomato,Vegetables,0.30,1500,2150,1800,2019-12-11
+Punjab,Hoshiarpur,Tanda Urmur,Other,Vegetables,1.30,1200,1500,1300,2019-12-11
+Punjab,Jalandhar,Adampur,Other,Vegetables,0.50,1500,1800,1800,2019-12-11
+Punjab,Jalandhar,Jalandhar City(Jalandhar),Other,Vegetables,59.40,400,800,600,2019-12-11
+Punjab,kapurthala,Phagwara,Other,Vegetables,11.90,1200,1350,1271,2019-12-11
+Punjab,Ludhiana,Jagraon,Other,Vegetables,3.00,1000,1200,1100,2019-12-11
+Punjab,Ludhiana,Khanna,Other,Vegetables,74.00,1000,1500,1200,2019-12-11
+Punjab,Ludhiana,Sahnewal,Tomato,Vegetables,0.10,2000,2000,2000,2019-12-11
+Punjab,Ludhiana,Samrala,Other,Vegetables,2.00,1200,1500,1400,2019-12-11
+Punjab,Mansa,Mansa,Tomato,Vegetables,2.50,2000,2500,2200,2019-12-11
+Punjab,Moga,Baghapurana,Tomato,Vegetables,0.40,1500,2000,1800,2019-12-11
+Punjab,Moga,Moga,Other,Vegetables,6.50,1000,1800,1500,2019-12-11
+Punjab,Mohali,Banur (Kheragaju),Deshi,Vegetables,0.40,1500,2000,2000,2019-12-11
+Punjab,Mohali,Dera Bassi,Other,Vegetables,0.10,1800,2200,2000,2019-12-11
+Punjab,Mohali,Kharar,Tomato,Vegetables,0.70,1500,2000,1800,2019-12-11
+Punjab,Mohali,Kurali,Other,Vegetables,0.80,1600,1800,1700,2019-12-11
+Punjab,Mohali,Lalru,Other,Vegetables,0.52,1500,2000,1800,2019-12-11
+Punjab,Muktsar,Bariwala,Other,Vegetables,0.07,1000,1000,1000,2019-12-11
+Punjab,Muktsar,Giddarbaha,Tomato,Vegetables,0.50,1200,1400,1300,2019-12-11
+Punjab,Muktsar,Malout,Tomato,Vegetables,2.80,1000,1500,1200,2019-12-11
+Punjab,Nawanshahr,Balachaur,Other,Vegetables,1.10,1800,2000,1900,2019-12-11
+Punjab,Nawanshahr,Banga,Other,Vegetables,2.70,1351,1800,1700,2019-12-11
+Punjab,Nawanshahr,Nawan Shahar(MandiRaho),Other,Vegetables,0.02,1500,1500,1500,2019-12-11
+Punjab,Nawanshahr,Nawan Shahar(Subzi Mandi),Other,Vegetables,1.80,1200,1500,1400,2019-12-11
+Punjab,Pathankot,Pathankot,Tomato,Vegetables,22.00,1300,1500,1400,2019-12-11
+Punjab,Patiala,Nabha,Other,Vegetables,3.70,1000,1600,1200,2019-12-11
+Punjab,Patiala,Patiala,Tomato,Vegetables,27.00,1200,2200,1800,2019-12-11
+Punjab,Patiala,Patran,Other,Vegetables,1.10,800,1000,970,2019-12-11
+Punjab,Sangrur,Lehra Gaga,Other,Vegetables,0.60,3000,3000,3000,2019-12-11
+Punjab,Sangrur,Malerkotla,Other,Vegetables,4.70,1250,1600,1400,2019-12-11
+Punjab,Tarntaran,Patti,Other,Vegetables,0.20,2000,3000,2400,2019-12-11
+Punjab,Tarntaran,Tarantaran,Other,Vegetables,0.70,2000,3000,2500,2019-12-11
+-,-,-,-,Punjab Sub Total,305.17,-,-,-,
+-,-,-,-,Total:-,305.17,-,-,-,
+Punjab,Amritsar,Amritsar(Amritsar Mewa Mandi),Tomato,Vegetables,57.80,500,1300,1000,2019-12-12
+Punjab,Amritsar,Rayya,Hybrid,Vegetables,0.25,2600,2600,2600,2019-12-12
+Punjab,Barnala,Barnala,Other,Vegetables,2.92,1300,1500,1400,2019-12-12
+Punjab,Bhatinda,Bathinda,Other,Vegetables,20.60,1000,1500,1200,2019-12-12
+Punjab,Bhatinda,Maur,Other,Vegetables,0.50,1100,1300,1200,2019-12-12
+Punjab,Bhatinda,Raman,Other,Vegetables,0.30,1200,1350,1300,2019-12-12
+Punjab,Bhatinda,Talwandi Sabo,Other,Vegetables,0.30,1200,1500,1300,2019-12-12
+Punjab,Faridkot,Faridkot,Tomato,Vegetables,1.89,1000,1500,1200,2019-12-12
+Punjab,Faridkot,Jaitu,Deshi,Vegetables,0.14,1500,1500,1500,2019-12-12
+Punjab,Fatehgarh,Bassi Pathana,Tomato,Vegetables,0.20,2000,2500,2200,2019-12-12
+Punjab,Fatehgarh,Khamano,Tomato,Vegetables,0.20,2000,2000,2000,2019-12-12
+Punjab,Fatehgarh,Sirhind,Other,Vegetables,2.70,1200,1500,1300,2019-12-12
+Punjab,Fazilka,Abohar,Tomato,Vegetables,4.68,1244,1410,1300,2019-12-12
+Punjab,Fazilka,Jalalabad,Other,Vegetables,1.20,1200,1500,1300,2019-12-12
+Punjab,Ferozpur,Firozepur City,Other,Vegetables,1.80,2000,2500,2250,2019-12-12
+Punjab,Ferozpur,Makhu,Other,Vegetables,0.20,1300,1500,1400,2019-12-12
+Punjab,Gurdaspur,Batala,Other,Vegetables,2.50,1600,2000,1800,2019-12-12
+Punjab,Gurdaspur,Dinanagar,Tomato,Vegetables,1.20,2000,2200,2100,2019-12-12
+Punjab,Gurdaspur,F.G.Churian,Tomato,Vegetables,0.12,1980,2020,1990,2019-12-12
+Punjab,Gurdaspur,Gurdaspur,Other,Vegetables,2.30,2000,2500,2200,2019-12-12
+Punjab,Hoshiarpur,Dasuya,Other,Vegetables,2.00,1200,1500,1500,2019-12-12
+Punjab,Hoshiarpur,Garh Shankar(Mahalpur),Tomato,Vegetables,2.00,1400,1800,1700,2019-12-12
+Punjab,Hoshiarpur,Mukerian,Tomato,Vegetables,1.50,1500,2700,2400,2019-12-12
+Punjab,Hoshiarpur,Mukerian(Talwara),Tomato,Vegetables,0.33,1800,2450,2200,2019-12-12
+Punjab,Hoshiarpur,Tanda Urmur,Other,Vegetables,1.00,1200,1400,1300,2019-12-12
+Punjab,Jalandhar,Adampur,Other,Vegetables,0.60,1500,1800,1800,2019-12-12
+Punjab,Jalandhar,Jalandhar City(Jalandhar),Other,Vegetables,71.20,200,800,600,2019-12-12
+Punjab,Jalandhar,Lohian Khas,Other,Vegetables,0.10,1600,1800,1700,2019-12-12
+Punjab,kapurthala,Phagwara,Other,Vegetables,8.90,1231,1350,1231,2019-12-12
+Punjab,Ludhiana,Jagraon,Other,Vegetables,1.20,1500,2100,1800,2019-12-12
+Punjab,Ludhiana,Khanna,Other,Vegetables,80.00,1000,1500,1250,2019-12-12
+Punjab,Ludhiana,Sahnewal,Tomato,Vegetables,0.10,1800,2000,1800,2019-12-12
+Punjab,Ludhiana,Samrala,Other,Vegetables,1.60,1200,1500,1300,2019-12-12
+Punjab,Mansa,Mansa,Tomato,Vegetables,1.50,1500,2000,1800,2019-12-12
+Punjab,Moga,Baghapurana,Tomato,Vegetables,0.40,1500,2000,1800,2019-12-12
+Punjab,Moga,Moga,Other,Vegetables,6.10,1500,1700,1600,2019-12-12
+Punjab,Mohali,Banur (Kheragaju),Deshi,Vegetables,0.40,1500,2000,2000,2019-12-12
+Punjab,Mohali,Dera Bassi,Other,Vegetables,0.10,1800,2200,2000,2019-12-12
+Punjab,Mohali,Kharar,Tomato,Vegetables,1.80,1500,2000,1800,2019-12-12
+Punjab,Mohali,Kurali,Other,Vegetables,1.50,1500,1650,1600,2019-12-12
+Punjab,Mohali,Lalru,Other,Vegetables,0.53,1500,2000,1800,2019-12-12
+Punjab,Muktsar,Giddarbaha,Tomato,Vegetables,0.30,1300,1500,1400,2019-12-12
+Punjab,Muktsar,Malout,Tomato,Vegetables,1.10,800,1200,1000,2019-12-12
+Punjab,Nawanshahr,Balachaur,Other,Vegetables,0.90,2000,2200,2100,2019-12-12
+Punjab,Nawanshahr,Banga,Other,Vegetables,1.50,1328,1816,1550,2019-12-12
+Punjab,Nawanshahr,Nawan Shahar(Subzi Mandi),Other,Vegetables,1.54,1200,1500,1300,2019-12-12
+Punjab,Pathankot,Pathankot,Tomato,Vegetables,12.65,1000,1500,1250,2019-12-12
+Punjab,Patiala,Dudhansadhan,Other,Vegetables,0.20,1500,2200,2000,2019-12-12
+Punjab,Patiala,Patiala,Tomato,Vegetables,25.00,1200,2200,1700,2019-12-12
+Punjab,Patiala,Patran,Other,Vegetables,2.20,1000,1200,1100,2019-12-12
+Punjab,Patiala,Rajpura,Local,Vegetables,2.60,1400,2000,1750,2019-12-12
+Punjab,Sangrur,Sangrur,Tomato,Vegetables,3.60,1200,1400,1400,2019-12-12
+Punjab,Tarntaran,Patti,Other,Vegetables,0.26,2400,3000,2600,2019-12-12
+Punjab,Tarntaran,Tarantaran,Other,Vegetables,0.50,2000,3000,2500,2019-12-12
+-,-,-,-,Punjab Sub Total,337.01,-,-,-,
+-,-,-,-,Total:-,337.01,-,-,-,
+Punjab,Amritsar,Amritsar(Amritsar Mewa Mandi),Tomato,Vegetables,112.60,600,1300,1000,2019-12-13
+Punjab,Amritsar,Rayya,Hybrid,Vegetables,0.30,2500,2500,2500,2019-12-13
+Punjab,Barnala,Barnala,Other,Vegetables,2.81,1100,1500,1300,2019-12-13
+Punjab,Bhatinda,Bathinda,Other,Vegetables,20.00,1000,1500,1500,2019-12-13
+Punjab,Bhatinda,Bhagta Bhai Ka,Other,Vegetables,0.10,1500,1500,1500,2019-12-13
+Punjab,Bhatinda,Goniana,Other,Vegetables,0.15,1500,1600,1600,2019-12-13
+Punjab,Bhatinda,Maur,Other,Vegetables,0.50,1000,1300,1200,2019-12-13
+Punjab,Bhatinda,Raman,Other,Vegetables,0.60,1900,2300,2200,2019-12-13
+Punjab,Bhatinda,Talwandi Sabo,Other,Vegetables,0.20,1200,1500,1300,2019-12-13
+Punjab,Faridkot,Faridkot,Tomato,Vegetables,1.88,1000,1200,1100,2019-12-13
+Punjab,Faridkot,Jaitu,Deshi,Vegetables,0.29,1600,1600,1600,2019-12-13
+Punjab,Fatehgarh,Bassi Pathana,Tomato,Vegetables,0.20,2000,2500,2200,2019-12-13
+Punjab,Fatehgarh,Sirhind,Other,Vegetables,2.30,1000,1500,1300,2019-12-13
+Punjab,Fazilka,Abohar,Tomato,Vegetables,2.87,1050,1327,1141,2019-12-13
+Punjab,Fazilka,Jalalabad,Other,Vegetables,1.28,1300,1500,1400,2019-12-13
+Punjab,Ferozpur,Firozepur City,Other,Vegetables,4.70,1000,1400,1200,2019-12-13
+Punjab,Ferozpur,Guru Har Sahai,Tomato,Vegetables,1.10,1400,1500,1500,2019-12-13
+Punjab,Ferozpur,Makhu,Other,Vegetables,0.20,1300,1500,1400,2019-12-13
+Punjab,Ferozpur,Zira,Tomato,Vegetables,0.40,1300,1800,1500,2019-12-13
+Punjab,Gurdaspur,Gurdaspur,Other,Vegetables,1.50,1800,2000,1900,2019-12-13
+Punjab,Hoshiarpur,Dasuya,Other,Vegetables,1.20,1500,1700,1700,2019-12-13
+Punjab,Hoshiarpur,Garh Shankar,Deshi,Vegetables,1.44,2000,2500,2200,2019-12-13
+Punjab,Hoshiarpur,Mukerian,Tomato,Vegetables,1.50,2000,3000,2400,2019-12-13
+Punjab,Hoshiarpur,Mukerian(Talwara),Tomato,Vegetables,0.28,1500,2200,1800,2019-12-13
+Punjab,Hoshiarpur,Tanda Urmur,Other,Vegetables,1.00,1200,1600,1400,2019-12-13
+Punjab,Jalandhar,Adampur,Other,Vegetables,0.40,1500,1800,1800,2019-12-13
+Punjab,Jalandhar,Goraya,Other,Vegetables,0.20,1200,1200,1200,2019-12-13
+Punjab,Jalandhar,Jalandhar City(Jalandhar),Other,Vegetables,53.60,400,800,600,2019-12-13
+Punjab,Jalandhar,Lohian Khas,Other,Vegetables,0.10,1600,1800,1700,2019-12-13
+Punjab,Ludhiana,Jagraon,Other,Vegetables,2.50,1200,1500,1400,2019-12-13
+Punjab,Ludhiana,Sahnewal,Tomato,Vegetables,0.10,1850,1850,1850,2019-12-13
+Punjab,Ludhiana,Samrala,Other,Vegetables,1.80,1200,1500,1400,2019-12-13
+Punjab,Mansa,Mansa,Tomato,Vegetables,2.00,1800,2200,2000,2019-12-13
+Punjab,Mohali,Banur (Kheragaju),Deshi,Vegetables,0.50,1500,1800,1800,2019-12-13
+Punjab,Mohali,Dera Bassi,Other,Vegetables,0.10,1800,2200,2000,2019-12-13
+Punjab,Mohali,Kharar,Tomato,Vegetables,1.50,1500,2000,1800,2019-12-13
+Punjab,Mohali,Kurali,Other,Vegetables,1.10,1400,1600,1500,2019-12-13
+Punjab,Mohali,Lalru,Other,Vegetables,0.51,1600,2000,1800,2019-12-13
+Punjab,Muktsar,Bariwala,Other,Vegetables,0.01,1500,1500,1500,2019-12-13
+Punjab,Muktsar,Giddarbaha,Tomato,Vegetables,0.40,1200,1300,1250,2019-12-13
+Punjab,Muktsar,Malout,Tomato,Vegetables,2.00,1000,1500,1200,2019-12-13
+Punjab,Nawanshahr,Balachaur,Other,Vegetables,0.70,2000,2200,2100,2019-12-13
+Punjab,Nawanshahr,Banga,Other,Vegetables,2.40,1268,1813,1750,2019-12-13
+Punjab,Nawanshahr,Nawan Shahar(Mandi Aur),Tomato,Vegetables,0.01,1500,1500,1500,2019-12-13
+Punjab,Nawanshahr,Nawan Shahar(Subzi Mandi),Other,Vegetables,0.85,1600,2000,1850,2019-12-13
+Punjab,Patiala,Nabha,Other,Vegetables,4.60,1100,2000,1500,2019-12-13
+Punjab,Patiala,Patiala,Tomato,Vegetables,27.00,1200,2200,1800,2019-12-13
+Punjab,Patiala,Rajpura,Local,Vegetables,6.30,900,2000,1450,2019-12-13
+Punjab,Patiala,Samana,Hybrid,Vegetables,1.27,1000,1400,1200,2019-12-13
+Punjab,Sangrur,Bhawanigarh,Other,Vegetables,0.80,1100,1300,1200,2019-12-13
+Punjab,Sangrur,Dhuri,Other,Vegetables,0.50,1100,1200,1150,2019-12-13
+Punjab,Sangrur,Khanauri,Other,Vegetables,0.30,2100,2300,2200,2019-12-13
+Punjab,Sangrur,Sangrur,Tomato,Vegetables,5.00,1300,1300,1300,2019-12-13
+Punjab,Sangrur,Sunam,Tomato,Vegetables,1.00,2000,2500,2200,2019-12-13
+Punjab,Tarntaran,Patti,Other,Vegetables,0.30,2000,2200,2000,2019-12-13
+Punjab,Tarntaran,Tarantaran,Other,Vegetables,0.50,2000,3500,2750,2019-12-13
+-,-,-,-,Punjab Sub Total,277.75,-,-,-,
+-,-,-,-,Total:-,277.75,-,-,-,
+Punjab,Amritsar,Amritsar(Amritsar Mewa Mandi),Tomato,Vegetables,75.30,500,1300,900,2019-12-14
+Punjab,Amritsar,Rayya,Hybrid,Vegetables,0.30,2400,2400,2400,2019-12-14
+Punjab,Barnala,Barnala,Other,Vegetables,7.54,1100,1500,1300,2019-12-14
+Punjab,Bhatinda,Goniana,Other,Vegetables,0.20,1500,1600,1600,2019-12-14
+Punjab,Bhatinda,Maur,Other,Vegetables,0.70,1200,1400,1300,2019-12-14
+Punjab,Bhatinda,Raman,Other,Vegetables,0.50,1300,1500,1450,2019-12-14
+Punjab,Bhatinda,Talwandi Sabo,Other,Vegetables,0.20,1000,1500,1200,2019-12-14
+Punjab,Faridkot,Faridkot,Tomato,Vegetables,2.10,1000,1500,1200,2019-12-14
+Punjab,Faridkot,Jaitu,Deshi,Vegetables,0.29,1600,1600,1600,2019-12-14
+Punjab,Fazilka,Abohar,Tomato,Vegetables,3.92,1050,1357,1100,2019-12-14
+Punjab,Fazilka,Jalalabad,Other,Vegetables,0.55,1000,1300,1100,2019-12-14
+Punjab,Ferozpur,Guru Har Sahai,Tomato,Vegetables,1.25,1300,1400,1400,2019-12-14
+Punjab,Ferozpur,Makhu,Other,Vegetables,0.20,1300,1500,1400,2019-12-14
+Punjab,Ferozpur,Zira,Tomato,Vegetables,0.30,1300,1800,1500,2019-12-14
+Punjab,Gurdaspur,Batala,Other,Vegetables,2.00,1400,1600,1500,2019-12-14
+Punjab,Gurdaspur,Dinanagar,Tomato,Vegetables,0.80,2000,2250,2200,2019-12-14
+Punjab,Gurdaspur,F.G.Churian,Tomato,Vegetables,0.09,1980,2000,1990,2019-12-14
+Punjab,Hoshiarpur,Dasuya,Other,Vegetables,1.30,1500,1700,1700,2019-12-14
+Punjab,Hoshiarpur,Garh Shankar(Mahalpur),Tomato,Vegetables,2.00,1400,1800,1500,2019-12-14
+Punjab,Hoshiarpur,Hoshiarpur,Other,Vegetables,12.00,1500,1700,1600,2019-12-14
+Punjab,Hoshiarpur,Mukerian,Tomato,Vegetables,1.20,2000,3000,2400,2019-12-14
+Punjab,Hoshiarpur,Tanda Urmur,Other,Vegetables,0.80,1300,1600,1400,2019-12-14
+Punjab,Jalandhar,Adampur,Other,Vegetables,0.60,1400,1500,1500,2019-12-14
+Punjab,Jalandhar,Jalandhar City(Jalandhar),Other,Vegetables,8.00,400,800,600,2019-12-14
+Punjab,Jalandhar,Lohian Khas,Other,Vegetables,0.10,1600,1800,1700,2019-12-14
+Punjab,Ludhiana,Jagraon,Other,Vegetables,2.00,1500,1700,1600,2019-12-14
+Punjab,Ludhiana,Khanna,Other,Vegetables,77.00,1000,1500,1300,2019-12-14
+Punjab,Ludhiana,Sahnewal,Tomato,Vegetables,0.10,1440,1440,1440,2019-12-14
+Punjab,Ludhiana,Samrala,Other,Vegetables,1.10,1000,1500,1200,2019-12-14
+Punjab,Moga,Baghapurana,Tomato,Vegetables,0.50,1500,2000,1800,2019-12-14
+Punjab,Moga,Moga,Other,Vegetables,4.50,1500,2000,1800,2019-12-14
+Punjab,Mohali,Banur (Kheragaju),Deshi,Vegetables,0.40,1500,2000,2000,2019-12-14
+Punjab,Mohali,Dera Bassi,Other,Vegetables,0.10,1800,2000,1900,2019-12-14
+Punjab,Mohali,Kharar,Tomato,Vegetables,1.60,1500,2000,1800,2019-12-14
+Punjab,Mohali,Kurali,Other,Vegetables,1.00,1500,1700,1600,2019-12-14
+Punjab,Mohali,Lalru,Other,Vegetables,0.55,1400,2000,1500,2019-12-14
+Punjab,Muktsar,Giddarbaha,Tomato,Vegetables,0.50,1400,1600,1500,2019-12-14
+Punjab,Muktsar,Malout,Tomato,Vegetables,1.50,800,1200,1000,2019-12-14
+Punjab,Nawanshahr,Banga,Other,Vegetables,1.90,1292,1720,1600,2019-12-14
+Punjab,Nawanshahr,Nawan Shahar(Subzi Mandi),Other,Vegetables,1.10,1500,2000,1800,2019-12-14
+Punjab,Patiala,Nabha,Other,Vegetables,4.70,1000,1700,1300,2019-12-14
+Punjab,Patiala,Patiala,Tomato,Vegetables,25.00,1200,2200,1800,2019-12-14
+Punjab,Patiala,Patran,Other,Vegetables,1.40,1000,1200,1100,2019-12-14
+Punjab,Patiala,Rajpura,Local,Vegetables,4.60,1400,2000,1700,2019-12-14
+Punjab,Sangrur,Bhawanigarh,Other,Vegetables,1.20,1100,1300,1200,2019-12-14
+Punjab,Sangrur,Dhuri,Other,Vegetables,0.20,1200,1300,1250,2019-12-14
+Punjab,Sangrur,Khanauri,Other,Vegetables,0.20,1800,2100,1900,2019-12-14
+Punjab,Sangrur,Malerkotla,Other,Vegetables,6.50,1450,1700,1600,2019-12-14
+Punjab,Sangrur,Sangrur,Tomato,Vegetables,3.00,1400,1500,1500,2019-12-14
+Punjab,Sangrur,Sunam,Tomato,Vegetables,0.80,1500,2500,2000,2019-12-14
+Punjab,Tarntaran,Tarantaran,Other,Vegetables,0.60,2000,3500,2750,2019-12-14
+-,-,-,-,Punjab Sub Total,264.29,-,-,-,
+-,-,-,-,Total:-,264.29,-,-,-,
+Punjab,Bhatinda,Talwandi Sabo,Other,Vegetables,0.20,1200,1500,1300,2019-12-15
+Punjab,Ferozpur,Makhu,Other,Vegetables,0.20,1300,1500,1400,2019-12-15
+Punjab,Ferozpur,Zira,Tomato,Vegetables,0.40,1000,1500,1200,2019-12-15
+Punjab,Gurdaspur,Dinanagar,Tomato,Vegetables,1.20,2000,2200,2100,2019-12-15
+Punjab,Hoshiarpur,Dasuya,Other,Vegetables,1.00,1000,1500,1500,2019-12-15
+Punjab,Hoshiarpur,Mukerian,Tomato,Vegetables,1.30,2000,2500,2300,2019-12-15
+Punjab,Jalandhar,Lohian Khas,Other,Vegetables,0.10,1600,1800,1700,2019-12-15
+Punjab,Mansa,Mansa,Tomato,Vegetables,2.00,1600,2000,1800,2019-12-15
+Punjab,Mohali,Banur (Kheragaju),Deshi,Vegetables,0.40,2000,2500,2500,2019-12-15
+Punjab,Mohali,Dera Bassi,Other,Vegetables,0.10,1600,2000,1800,2019-12-15
+Punjab,Mohali,Kharar,Tomato,Vegetables,1.40,1500,2000,1800,2019-12-15
+Punjab,Mohali,Lalru,Other,Vegetables,0.53,1600,3600,2000,2019-12-15
+Punjab,Nawanshahr,Banga,Other,Vegetables,3.00,1137,1814,1700,2019-12-15
+Punjab,Patiala,Dudhansadhan,Other,Vegetables,0.20,1000,1500,1300,2019-12-15
+Punjab,Patiala,Nabha,Other,Vegetables,5.40,1000,1700,1400,2019-12-15
+Punjab,Patiala,Patran,Other,Vegetables,1.80,900,1500,1020,2019-12-15
+Punjab,Patiala,Rajpura,Local,Vegetables,3.74,1300,2000,1650,2019-12-15
+Punjab,Sangrur,Bhawanigarh,Other,Vegetables,0.90,1209,1300,1250,2019-12-15
+Punjab,Sangrur,Dhuri,Other,Vegetables,0.20,1200,1300,1250,2019-12-15
+Punjab,Sangrur,Khanauri,Other,Vegetables,0.20,1100,1300,1200,2019-12-15
+Punjab,Sangrur,Malerkotla,Other,Vegetables,4.20,1500,1800,1650,2019-12-15
+Punjab,Sangrur,Sangrur,Tomato,Vegetables,4.00,1300,1300,1300,2019-12-15
+Punjab,Sangrur,Sunam,Tomato,Vegetables,1.00,1000,1500,1200,2019-12-15
+Punjab,Tarntaran,Patti,Other,Vegetables,0.50,1400,1600,1500,2019-12-15
+-,-,-,-,Punjab Sub Total,33.97,-,-,-,
+-,-,-,-,Total:-,33.97,-,-,-,
+Punjab,Amritsar,Amritsar(Amritsar Mewa Mandi),Tomato,Vegetables,95.30,600,1500,1100,2019-12-16
+Punjab,Amritsar,Rayya,Hybrid,Vegetables,0.25,2600,2600,2600,2019-12-16
+Punjab,Barnala,Barnala,Other,Vegetables,1.61,1200,1250,1225,2019-12-16
+Punjab,Bhatinda,Bhagta Bhai Ka,Other,Vegetables,0.20,1400,1400,1400,2019-12-16
+Punjab,Bhatinda,Goniana,Other,Vegetables,0.15,1500,1600,1600,2019-12-16
+Punjab,Bhatinda,Maur,Other,Vegetables,0.40,1100,1300,1200,2019-12-16
+Punjab,Bhatinda,Raman,Other,Vegetables,0.30,1150,1300,1250,2019-12-16
+Punjab,Bhatinda,Talwandi Sabo,Other,Vegetables,0.20,1300,1500,1400,2019-12-16
+Punjab,Faridkot,Faridkot,Tomato,Vegetables,1.86,1000,1500,1200,2019-12-16
+Punjab,Faridkot,Kotkapura,Tomato,Vegetables,1.80,2500,3000,2700,2019-12-16
+Punjab,Fatehgarh,Bassi Pathana,Tomato,Vegetables,1.00,2000,2500,2200,2019-12-16
+Punjab,Fatehgarh,Khamano,Tomato,Vegetables,0.20,2000,2000,2000,2019-12-16
+Punjab,Fatehgarh,Sirhind,Other,Vegetables,5.00,1200,1700,1400,2019-12-16
+Punjab,Fazilka,Abohar,Tomato,Vegetables,5.89,1048,1355,1089,2019-12-16
+Punjab,Fazilka,Jalalabad,Other,Vegetables,0.53,1300,1600,1400,2019-12-16
+Punjab,Ferozpur,Ferozepur Cantt.,Tomato,Vegetables,0.05,1400,1600,1500,2019-12-16
+Punjab,Ferozpur,Firozepur City,Other,Vegetables,7.10,1000,1400,1200,2019-12-16
+Punjab,Ferozpur,Guru Har Sahai,Tomato,Vegetables,0.89,1400,1600,1500,2019-12-16
+Punjab,Ferozpur,Makhu,Other,Vegetables,0.20,1300,1500,1400,2019-12-16
+Punjab,Ferozpur,Mamdot,Other,Vegetables,0.50,1300,1400,1350,2019-12-16
+Punjab,Ferozpur,Zira,Tomato,Vegetables,0.50,1000,1500,1200,2019-12-16
+Punjab,Gurdaspur,Batala,Other,Vegetables,2.50,1400,1600,1500,2019-12-16
+Punjab,Gurdaspur,Dinanagar,Tomato,Vegetables,1.40,1500,1700,1600,2019-12-16
+Punjab,Gurdaspur,Gurdaspur,Other,Vegetables,2.00,1500,2000,1800,2019-12-16
+Punjab,Hoshiarpur,Dasuya,Other,Vegetables,2.00,1000,1500,1500,2019-12-16
+Punjab,Hoshiarpur,Garh Shankar,Deshi,Vegetables,0.75,1500,2000,1800,2019-12-16
+Punjab,Hoshiarpur,Garh Shankar(Mahalpur),Tomato,Vegetables,2.30,1400,1800,1800,2019-12-16
+Punjab,Hoshiarpur,Hoshiarpur,Other,Vegetables,11.00,1500,1800,1700,2019-12-16
+Punjab,Hoshiarpur,Mukerian(Talwara),Tomato,Vegetables,0.35,1500,2250,1800,2019-12-16
+Punjab,Hoshiarpur,Tanda Urmur,Other,Vegetables,0.90,1200,1500,1300,2019-12-16
+Punjab,Jalandhar,Adampur,Other,Vegetables,1.50,1400,1500,1500,2019-12-16
+Punjab,Jalandhar,Goraya,Other,Vegetables,0.20,1300,1300,1300,2019-12-16
+Punjab,Jalandhar,Jalandhar City(Jalandhar),Other,Vegetables,19.90,200,800,600,2019-12-16
+Punjab,Jalandhar,Lohian Khas,Other,Vegetables,0.10,1600,1800,1700,2019-12-16
+Punjab,Jalandhar,Nakodar,Other,Vegetables,0.10,1600,1600,1600,2019-12-16
+Punjab,Jalandhar,Phillaur(Apra Mandi),Other,Vegetables,0.09,1900,2100,2000,2019-12-16
+Punjab,kapurthala,Phagwara,Other,Vegetables,15.40,1000,1250,1085,2019-12-16
+Punjab,Ludhiana,Jagraon,Other,Vegetables,1.50,1400,1800,1600,2019-12-16
+Punjab,Ludhiana,Khanna,Other,Vegetables,82.00,1000,1300,1100,2019-12-16
+Punjab,Ludhiana,Sahnewal,Tomato,Vegetables,0.10,1440,1440,1440,2019-12-16
+Punjab,Ludhiana,Samrala,Other,Vegetables,1.20,1000,1500,1200,2019-12-16
+Punjab,Mansa,Sardulgarh,Tomato,Vegetables,0.35,1300,1500,1400,2019-12-16
+Punjab,Moga,Baghapurana,Tomato,Vegetables,0.40,1500,1900,1700,2019-12-16
+Punjab,Mohali,Banur,Other,Vegetables,0.40,2000,2500,2500,2019-12-16
+Punjab,Mohali,Banur (Kheragaju),Deshi,Vegetables,0.40,2000,2500,2500,2019-12-16
+Punjab,Mohali,Dera Bassi,Other,Vegetables,0.10,1600,2000,1800,2019-12-16
+Punjab,Mohali,Kharar,Tomato,Vegetables,1.00,1500,2000,1800,2019-12-16
+Punjab,Mohali,Lalru,Other,Vegetables,0.51,1500,3000,2700,2019-12-16
+Punjab,Muktsar,Bariwala,Other,Vegetables,0.04,1300,1300,1300,2019-12-16
+Punjab,Muktsar,Giddarbaha,Tomato,Vegetables,0.50,1300,1500,1400,2019-12-16
+Punjab,Muktsar,Malout,Tomato,Vegetables,1.60,1000,1200,1100,2019-12-16
+Punjab,Nawanshahr,Balachaur,Other,Vegetables,0.70,2100,2300,2200,2019-12-16
+Punjab,Nawanshahr,Nawan Shahar(Subzi Mandi),Other,Vegetables,0.80,1500,2000,1800,2019-12-16
+Punjab,Pathankot,Pathankot,Tomato,Vegetables,23.60,1300,1500,1400,2019-12-16
+Punjab,Patiala,Nabha,Other,Vegetables,6.30,1000,1700,1200,2019-12-16
+Punjab,Patiala,Patiala,Tomato,Vegetables,51.00,1500,2500,2000,2019-12-16
+Punjab,Patiala,Patran,Other,Vegetables,2.10,600,1000,980,2019-12-16
+Punjab,Patiala,Rajpura,Local,Vegetables,4.75,1200,2000,1600,2019-12-16
+Punjab,Sangrur,Bhawanigarh,Other,Vegetables,1.00,1100,1300,1200,2019-12-16
+Punjab,Sangrur,Dhuri,Other,Vegetables,0.20,1200,1300,1250,2019-12-16
+Punjab,Sangrur,Khanauri,Other,Vegetables,0.30,2200,2400,2300,2019-12-16
+Punjab,Sangrur,Malerkotla,Other,Vegetables,5.50,1250,1700,1500,2019-12-16
+Punjab,Sangrur,Sangrur,Tomato,Vegetables,2.40,1200,1300,1300,2019-12-16
+Punjab,Sangrur,Sunam,Tomato,Vegetables,1.00,1500,2500,2000,2019-12-16
+Punjab,Tarntaran,Naushera Pannuan,Other,Vegetables,0.06,1000,1200,1100,2019-12-16
+Punjab,Tarntaran,Patti,Other,Vegetables,0.40,1400,1600,1600,2019-12-16
+Punjab,Tarntaran,Tarantaran,Other,Vegetables,0.50,1200,2500,1800,2019-12-16
+-,-,-,-,Punjab Sub Total,375.13,-,-,-,
+-,-,-,-,Total:-,375.13,-,-,-,
+Punjab,Amritsar,Amritsar(Amritsar Mewa Mandi),Tomato,Vegetables,57.70,600,1500,1100,2019-12-17
+Punjab,Barnala,Barnala,Other,Vegetables,4.03,1100,1200,1150,2019-12-17
+Punjab,Bhatinda,Bhagta Bhai Ka,Other,Vegetables,0.10,1500,1500,1500,2019-12-17
+Punjab,Bhatinda,Goniana,Other,Vegetables,0.15,1400,1500,1500,2019-12-17
+Punjab,Bhatinda,Maur,Other,Vegetables,0.60,1000,1300,1200,2019-12-17
+Punjab,Bhatinda,Raman,Other,Vegetables,0.40,1200,1350,1300,2019-12-17
+Punjab,Faridkot,Faridkot,Tomato,Vegetables,1.80,1000,1500,1200,2019-12-17
+Punjab,Faridkot,Jaitu,Deshi,Vegetables,0.15,1500,1500,1500,2019-12-17
+Punjab,Fatehgarh,Bassi Pathana,Tomato,Vegetables,0.60,2000,2500,2200,2019-12-17
+Punjab,Fatehgarh,Khamano,Tomato,Vegetables,0.20,2000,2000,2000,2019-12-17
+Punjab,Fatehgarh,Sirhind,Other,Vegetables,2.10,1200,1500,1300,2019-12-17
+Punjab,Fazilka,Abohar,Tomato,Vegetables,3.04,1288,1376,1310,2019-12-17
+Punjab,Fazilka,Jalalabad,Other,Vegetables,0.68,1100,1400,1250,2019-12-17
+Punjab,Ferozpur,Ferozepur Cantt.,Tomato,Vegetables,0.07,1200,1400,1300,2019-12-17
+Punjab,Ferozpur,Firozepur City,Other,Vegetables,4.80,1000,1300,1150,2019-12-17
+Punjab,Ferozpur,Guru Har Sahai,Tomato,Vegetables,1.11,1400,1600,1500,2019-12-17
+Punjab,Ferozpur,Makhu,Other,Vegetables,0.20,1300,1500,1400,2019-12-17
+Punjab,Ferozpur,Mamdot,Other,Vegetables,0.60,1200,1300,1250,2019-12-17
+Punjab,Ferozpur,Zira,Tomato,Vegetables,0.50,1000,1500,1200,2019-12-17
+Punjab,Gurdaspur,Dinanagar,Tomato,Vegetables,0.80,1500,1650,1600,2019-12-17
+Punjab,Gurdaspur,F.G.Churian,Tomato,Vegetables,0.30,1980,2000,1990,2019-12-17
+Punjab,Gurdaspur,Gurdaspur,Other,Vegetables,1.50,1000,1500,1200,2019-12-17
+Punjab,Hoshiarpur,Dasuya,Other,Vegetables,1.20,1200,1500,1500,2019-12-17
+Punjab,Hoshiarpur,Garh Shankar,Deshi,Vegetables,0.96,1200,1600,1500,2019-12-17
+Punjab,Hoshiarpur,GarhShankar (Kotfatuhi),Other,Vegetables,0.10,2000,2200,2100,2019-12-17
+Punjab,Hoshiarpur,Mukerian,Tomato,Vegetables,1.80,2000,3000,2700,2019-12-17
+Punjab,Hoshiarpur,Mukerian(Talwara),Tomato,Vegetables,0.29,1800,2250,2100,2019-12-17
+Punjab,Jalandhar,Adampur,Other,Vegetables,0.80,1400,1500,1500,2019-12-17
+Punjab,Jalandhar,Jalandhar City(Jalandhar),Other,Vegetables,59.60,400,800,600,2019-12-17
+Punjab,Jalandhar,Lohian Khas,Other,Vegetables,0.10,1600,1800,1700,2019-12-17
+Punjab,Jalandhar,Phillaur(Apra Mandi),Other,Vegetables,0.10,1900,2100,2000,2019-12-17
+Punjab,kapurthala,Phagwara,Other,Vegetables,10.60,1200,1285,1250,2019-12-17
+Punjab,Ludhiana,Jagraon,Other,Vegetables,1.00,1000,1200,1100,2019-12-17
+Punjab,Ludhiana,Khanna,Other,Vegetables,155.00,1000,1400,1100,2019-12-17
+Punjab,Ludhiana,Sahnewal,Tomato,Vegetables,0.10,1400,1400,1400,2019-12-17
+Punjab,Ludhiana,Samrala,Other,Vegetables,1.40,1000,1200,1100,2019-12-17
+Punjab,Mansa,Mansa,Tomato,Vegetables,1.80,1500,2100,1700,2019-12-17
+Punjab,Mansa,Sardulgarh,Tomato,Vegetables,0.50,1200,1400,1300,2019-12-17
+Punjab,Moga,Baghapurana,Tomato,Vegetables,0.30,1500,1900,1700,2019-12-17
+Punjab,Mohali,Banur (Kheragaju),Deshi,Vegetables,0.40,2000,2200,2200,2019-12-17
+Punjab,Mohali,Kharar,Tomato,Vegetables,0.60,1500,2000,1800,2019-12-17
+Punjab,Mohali,Kurali,Other,Vegetables,1.40,1500,1700,1600,2019-12-17
+Punjab,Mohali,Lalru,Other,Vegetables,0.89,1400,1700,1500,2019-12-17
+Punjab,Muktsar,Bariwala,Other,Vegetables,0.04,1200,1200,1200,2019-12-17
+Punjab,Muktsar,Malout,Tomato,Vegetables,2.40,1000,1500,1200,2019-12-17
+Punjab,Muktsar,Muktsar,Tomato,Vegetables,5.20,1000,1300,1150,2019-12-17
+Punjab,Nawanshahr,Balachaur,Other,Vegetables,1.20,2000,2200,2100,2019-12-17
+Punjab,Nawanshahr,Banga,Other,Vegetables,3.40,1434,1750,1561,2019-12-17
+Punjab,Nawanshahr,Nawan Shahar(Subzi Mandi),Other,Vegetables,1.20,1500,2000,1700,2019-12-17
+Punjab,Pathankot,Pathankot,Tomato,Vegetables,16.10,1200,1400,1300,2019-12-17
+Punjab,Patiala,Nabha,Other,Vegetables,6.10,1000,1600,1200,2019-12-17
+Punjab,Patiala,Patiala,Tomato,Vegetables,43.00,1200,1600,1400,2019-12-17
+Punjab,Patiala,Patran,Other,Vegetables,2.50,800,1000,980,2019-12-17
+Punjab,Patiala,Rajpura,Local,Vegetables,4.70,1400,2000,1700,2019-12-17
+Punjab,Sangrur,Bhawanigarh,Other,Vegetables,0.90,1200,1300,1250,2019-12-17
+Punjab,Sangrur,Dhuri,Other,Vegetables,0.20,1300,1400,1350,2019-12-17
+Punjab,Sangrur,Khanauri,Other,Vegetables,0.30,800,1000,900,2019-12-17
+Punjab,Sangrur,Malerkotla,Other,Vegetables,3.50,1300,1650,1500,2019-12-17
+Punjab,Sangrur,Sangrur,Tomato,Vegetables,3.00,1200,1200,1200,2019-12-17
+Punjab,Sangrur,Sunam,Tomato,Vegetables,1.00,1500,2500,2000,2019-12-17
+Punjab,Tarntaran,Patti,Other,Vegetables,0.20,2000,2500,2200,2019-12-17
+Punjab,Tarntaran,Tarantaran,Other,Vegetables,0.70,1200,2500,1800,2019-12-17
+-,-,-,-,Punjab Sub Total,416.01,-,-,-,
+-,-,-,-,Total:-,416.01,-,-,-,
+Punjab,Amritsar,Amritsar(Amritsar Mewa Mandi),Tomato,Vegetables,62.50,600,1400,1100,2019-12-18
+Punjab,Amritsar,Rayya,Hybrid,Vegetables,0.30,2500,2500,2500,2019-12-18
+Punjab,Barnala,Barnala,Other,Vegetables,2.60,1200,1300,1250,2019-12-18
+Punjab,Bhatinda,Maur,Other,Vegetables,0.50,1100,1300,1200,2019-12-18
+Punjab,Bhatinda,Raman,Other,Vegetables,0.20,1400,1500,1475,2019-12-18
+Punjab,Faridkot,Faridkot,Tomato,Vegetables,1.31,1100,1300,1200,2019-12-18
+Punjab,Fatehgarh,Bassi Pathana,Tomato,Vegetables,0.60,2000,2500,2200,2019-12-18
+Punjab,Fatehgarh,Khamano,Tomato,Vegetables,0.20,2000,2000,2000,2019-12-18
+Punjab,Fatehgarh,Sirhind,Other,Vegetables,2.30,1200,1500,1300,2019-12-18
+Punjab,Fazilka,Abohar,Tomato,Vegetables,3.47,1132,1390,1200,2019-12-18
+Punjab,Fazilka,Jalalabad,Other,Vegetables,0.86,1200,1400,1300,2019-12-18
+Punjab,Ferozpur,Ferozepur Cantt.,Tomato,Vegetables,0.09,1200,1400,1300,2019-12-18
+Punjab,Ferozpur,Firozepur City,Other,Vegetables,3.60,1000,1300,1150,2019-12-18
+Punjab,Ferozpur,Makhu,Other,Vegetables,0.20,1300,1500,1400,2019-12-18
+Punjab,Ferozpur,Zira,Tomato,Vegetables,0.40,1200,1800,1500,2019-12-18
+Punjab,Gurdaspur,Batala,Other,Vegetables,2.50,1400,1600,1500,2019-12-18
+Punjab,Gurdaspur,Gurdaspur,Other,Vegetables,1.50,1500,2000,1800,2019-12-18
+Punjab,Hoshiarpur,Dasuya,Other,Vegetables,1.50,1500,1800,1800,2019-12-18
+Punjab,Hoshiarpur,Garh Shankar(Mahalpur),Tomato,Vegetables,1.90,1000,1500,1500,2019-12-18
+Punjab,Hoshiarpur,GarhShankar (Kotfatuhi),Other,Vegetables,0.10,1600,2000,1800,2019-12-18
+Punjab,Hoshiarpur,Mukerian,Tomato,Vegetables,1.30,2000,3000,2400,2019-12-18
+Punjab,Hoshiarpur,Mukerian(Talwara),Tomato,Vegetables,0.28,1500,2200,1800,2019-12-18
+Punjab,Hoshiarpur,Tanda Urmur,Other,Vegetables,0.90,1200,1400,1300,2019-12-18
+Punjab,Jalandhar,Adampur,Other,Vegetables,0.90,1400,1500,1500,2019-12-18
+Punjab,Jalandhar,Jalandhar City(Jalandhar),Other,Vegetables,46.00,400,600,600,2019-12-18
+Punjab,Jalandhar,Lohian Khas,Other,Vegetables,0.10,1600,1800,1700,2019-12-18
+Punjab,Jalandhar,Phillaur(Apra Mandi),Other,Vegetables,0.20,1900,2100,2000,2019-12-18
+Punjab,kapurthala,Phagwara,Other,Vegetables,9.50,1250,1442,1250,2019-12-18
+Punjab,Ludhiana,Jagraon,Other,Vegetables,2.00,1500,1800,1700,2019-12-18
+Punjab,Ludhiana,Khanna,Other,Vegetables,77.00,1000,1300,1200,2019-12-18
+Punjab,Ludhiana,Sahnewal,Tomato,Vegetables,0.10,1400,1400,1400,2019-12-18
+Punjab,Mansa,Mansa,Tomato,Vegetables,1.40,1600,2200,2000,2019-12-18
+Punjab,Moga,Baghapurana,Tomato,Vegetables,0.40,1500,1800,1700,2019-12-18
+Punjab,Moga,Dharamkot,Other,Vegetables,0.15,2000,2000,2000,2019-12-18
+Punjab,Moga,Moga,Other,Vegetables,5.50,1200,1500,1300,2019-12-18
+Punjab,Mohali,Banur (Kheragaju),Deshi,Vegetables,0.40,2000,2500,2500,2019-12-18
+Punjab,Mohali,Kharar,Tomato,Vegetables,1.20,1500,2000,1800,2019-12-18
+Punjab,Mohali,Kurali,Other,Vegetables,1.40,1700,1900,1800,2019-12-18
+Punjab,Mohali,Lalru,Other,Vegetables,0.88,1600,1600,1600,2019-12-18
+Punjab,Muktsar,Bariwala,Other,Vegetables,0.03,1300,1300,1300,2019-12-18
+Punjab,Muktsar,Giddarbaha,Tomato,Vegetables,0.60,1000,1300,1200,2019-12-18
+Punjab,Muktsar,Malout,Tomato,Vegetables,1.40,1000,1200,1100,2019-12-18
+Punjab,Muktsar,Muktsar,Tomato,Vegetables,5.80,1000,1300,1150,2019-12-18
+Punjab,Nawanshahr,Balachaur,Other,Vegetables,0.60,2100,2300,2200,2019-12-18
+Punjab,Nawanshahr,Banga,Other,Vegetables,3.20,1480,1784,1700,2019-12-18
+Punjab,Nawanshahr,Nawan Shahar(Subzi Mandi),Other,Vegetables,1.00,1500,2200,2000,2019-12-18
+Punjab,Patiala,Dudhansadhan,Other,Vegetables,0.20,1000,1800,1400,2019-12-18
+Punjab,Patiala,Nabha,Other,Vegetables,6.10,1000,1700,1200,2019-12-18
+Punjab,Patiala,Patiala,Tomato,Vegetables,40.00,1200,1600,1400,2019-12-18
+Punjab,Patiala,Patran,Other,Vegetables,1.70,1000,1000,1000,2019-12-18
+Punjab,Patiala,Rajpura,Local,Vegetables,4.20,1100,2000,1550,2019-12-18
+Punjab,Sangrur,Bhawanigarh,Other,Vegetables,0.90,1100,1300,1200,2019-12-18
+Punjab,Sangrur,Dhuri,Other,Vegetables,0.20,1200,1400,1300,2019-12-18
+Punjab,Sangrur,Khanauri,Other,Vegetables,0.20,1200,1600,1400,2019-12-18
+Punjab,Sangrur,Malerkotla,Other,Vegetables,6.00,1350,1600,1400,2019-12-18
+Punjab,Sangrur,Sangrur,Tomato,Vegetables,3.00,1200,1300,1300,2019-12-18
+Punjab,Sangrur,Sunam,Tomato,Vegetables,1.00,1500,2500,2000,2019-12-18
+Punjab,Tarntaran,Patti,Other,Vegetables,0.30,2000,2600,2400,2019-12-18
+Punjab,Tarntaran,Tarantaran,Other,Vegetables,0.50,2000,3000,2500,2019-12-18
+-,-,-,-,Punjab Sub Total,313.17,-,-,-,
+-,-,-,-,Total:-,313.17,-,-,-,
+Punjab,Amritsar,Amritsar(Amritsar Mewa Mandi),Tomato,Vegetables,89.70,600,1500,1200,2019-12-19
+Punjab,Amritsar,Rayya,Hybrid,Vegetables,0.25,2700,2700,2700,2019-12-19
+Punjab,Barnala,Barnala,Other,Vegetables,2.34,900,1300,1100,2019-12-19
+Punjab,Bhatinda,Bathinda,Other,Vegetables,22.00,1000,1800,1400,2019-12-19
+Punjab,Bhatinda,Bhagta Bhai Ka,Other,Vegetables,0.10,1400,1400,1400,2019-12-19
+Punjab,Bhatinda,Raman,Other,Vegetables,0.50,1250,1400,1350,2019-12-19
+Punjab,Faridkot,Faridkot,Tomato,Vegetables,2.00,1000,1000,1000,2019-12-19
+Punjab,Fatehgarh,Bassi Pathana,Tomato,Vegetables,0.70,2000,2500,2200,2019-12-19
+Punjab,Fatehgarh,Khamano,Tomato,Vegetables,0.10,2000,2000,2000,2019-12-19
+Punjab,Fatehgarh,Sirhind,Other,Vegetables,2.60,1000,1400,1200,2019-12-19
+Punjab,Fazilka,Jalalabad,Other,Vegetables,0.90,1100,1300,1200,2019-12-19
+Punjab,Ferozpur,Ferozepur Cantt.,Tomato,Vegetables,0.07,1100,1300,1200,2019-12-19
+Punjab,Ferozpur,Firozepur City,Other,Vegetables,7.40,1000,1400,1200,2019-12-19
+Punjab,Ferozpur,Guru Har Sahai,Tomato,Vegetables,0.75,1500,1800,1500,2019-12-19
+Punjab,Ferozpur,Makhu,Other,Vegetables,0.20,1300,1500,1400,2019-12-19
+Punjab,Ferozpur,Zira,Tomato,Vegetables,0.30,1000,1500,1200,2019-12-19
+Punjab,Gurdaspur,Gurdaspur,Other,Vegetables,2.70,2000,2500,2200,2019-12-19
+Punjab,Hoshiarpur,Dasuya,Other,Vegetables,1.00,1500,2000,2000,2019-12-19
+Punjab,Hoshiarpur,Garh Shankar,Deshi,Vegetables,0.70,1300,1800,1500,2019-12-19
+Punjab,Hoshiarpur,Garh Shankar(Mahalpur),Tomato,Vegetables,1.20,1000,1500,1200,2019-12-19
+Punjab,Hoshiarpur,GarhShankar (Kotfatuhi),Other,Vegetables,0.10,1800,2000,1900,2019-12-19
+Punjab,Hoshiarpur,Mukerian,Tomato,Vegetables,1.40,2000,3000,2600,2019-12-19
+Punjab,Hoshiarpur,Mukerian(Talwara),Tomato,Vegetables,0.28,1500,2150,1800,2019-12-19
+Punjab,Hoshiarpur,Tanda Urmur,Other,Vegetables,1.20,1100,1300,1200,2019-12-19
+Punjab,Jalandhar,Adampur,Other,Vegetables,0.60,1400,1500,1500,2019-12-19
+Punjab,Jalandhar,Goraya,Other,Vegetables,0.20,1300,1300,1300,2019-12-19
+Punjab,Jalandhar,Jalandhar City(Jalandhar),Other,Vegetables,88.70,400,700,550,2019-12-19
+Punjab,Ludhiana,Jagraon,Other,Vegetables,2.00,1400,1600,1500,2019-12-19
+Punjab,Ludhiana,Khanna,Other,Vegetables,117.00,1000,1300,1200,2019-12-19
+Punjab,Ludhiana,Sahnewal,Tomato,Vegetables,0.20,1360,1440,1440,2019-12-19
+Punjab,Moga,Baghapurana,Tomato,Vegetables,0.40,1500,1800,1700,2019-12-19
+Punjab,Moga,Dharamkot,Other,Vegetables,0.20,2000,2000,2000,2019-12-19
+Punjab,Moga,Moga,Other,Vegetables,6.00,1200,1800,1500,2019-12-19
+Punjab,Mohali,Banur (Kheragaju),Deshi,Vegetables,0.20,1500,2000,2000,2019-12-19
+Punjab,Mohali,Kharar,Tomato,Vegetables,1.00,1500,2000,1800,2019-12-19
+Punjab,Mohali,Lalru,Other,Vegetables,0.87,1000,1500,1400,2019-12-19
+Punjab,Muktsar,Giddarbaha,Tomato,Vegetables,0.50,1000,1300,1200,2019-12-19
+Punjab,Muktsar,Malout,Tomato,Vegetables,2.10,800,1200,1000,2019-12-19
+Punjab,Muktsar,Muktsar,Tomato,Vegetables,2.00,1000,1500,1200,2019-12-19
+Punjab,Nawanshahr,Balachaur,Other,Vegetables,0.90,2000,2200,2100,2019-12-19
+Punjab,Nawanshahr,Banga,Other,Vegetables,1.80,1649,2140,1750,2019-12-19
+Punjab,Nawanshahr,Nawan Shahar(MandiRaho),Other,Vegetables,0.01,1800,1800,1800,2019-12-19
+Punjab,Nawanshahr,Nawan Shahar(Subzi Mandi),Other,Vegetables,1.20,1500,2000,1700,2019-12-19
+Punjab,Pathankot,Pathankot,Tomato,Vegetables,17.70,1100,1700,1450,2019-12-19
+Punjab,Patiala,Dudhansadhan,Other,Vegetables,0.30,1400,2000,1800,2019-12-19
+Punjab,Patiala,Nabha,Other,Vegetables,7.00,1000,1600,1200,2019-12-19
+Punjab,Patiala,Patiala,Tomato,Vegetables,38.00,1200,1600,1400,2019-12-19
+Punjab,Patiala,Rajpura,Local,Vegetables,4.60,1000,2000,1500,2019-12-19
+Punjab,Patiala,Samana,Hybrid,Vegetables,1.13,1000,1600,1400,2019-12-19
+Punjab,Sangrur,Bhawanigarh,Other,Vegetables,1.00,1100,1300,1200,2019-12-19
+Punjab,Sangrur,Dhuri,Other,Vegetables,0.20,1200,1300,1250,2019-12-19
+Punjab,Sangrur,Khanauri,Other,Vegetables,0.20,1000,1200,1100,2019-12-19
+Punjab,Sangrur,Lehra Gaga,Other,Vegetables,0.40,2500,3000,3000,2019-12-19
+Punjab,Sangrur,Malerkotla,Other,Vegetables,3.00,1250,1600,1400,2019-12-19
+Punjab,Sangrur,Sunam,Tomato,Vegetables,1.00,1000,2000,1500,2019-12-19
+Punjab,Tarntaran,Patti,Other,Vegetables,0.40,1400,1600,1500,2019-12-19
+Punjab,Tarntaran,Tarantaran,Other,Vegetables,0.60,2000,3000,2500,2019-12-19
+-,-,-,-,Punjab Sub Total,439.90,-,-,-,
+-,-,-,-,Total:-,439.90,-,-,-,
+Punjab,Amritsar,Rayya,Hybrid,Vegetables,0.30,2800,2800,2800,2019-12-20
+Punjab,Barnala,Barnala,Other,Vegetables,3.56,1000,1400,1200,2019-12-20
+Punjab,Bhatinda,Bathinda,Other,Vegetables,20.60,1000,1500,1500,2019-12-20
+Punjab,Bhatinda,Bhagta Bhai Ka,Other,Vegetables,0.10,1600,1600,1600,2019-12-20
+Punjab,Bhatinda,Bhucho,Other,Vegetables,0.10,2500,2800,2700,2019-12-20
+Punjab,Bhatinda,Goniana,Other,Vegetables,0.15,1400,1500,1500,2019-12-20
+Punjab,Bhatinda,Maur,Other,Vegetables,0.50,1200,1400,1300,2019-12-20
+Punjab,Bhatinda,Raman,Other,Vegetables,1.00,1200,1350,1300,2019-12-20
+Punjab,Faridkot,Faridkot,Tomato,Vegetables,1.36,1000,1000,1000,2019-12-20
+Punjab,Fatehgarh,Bassi Pathana,Tomato,Vegetables,1.20,2000,2500,2300,2019-12-20
+Punjab,Fatehgarh,Sirhind,Other,Vegetables,3.70,1000,1500,1200,2019-12-20
+Punjab,Fazilka,Jalalabad,Other,Vegetables,2.01,1700,2000,1900,2019-12-20
+Punjab,Ferozpur,Ferozepur Cantt.,Tomato,Vegetables,0.04,1300,1500,1400,2019-12-20
+Punjab,Ferozpur,Firozepur City,Other,Vegetables,6.70,1000,1300,1150,2019-12-20
+Punjab,Ferozpur,Makhu,Other,Vegetables,0.20,1300,1500,1400,2019-12-20
+Punjab,Ferozpur,Mamdot,Other,Vegetables,0.20,2000,3000,2500,2019-12-20
+Punjab,Ferozpur,Zira,Tomato,Vegetables,0.50,1000,1500,1200,2019-12-20
+Punjab,Gurdaspur,F.G.Churian,Tomato,Vegetables,0.24,1980,2000,1990,2019-12-20
+Punjab,Gurdaspur,Gurdaspur,Other,Vegetables,1.90,2000,2500,2200,2019-12-20
+Punjab,Hoshiarpur,Dasuya,Other,Vegetables,1.20,1200,1500,1500,2019-12-20
+Punjab,Hoshiarpur,Garh Shankar,Deshi,Vegetables,0.66,1500,1800,1700,2019-12-20
+Punjab,Hoshiarpur,Garh Shankar(Mahalpur),Tomato,Vegetables,1.70,1200,1800,1500,2019-12-20
+Punjab,Hoshiarpur,Hoshiarpur,Other,Vegetables,12.00,1400,1700,1600,2019-12-20
+Punjab,Hoshiarpur,Mukerian,Tomato,Vegetables,1.80,2000,3000,2500,2019-12-20
+Punjab,Hoshiarpur,Mukerian(Talwara),Tomato,Vegetables,0.30,1500,2250,1800,2019-12-20
+Punjab,Hoshiarpur,Tanda Urmur,Other,Vegetables,0.90,1200,1400,1300,2019-12-20
+Punjab,Jalandhar,Adampur,Other,Vegetables,0.70,1400,1500,1500,2019-12-20
+Punjab,Jalandhar,Goraya,Other,Vegetables,0.20,1300,1300,1300,2019-12-20
+Punjab,Jalandhar,Jalandhar City(Jalandhar),Other,Vegetables,70.30,400,800,700,2019-12-20
+Punjab,Jalandhar,Nakodar,Other,Vegetables,0.10,1500,1500,1500,2019-12-20
+Punjab,Jalandhar,Noor Mehal,Other,Vegetables,0.10,1500,1500,1500,2019-12-20
+Punjab,Jalandhar,Phillaur(Apra Mandi),Other,Vegetables,0.10,2900,3100,3000,2019-12-20
+Punjab,kapurthala,Phagwara,Other,Vegetables,9.10,1287,1366,1287,2019-12-20
+Punjab,Ludhiana,Sahnewal,Tomato,Vegetables,0.20,1200,1600,1600,2019-12-20
+Punjab,Ludhiana,Samrala,Other,Vegetables,1.30,1000,1500,1200,2019-12-20
+Punjab,Moga,Baghapurana,Tomato,Vegetables,0.40,1500,1900,1700,2019-12-20
+Punjab,Moga,Moga,Other,Vegetables,6.00,1200,1800,1500,2019-12-20
+Punjab,Mohali,Banur (Kheragaju),Deshi,Vegetables,0.40,1500,1800,1800,2019-12-20
+Punjab,Mohali,Dera Bassi,Other,Vegetables,0.10,1500,1900,1700,2019-12-20
+Punjab,Mohali,Kharar,Tomato,Vegetables,0.90,1500,2000,1800,2019-12-20
+Punjab,Mohali,Lalru,Other,Vegetables,0.86,1100,1500,1400,2019-12-20
+Punjab,Muktsar,Giddarbaha,Tomato,Vegetables,0.30,1000,1200,1100,2019-12-20
+Punjab,Muktsar,Malout,Tomato,Vegetables,1.30,1000,1200,1100,2019-12-20
+Punjab,Muktsar,Muktsar,Tomato,Vegetables,2.00,1200,1500,1400,2019-12-20
+Punjab,Nawanshahr,Balachaur,Other,Vegetables,0.90,2000,2200,2100,2019-12-20
+Punjab,Nawanshahr,Banga,Other,Vegetables,3.70,1322,1750,1575,2019-12-20
+Punjab,Nawanshahr,Nawan Shahar(Subzi Mandi),Other,Vegetables,1.00,1800,2500,2200,2019-12-20
+Punjab,Pathankot,Pathankot,Tomato,Vegetables,8.39,1000,1700,1600,2019-12-20
+Punjab,Patiala,Dudhansadhan,Other,Vegetables,0.20,1000,1500,1300,2019-12-20
+Punjab,Patiala,Nabha,Other,Vegetables,6.60,900,1600,1100,2019-12-20
+Punjab,Patiala,Patiala,Tomato,Vegetables,39.00,1200,1600,1400,2019-12-20
+Punjab,Patiala,Patran,Other,Vegetables,1.58,800,1000,930,2019-12-20
+Punjab,Patiala,Rajpura,Local,Vegetables,3.35,1000,2000,1500,2019-12-20
+Punjab,Sangrur,Dhuri,Other,Vegetables,0.30,1200,1300,1250,2019-12-20
+Punjab,Sangrur,Khanauri,Other,Vegetables,0.20,900,1200,1000,2019-12-20
+Punjab,Sangrur,Malerkotla,Other,Vegetables,4.20,1400,1700,1550,2019-12-20
+Punjab,Sangrur,Sangrur,Tomato,Vegetables,3.90,1300,1300,1300,2019-12-20
+Punjab,Sangrur,Sunam,Tomato,Vegetables,1.50,1000,1500,1300,2019-12-20
+Punjab,Tarntaran,Patti,Other,Vegetables,0.50,1500,1700,1600,2019-12-20
+Punjab,Tarntaran,Tarantaran,Other,Vegetables,0.50,1800,3000,2400,2019-12-20
+-,-,-,-,Punjab Sub Total,233.10,-,-,-,
+-,-,-,-,Total:-,233.10,-,-,-,
+Punjab,Amritsar,Amritsar(Amritsar Mewa Mandi),Tomato,Vegetables,83.60,500,1400,1000,2019-12-21
+Punjab,Amritsar,Rayya,Hybrid,Vegetables,0.28,2800,2800,2800,2019-12-21
+Punjab,Barnala,Barnala,Other,Vegetables,0.81,900,1200,1050,2019-12-21
+Punjab,Bhatinda,Raman,Other,Vegetables,0.80,1200,1325,1300,2019-12-21
+Punjab,Faridkot,Faridkot,Tomato,Vegetables,2.30,1000,1000,1000,2019-12-21
+Punjab,Fatehgarh,Bassi Pathana,Tomato,Vegetables,0.80,2000,2500,2200,2019-12-21
+Punjab,Fatehgarh,Sirhind,Other,Vegetables,4.30,1000,1500,1200,2019-12-21
+Punjab,Fazilka,Jalalabad,Other,Vegetables,0.40,1000,1300,1200,2019-12-21
+Punjab,Ferozpur,Makhu,Other,Vegetables,0.20,1300,1500,1400,2019-12-21
+Punjab,Ferozpur,Zira,Tomato,Vegetables,0.30,1200,1500,1300,2019-12-21
+Punjab,Gurdaspur,Dinanagar,Tomato,Vegetables,0.90,1500,1800,1600,2019-12-21
+Punjab,Gurdaspur,F.G.Churian,Tomato,Vegetables,0.09,1980,2000,1990,2019-12-21
+Punjab,Gurdaspur,Gurdaspur,Other,Vegetables,2.60,1500,2000,1800,2019-12-21
+Punjab,Hoshiarpur,Dasuya,Other,Vegetables,1.50,1500,2000,2000,2019-12-21
+Punjab,Hoshiarpur,Garh Shankar,Deshi,Vegetables,0.57,1000,1500,1300,2019-12-21
+Punjab,Hoshiarpur,Garh Shankar(Mahalpur),Tomato,Vegetables,2.30,1200,1800,1500,2019-12-21
+Punjab,Hoshiarpur,Hoshiarpur,Other,Vegetables,12.00,1400,1700,1500,2019-12-21
+Punjab,Hoshiarpur,Mukerian(Talwara),Tomato,Vegetables,0.32,1100,1450,1200,2019-12-21
+Punjab,Hoshiarpur,Tanda Urmur,Other,Vegetables,1.00,1200,1400,1300,2019-12-21
+Punjab,Jalandhar,Adampur,Other,Vegetables,0.90,1300,1500,1500,2019-12-21
+Punjab,Jalandhar,Jalandhar City(Jalandhar),Other,Vegetables,56.00,400,800,600,2019-12-21
+Punjab,Jalandhar,Lohian Khas,Other,Vegetables,0.20,300,500,400,2019-12-21
+Punjab,Ludhiana,Jagraon,Other,Vegetables,2.00,1400,1800,1600,2019-12-21
+Punjab,Ludhiana,Sahnewal,Tomato,Vegetables,0.30,1400,1400,1400,2019-12-21
+Punjab,Ludhiana,Samrala,Other,Vegetables,1.50,1500,2000,1800,2019-12-21
+Punjab,Moga,Baghapurana,Tomato,Vegetables,0.40,1500,1900,1700,2019-12-21
+Punjab,Moga,Moga,Other,Vegetables,6.10,1200,1500,1300,2019-12-21
+Punjab,Mohali,Banur (Kheragaju),Deshi,Vegetables,0.50,1500,2000,2000,2019-12-21
+Punjab,Mohali,Dera Bassi,Other,Vegetables,0.10,1600,1800,1700,2019-12-21
+Punjab,Mohali,Kharar,Tomato,Vegetables,0.70,1500,2000,1800,2019-12-21
+Punjab,Mohali,Kurali,Other,Vegetables,1.50,2000,2200,2100,2019-12-21
+Punjab,Muktsar,Malout,Tomato,Vegetables,1.90,1000,1400,1200,2019-12-21
+Punjab,Muktsar,Muktsar,Tomato,Vegetables,2.00,1200,1600,1500,2019-12-21
+Punjab,Nawanshahr,Balachaur,Other,Vegetables,0.90,2000,2200,2100,2019-12-21
+Punjab,Nawanshahr,Banga,Other,Vegetables,3.10,132,1710,1500,2019-12-21
+Punjab,Nawanshahr,Nawan Shahar(Subzi Mandi),Other,Vegetables,0.95,1600,2300,2050,2019-12-21
+Punjab,Pathankot,Pathankot,Tomato,Vegetables,17.42,1500,1800,1650,2019-12-21
+Punjab,Patiala,Nabha,Other,Vegetables,5.90,1000,1600,1200,2019-12-21
+Punjab,Patiala,Patiala,Tomato,Vegetables,38.00,1200,1600,1400,2019-12-21
+Punjab,Patiala,Rajpura,Local,Vegetables,4.80,1200,1400,1300,2019-12-21
+Punjab,Sangrur,Dhuri,Other,Vegetables,0.20,1200,1300,1250,2019-12-21
+Punjab,Sangrur,Khanauri,Other,Vegetables,0.40,1200,1400,1300,2019-12-21
+Punjab,Sangrur,Lehra Gaga,Other,Vegetables,0.50,2500,3000,3000,2019-12-21
+Punjab,Sangrur,Malerkotla,Other,Vegetables,5.00,1300,1600,1500,2019-12-21
+Punjab,Sangrur,Sangrur,Tomato,Vegetables,2.60,1100,1200,1200,2019-12-21
+Punjab,Sangrur,Sunam,Tomato,Vegetables,1.00,1000,2000,1500,2019-12-21
+Punjab,Tarntaran,Patti,Other,Vegetables,0.50,1500,1800,1600,2019-12-21
+Punjab,Tarntaran,Tarantaran,Other,Vegetables,0.60,1800,3000,2400,2019-12-21
+-,-,-,-,Punjab Sub Total,271.04,-,-,-,
+-,-,-,-,Total:-,271.04,-,-,-,
+Punjab,Barnala,Barnala,Other,Vegetables,5.99,800,1300,1050,2019-12-22
+Punjab,Bhatinda,Maur,Other,Vegetables,0.20,1000,1200,1100,2019-12-22
+Punjab,Bhatinda,Raman,Other,Vegetables,0.50,1200,1400,1350,2019-12-22
+Punjab,Fatehgarh,Bassi Pathana,Tomato,Vegetables,0.20,2000,2500,2200,2019-12-22
+Punjab,Ferozpur,Ferozepur Cantt.,Tomato,Vegetables,0.06,1100,1300,1200,2019-12-22
+Punjab,Ferozpur,Guru Har Sahai,Tomato,Vegetables,1.11,1400,1600,1500,2019-12-22
+Punjab,Ferozpur,Makhu,Other,Vegetables,0.20,1300,1500,1400,2019-12-22
+Punjab,Ferozpur,Zira,Tomato,Vegetables,0.40,1200,1600,1400,2019-12-22
+Punjab,Gurdaspur,F.G.Churian,Tomato,Vegetables,0.18,1980,2000,1990,2019-12-22
+Punjab,Hoshiarpur,Dasuya,Other,Vegetables,1.00,1200,1500,1500,2019-12-22
+Punjab,Hoshiarpur,Hoshiarpur,Other,Vegetables,13.00,1500,1800,1700,2019-12-22
+Punjab,Jalandhar,Nakodar,Other,Vegetables,0.20,1700,1700,1700,2019-12-22
+Punjab,Moga,Moga,Other,Vegetables,1.10,1300,1500,1400,2019-12-22
+Punjab,Mohali,Banur (Kheragaju),Deshi,Vegetables,0.40,1500,2000,2000,2019-12-22
+Punjab,Mohali,Dera Bassi,Other,Vegetables,0.10,1500,1900,1700,2019-12-22
+Punjab,Mohali,Kharar,Tomato,Vegetables,0.60,1500,1800,1600,2019-12-22
+Punjab,Mohali,Lalru,Other,Vegetables,0.85,1000,1500,1200,2019-12-22
+Punjab,Muktsar,Muktsar,Tomato,Vegetables,0.50,1000,1500,1200,2019-12-22
+Punjab,Nawanshahr,Banga,Other,Vegetables,4.40,1293,1700,1511,2019-12-22
+Punjab,Patiala,Dudhansadhan,Other,Vegetables,0.30,1000,1400,1200,2019-12-22
+Punjab,Patiala,Nabha,Other,Vegetables,6.60,900,1600,1200,2019-12-22
+Punjab,Patiala,Patran,Other,Vegetables,2.00,800,1000,960,2019-12-22
+Punjab,Sangrur,Dhuri,Other,Vegetables,0.20,1200,1300,1250,2019-12-22
+Punjab,Sangrur,Khanauri,Other,Vegetables,0.20,1200,1400,1300,2019-12-22
+Punjab,Sangrur,Malerkotla,Other,Vegetables,4.50,1250,1650,1400,2019-12-22
+Punjab,Sangrur,Sangrur,Tomato,Vegetables,3.00,1000,1100,1100,2019-12-22
+Punjab,Sangrur,Sunam,Tomato,Vegetables,1.00,1000,2000,1500,2019-12-22
+Punjab,Tarntaran,Patti,Other,Vegetables,0.30,2400,3000,2600,2019-12-22
+-,-,-,-,Punjab Sub Total,49.09,-,-,-,
+-,-,-,-,Total:-,49.09,-,-,-,
+Punjab,Amritsar,Amritsar(Amritsar Mewa Mandi),Tomato,Vegetables,59.70,600,1500,1000,2019-12-23
+Punjab,Amritsar,Rayya,Hybrid,Vegetables,0.30,2500,2500,2500,2019-12-23
+Punjab,Barnala,Barnala,Other,Vegetables,3.41,800,1175,988,2019-12-23
+Punjab,Bhatinda,Bhagta Bhai Ka,Other,Vegetables,0.20,1700,1700,1700,2019-12-23
+Punjab,Bhatinda,Bhucho,Other,Vegetables,0.10,2500,2700,2600,2019-12-23
+Punjab,Bhatinda,Raman,Other,Vegetables,0.80,1225,1300,1275,2019-12-23
+Punjab,Faridkot,Faridkot,Tomato,Vegetables,1.66,1000,1500,1200,2019-12-23
+Punjab,Faridkot,Jaitu,Deshi,Vegetables,0.11,1400,1400,1400,2019-12-23
+Punjab,Fatehgarh,Bassi Pathana,Tomato,Vegetables,1.00,2000,2500,2200,2019-12-23
+Punjab,Fatehgarh,Khamano,Tomato,Vegetables,0.20,2000,2000,2000,2019-12-23
+Punjab,Fazilka,Abohar,Tomato,Vegetables,5.35,800,1315,1255,2019-12-23
+Punjab,Fazilka,Jalalabad,Other,Vegetables,0.38,1200,1500,1400,2019-12-23
+Punjab,Ferozpur,Ferozepur Cantt.,Tomato,Vegetables,0.05,1100,1300,1200,2019-12-23
+Punjab,Ferozpur,Firozepur City,Other,Vegetables,8.50,1000,1350,1150,2019-12-23
+Punjab,Ferozpur,Guru Har Sahai,Tomato,Vegetables,0.95,1400,1600,1500,2019-12-23
+Punjab,Ferozpur,Makhu,Other,Vegetables,0.20,1300,1500,1400,2019-12-23
+Punjab,Ferozpur,Mamdot,Other,Vegetables,0.60,1600,1700,1650,2019-12-23
+Punjab,Ferozpur,Zira,Tomato,Vegetables,0.40,1200,1500,1400,2019-12-23
+Punjab,Gurdaspur,Dinanagar,Tomato,Vegetables,1.00,1500,1800,1600,2019-12-23
+Punjab,Gurdaspur,F.G.Churian,Tomato,Vegetables,0.09,1980,2000,1990,2019-12-23
+Punjab,Gurdaspur,Gurdaspur,Other,Vegetables,2.20,1500,2000,1800,2019-12-23
+Punjab,Hoshiarpur,Dasuya,Other,Vegetables,1.20,1500,1700,1700,2019-12-23
+Punjab,Hoshiarpur,Garh Shankar,Deshi,Vegetables,2.65,1000,1500,1200,2019-12-23
+Punjab,Hoshiarpur,Garh Shankar(Mahalpur),Tomato,Vegetables,2.20,1400,1800,1500,2019-12-23
+Punjab,Hoshiarpur,Hoshiarpur,Other,Vegetables,1.80,1300,1700,1500,2019-12-23
+Punjab,Hoshiarpur,Mukerian,Tomato,Vegetables,2.00,2000,3000,2500,2019-12-23
+Punjab,Hoshiarpur,Mukerian(Talwara),Tomato,Vegetables,0.32,1200,1550,1400,2019-12-23
+Punjab,Hoshiarpur,Tanda Urmur,Other,Vegetables,1.00,1100,1400,1300,2019-12-23
+Punjab,Jalandhar,Adampur,Other,Vegetables,0.90,1300,1500,1500,2019-12-23
+Punjab,Jalandhar,Goraya,Other,Vegetables,0.20,1300,1300,1300,2019-12-23
+Punjab,Jalandhar,Jalandhar City(Jalandhar),Other,Vegetables,127.50,200,800,600,2019-12-23
+Punjab,Jalandhar,Nakodar,Other,Vegetables,0.10,1800,1800,1800,2019-12-23
+Punjab,Ludhiana,Jagraon,Other,Vegetables,3.00,1400,1600,1500,2019-12-23
+Punjab,Moga,Baghapurana,Tomato,Vegetables,0.30,1200,1500,1400,2019-12-23
+Punjab,Moga,Moga,Other,Vegetables,7.60,1000,1400,1200,2019-12-23
+Punjab,Mohali,Banur (Kheragaju),Deshi,Vegetables,4.00,1500,1800,1800,2019-12-23
+Punjab,Mohali,Kharar,Tomato,Vegetables,1.00,1200,1800,1400,2019-12-23
+Punjab,Mohali,Kurali,Other,Vegetables,1.50,1800,1900,1850,2019-12-23
+Punjab,Mohali,Lalru,Other,Vegetables,0.85,1100,1300,1200,2019-12-23
+Punjab,Muktsar,Giddarbaha,Tomato,Vegetables,0.50,1000,1200,1100,2019-12-23
+Punjab,Muktsar,Malout,Tomato,Vegetables,2.70,800,1200,1000,2019-12-23
+Punjab,Nawanshahr,Balachaur,Other,Vegetables,0.70,2000,2000,2000,2019-12-23
+Punjab,Nawanshahr,Nawan Shahar(Subzi Mandi),Other,Vegetables,1.07,1500,2000,1800,2019-12-23
+Punjab,Pathankot,Pathankot,Tomato,Vegetables,14.80,1200,1600,1400,2019-12-23
+Punjab,Patiala,Nabha,Other,Vegetables,4.20,1000,1500,1200,2019-12-23
+Punjab,Patiala,Patiala,Tomato,Vegetables,37.20,1000,1700,1500,2019-12-23
+Punjab,Patiala,Rajpura,Local,Vegetables,3.30,1000,2000,1500,2019-12-23
+Punjab,Sangrur,Dhuri,Other,Vegetables,0.20,1000,1200,1100,2019-12-23
+Punjab,Sangrur,Khanauri,Other,Vegetables,0.20,1200,1400,1300,2019-12-23
+Punjab,Sangrur,Malerkotla,Other,Vegetables,5.50,1300,1800,1500,2019-12-23
+Punjab,Sangrur,Sangrur,Tomato,Vegetables,3.00,1000,1200,1200,2019-12-23
+Punjab,Sangrur,Sunam,Tomato,Vegetables,1.00,1500,2000,1800,2019-12-23
+Punjab,Tarntaran,Patti,Other,Vegetables,0.60,1500,1600,1500,2019-12-23
+Punjab,Tarntaran,Tarantaran,Other,Vegetables,1.10,1800,2500,2100,2019-12-23
+-,-,-,-,Punjab Sub Total,321.39,-,-,-,
+-,-,-,-,Total:-,321.39,-,-,-,
+Punjab,Amritsar,Amritsar(Amritsar Mewa Mandi),Tomato,Vegetables,200.30,500,1400,1100,2019-12-24
+Punjab,Amritsar,Rayya,Hybrid,Vegetables,0.25,2500,2500,2500,2019-12-24
+Punjab,Bhatinda,Bhagta Bhai Ka,Other,Vegetables,0.20,1700,1700,1700,2019-12-24
+Punjab,Bhatinda,Goniana,Other,Vegetables,0.15,1400,1500,1500,2019-12-24
+Punjab,Bhatinda,Maur,Other,Vegetables,0.40,1000,1200,1100,2019-12-24
+Punjab,Bhatinda,Raman,Other,Vegetables,0.40,1100,1250,1200,2019-12-24
+Punjab,Faridkot,Faridkot,Tomato,Vegetables,1.71,1000,1500,1300,2019-12-24
+Punjab,Faridkot,Kotkapura,Tomato,Vegetables,2.00,1200,1500,1400,2019-12-24
+Punjab,Fatehgarh,Bassi Pathana,Tomato,Vegetables,1.20,2000,2500,2200,2019-12-24
+Punjab,Fatehgarh,Khamano,Tomato,Vegetables,0.20,1600,1600,1600,2019-12-24
+Punjab,Fatehgarh,Sirhind,Other,Vegetables,3.60,1000,1500,1200,2019-12-24
+Punjab,Fazilka,Abohar,Tomato,Vegetables,9.76,800,1450,1000,2019-12-24
+Punjab,Fazilka,Jalalabad,Other,Vegetables,1.60,1100,1300,1200,2019-12-24
+Punjab,Ferozpur,Ferozepur Cantt.,Tomato,Vegetables,0.06,900,1100,1000,2019-12-24
+Punjab,Ferozpur,Firozepur City,Other,Vegetables,6.20,1000,1350,1175,2019-12-24
+Punjab,Ferozpur,Guru Har Sahai,Tomato,Vegetables,1.05,1400,1500,1500,2019-12-24
+Punjab,Ferozpur,Makhu,Other,Vegetables,0.20,1300,1500,1400,2019-12-24
+Punjab,Ferozpur,Zira,Tomato,Vegetables,0.30,1400,1800,1500,2019-12-24
+Punjab,Gurdaspur,Gurdaspur,Other,Vegetables,2.10,1800,2000,1900,2019-12-24
+Punjab,Hoshiarpur,Dasuya,Other,Vegetables,1.20,1500,2000,2000,2019-12-24
+Punjab,Hoshiarpur,Garh Shankar,Deshi,Vegetables,1.58,1000,1400,1200,2019-12-24
+Punjab,Hoshiarpur,Hoshiarpur,Other,Vegetables,12.00,1200,1500,1400,2019-12-24
+Punjab,Hoshiarpur,Mukerian,Tomato,Vegetables,1.50,2000,3000,2600,2019-12-24
+Punjab,Hoshiarpur,Mukerian(Talwara),Tomato,Vegetables,0.30,1100,1450,1200,2019-12-24
+Punjab,Hoshiarpur,Tanda Urmur,Other,Vegetables,0.80,1200,1300,1250,2019-12-24
+Punjab,Jalandhar,Adampur,Other,Vegetables,0.90,1300,1500,1500,2019-12-24
+Punjab,Jalandhar,Goraya,Other,Vegetables,0.20,1300,1300,1300,2019-12-24
+Punjab,Jalandhar,Jalandhar City(Jalandhar),Other,Vegetables,47.20,400,800,600,2019-12-24
+Punjab,kapurthala,Phagwara,Other,Vegetables,12.80,990,1250,1094,2019-12-24
+Punjab,Ludhiana,Jagraon,Other,Vegetables,3.50,1200,1500,1400,2019-12-24
+Punjab,Ludhiana,Sahnewal,Tomato,Vegetables,0.20,1400,1400,1400,2019-12-24
+Punjab,Ludhiana,Samrala,Other,Vegetables,1.00,1100,1500,1300,2019-12-24
+Punjab,Moga,Baghapurana,Tomato,Vegetables,0.40,1200,1500,1400,2019-12-24
+Punjab,Moga,Dharamkot,Other,Vegetables,0.15,2000,2000,2000,2019-12-24
+Punjab,Moga,Moga,Other,Vegetables,5.10,1000,1800,1500,2019-12-24
+Punjab,Mohali,Banur (Kheragaju),Deshi,Vegetables,0.50,1500,1600,1600,2019-12-24
+Punjab,Mohali,Dera Bassi,Other,Vegetables,0.10,1600,2000,1800,2019-12-24
+Punjab,Mohali,Kharar,Tomato,Vegetables,0.80,1200,1500,1400,2019-12-24
+Punjab,Mohali,Kurali,Other,Vegetables,1.00,1800,2000,1900,2019-12-24
+Punjab,Mohali,Lalru,Other,Vegetables,0.86,800,1500,1000,2019-12-24
+Punjab,Muktsar,Giddarbaha,Tomato,Vegetables,0.87,1200,1400,1300,2019-12-24
+Punjab,Muktsar,Malout,Tomato,Vegetables,2.70,900,1200,1100,2019-12-24
+Punjab,Nawanshahr,Balachaur,Other,Vegetables,0.80,2000,2200,2100,2019-12-24
+Punjab,Nawanshahr,Banga,Other,Vegetables,3.10,1249,1611,1394,2019-12-24
+Punjab,Pathankot,Pathankot,Tomato,Vegetables,16.90,800,1500,1200,2019-12-24
+Punjab,Patiala,Dudhansadhan,Other,Vegetables,0.20,1000,1500,1300,2019-12-24
+Punjab,Patiala,Nabha,Other,Vegetables,5.00,1000,1600,1200,2019-12-24
+Punjab,Patiala,Patiala,Tomato,Vegetables,39.00,1200,1400,1300,2019-12-24
+Punjab,Patiala,Patran,Other,Vegetables,1.20,700,1000,939,2019-12-24
+Punjab,Patiala,Rajpura,Local,Vegetables,4.70,1100,2000,1550,2019-12-24
+Punjab,Sangrur,Bhawanigarh,Other,Vegetables,1.40,1000,1200,1100,2019-12-24
+Punjab,Sangrur,Dhuri,Other,Vegetables,0.20,1000,1200,1100,2019-12-24
+Punjab,Sangrur,Khanauri,Other,Vegetables,0.20,1300,1500,1400,2019-12-24
+Punjab,Sangrur,Malerkotla,Other,Vegetables,4.80,1250,1600,1400,2019-12-24
+Punjab,Sangrur,Sangrur,Tomato,Vegetables,3.00,1000,1200,1200,2019-12-24
+Punjab,Tarntaran,Patti,Other,Vegetables,0.40,1400,1600,1500,2019-12-24
+Punjab,Tarntaran,Tarantaran,Other,Vegetables,1.20,1800,2500,2200,2019-12-24
+-,-,-,-,Punjab Sub Total,409.44,-,-,-,
+-,-,-,-,Total:-,409.44,-,-,-,
+Punjab,Amritsar,Amritsar(Amritsar Mewa Mandi),Tomato,Vegetables,27.80,500,1500,1100,2019-12-25
+Punjab,Amritsar,Rayya,Hybrid,Vegetables,0.28,2300,2300,2300,2019-12-25
+Punjab,Barnala,Barnala,Other,Vegetables,1.90,800,1300,1050,2019-12-25
+Punjab,Bhatinda,Bathinda,Other,Vegetables,19.50,1000,1500,1200,2019-12-25
+Punjab,Bhatinda,Maur,Other,Vegetables,0.40,1000,1200,1100,2019-12-25
+Punjab,Bhatinda,Raman,Other,Vegetables,0.20,1000,1200,1150,2019-12-25
+Punjab,Faridkot,Faridkot,Tomato,Vegetables,2.30,1000,1300,1100,2019-12-25
+Punjab,Faridkot,Jaitu,Deshi,Vegetables,0.10,1400,1400,1400,2019-12-25
+Punjab,Fatehgarh,Bassi Pathana,Tomato,Vegetables,1.50,2000,2500,2200,2019-12-25
+Punjab,Fatehgarh,Khamano,Tomato,Vegetables,0.10,1600,1600,1600,2019-12-25
+Punjab,Fatehgarh,Sirhind,Other,Vegetables,4.60,1000,1500,1200,2019-12-25
+Punjab,Fazilka,Abohar,Tomato,Vegetables,9.66,800,1343,1110,2019-12-25
+Punjab,Fazilka,Jalalabad,Other,Vegetables,1.30,1000,1300,1200,2019-12-25
+Punjab,Ferozpur,Ferozepur Cantt.,Tomato,Vegetables,0.05,1200,1400,1300,2019-12-25
+Punjab,Ferozpur,Firozepur City,Other,Vegetables,6.50,1000,1300,1150,2019-12-25
+Punjab,Ferozpur,Guru Har Sahai,Tomato,Vegetables,1.50,1400,1500,1500,2019-12-25
+Punjab,Ferozpur,Makhu,Other,Vegetables,0.20,1300,1500,1400,2019-12-25
+Punjab,Ferozpur,Zira,Tomato,Vegetables,0.50,1200,1500,1300,2019-12-25
+Punjab,Gurdaspur,Kalanaur,Other,Vegetables,0.01,2500,2500,2500,2019-12-25
+Punjab,Hoshiarpur,Dasuya,Other,Vegetables,1.00,1200,1500,1500,2019-12-25
+Punjab,Hoshiarpur,Garh Shankar,Deshi,Vegetables,1.80,1200,1600,1400,2019-12-25
+Punjab,Hoshiarpur,Hoshiarpur,Other,Vegetables,8.00,1200,1500,1400,2019-12-25
+Punjab,Hoshiarpur,Mukerian(Talwara),Tomato,Vegetables,0.28,1100,1350,1200,2019-12-25
+Punjab,Jalandhar,Bilga,Other,Vegetables,0.10,2000,2200,2100,2019-12-25
+Punjab,Jalandhar,Jalandhar City(Jalandhar),Other,Vegetables,48.70,400,800,600,2019-12-25
+Punjab,Jalandhar,Lohian Khas,Other,Vegetables,0.10,1600,1800,1700,2019-12-25
+Punjab,Jalandhar,Nakodar,Other,Vegetables,0.20,1600,1600,1600,2019-12-25
+Punjab,Ludhiana,Jagraon,Other,Vegetables,2.00,1200,1500,1400,2019-12-25
+Punjab,Ludhiana,Sahnewal,Tomato,Vegetables,0.30,1200,1500,1500,2019-12-25
+Punjab,Ludhiana,Samrala,Other,Vegetables,1.20,1100,1400,1300,2019-12-25
+Punjab,Moga,Baghapurana,Tomato,Vegetables,0.30,1200,1500,1400,2019-12-25
+Punjab,Moga,Dharamkot,Other,Vegetables,0.21,2000,2000,2000,2019-12-25
+Punjab,Mohali,Banur (Kheragaju),Deshi,Vegetables,0.50,1500,1700,1700,2019-12-25
+Punjab,Mohali,Dera Bassi,Other,Vegetables,0.10,1500,1900,1700,2019-12-25
+Punjab,Mohali,Kharar,Tomato,Vegetables,1.20,1200,1600,1400,2019-12-25
+Punjab,Mohali,Lalru,Other,Vegetables,0.56,1000,1200,1200,2019-12-25
+Punjab,Muktsar,Giddarbaha,Tomato,Vegetables,0.80,1200,1400,1300,2019-12-25
+Punjab,Muktsar,Malout,Tomato,Vegetables,2.50,1000,1500,1200,2019-12-25
+Punjab,Muktsar,Muktsar,Tomato,Vegetables,2.50,1200,1800,1500,2019-12-25
+Punjab,Pathankot,Pathankot,Tomato,Vegetables,17.40,1000,1600,1300,2019-12-25
+Punjab,Patiala,Ghanaur,Other,Vegetables,0.03,2000,2000,2000,2019-12-25
+Punjab,Patiala,Nabha,Other,Vegetables,3.90,900,1600,1100,2019-12-25
+Punjab,Patiala,Patiala,Tomato,Vegetables,25.00,1200,2200,1800,2019-12-25
+Punjab,Patiala,Patran,Other,Vegetables,1.30,1000,1000,1000,2019-12-25
+Punjab,Patiala,Rajpura,Local,Vegetables,3.74,1300,2000,1650,2019-12-25
+Punjab,Sangrur,Bhawanigarh,Other,Vegetables,0.90,1000,1200,1100,2019-12-25
+Punjab,Sangrur,Khanauri,Other,Vegetables,0.20,1200,1500,1300,2019-12-25
+Punjab,Sangrur,Malerkotla,Other,Vegetables,5.50,1500,1800,1700,2019-12-25
+Punjab,Sangrur,Sangrur,Tomato,Vegetables,2.00,1100,1100,1100,2019-12-25
+Punjab,Sangrur,Sunam,Tomato,Vegetables,0.80,1000,2000,1500,2019-12-25
+Punjab,Tarntaran,Patti,Other,Vegetables,0.41,1400,1600,1500,2019-12-25
+Punjab,Tarntaran,Tarantaran,Other,Vegetables,0.80,1800,2500,2200,2019-12-25
+-,-,-,-,Punjab Sub Total,212.73,-,-,-,
+-,-,-,-,Total:-,212.73,-,-,-,
+Punjab,Amritsar,Amritsar(Amritsar Mewa Mandi),Tomato,Vegetables,80.40,500,1400,1000,2019-12-26
+Punjab,Amritsar,Rayya,Hybrid,Vegetables,0.30,2400,2400,2400,2019-12-26
+Punjab,Barnala,Barnala,Other,Vegetables,3.86,900,1400,1150,2019-12-26
+Punjab,Bhatinda,Bathinda,Other,Vegetables,20.00,1000,1500,1000,2019-12-26
+Punjab,Bhatinda,Bhagta Bhai Ka,Other,Vegetables,0.10,1500,1500,1500,2019-12-26
+Punjab,Bhatinda,Goniana,Other,Vegetables,0.15,1300,1400,1400,2019-12-26
+Punjab,Bhatinda,Maur,Other,Vegetables,0.40,1000,1200,1100,2019-12-26
+Punjab,Bhatinda,Raman,Other,Vegetables,0.30,1200,1350,1300,2019-12-26
+Punjab,Faridkot,Faridkot,Tomato,Vegetables,1.65,1000,1350,1100,2019-12-26
+Punjab,Faridkot,Kotkapura,Tomato,Vegetables,1.50,800,1200,1000,2019-12-26
+Punjab,Fatehgarh,Bassi Pathana,Tomato,Vegetables,1.00,2000,2500,2200,2019-12-26
+Punjab,Fatehgarh,Khamano,Tomato,Vegetables,0.20,1500,1500,1500,2019-12-26
+Punjab,Fatehgarh,Sirhind,Other,Vegetables,2.50,1000,1500,1200,2019-12-26
+Punjab,Fazilka,Abohar,Tomato,Vegetables,11.25,921,1285,1093,2019-12-26
+Punjab,Fazilka,Jalalabad,Other,Vegetables,0.31,1000,1200,1100,2019-12-26
+Punjab,Ferozpur,Firozepur City,Other,Vegetables,3.30,1000,1300,1150,2019-12-26
+Punjab,Ferozpur,Makhu,Other,Vegetables,0.20,1300,1500,1400,2019-12-26
+Punjab,Ferozpur,Zira,Tomato,Vegetables,0.30,1200,1600,1400,2019-12-26
+Punjab,Gurdaspur,Dinanagar,Tomato,Vegetables,0.90,1300,1500,1400,2019-12-26
+Punjab,Hoshiarpur,Dasuya,Other,Vegetables,1.00,800,1200,1200,2019-12-26
+Punjab,Hoshiarpur,Garh Shankar,Deshi,Vegetables,0.78,1200,1600,1400,2019-12-26
+Punjab,Hoshiarpur,GarhShankar (Kotfatuhi),Other,Vegetables,0.10,1500,1800,1700,2019-12-26
+Punjab,Hoshiarpur,Hoshiarpur,Other,Vegetables,10.00,1200,1500,1400,2019-12-26
+Punjab,Hoshiarpur,Mukerian,Tomato,Vegetables,1.80,2100,2500,2400,2019-12-26
+Punjab,Hoshiarpur,Mukerian(Talwara),Tomato,Vegetables,0.32,1200,1450,1300,2019-12-26
+Punjab,Jalandhar,Adampur,Other,Vegetables,0.80,1500,2000,2000,2019-12-26
+Punjab,Jalandhar,Bilga,Other,Vegetables,0.10,1600,1800,1700,2019-12-26
+Punjab,Jalandhar,Goraya,Other,Vegetables,0.20,1100,1100,1100,2019-12-26
+Punjab,Jalandhar,Jalandhar City(Jalandhar),Other,Vegetables,22.00,400,800,600,2019-12-26
+Punjab,Jalandhar,Nakodar,Other,Vegetables,0.20,2000,2000,2000,2019-12-26
+Punjab,Jalandhar,Noor Mehal,Other,Vegetables,0.18,1550,1550,1550,2019-12-26
+Punjab,Jalandhar,Phillaur(Apra Mandi),Other,Vegetables,0.05,1900,2100,2000,2019-12-26
+Punjab,kapurthala,Phagwara,Other,Vegetables,11.20,1000,1251,1035,2019-12-26
+Punjab,Ludhiana,Jagraon,Other,Vegetables,3.00,1000,1300,1200,2019-12-26
+Punjab,Ludhiana,Sahnewal,Tomato,Vegetables,0.10,1400,1500,1500,2019-12-26
+Punjab,Ludhiana,Samrala,Other,Vegetables,1.00,1100,1300,1200,2019-12-26
+Punjab,Moga,Baghapurana,Tomato,Vegetables,0.40,1200,1500,1400,2019-12-26
+Punjab,Moga,Dharamkot,Other,Vegetables,0.25,2000,2000,2000,2019-12-26
+Punjab,Moga,Moga,Other,Vegetables,3.70,1200,1600,1400,2019-12-26
+Punjab,Mohali,Banur (Kheragaju),Deshi,Vegetables,0.50,1500,1700,1700,2019-12-26
+Punjab,Mohali,Dera Bassi,Other,Vegetables,0.10,1500,1700,1600,2019-12-26
+Punjab,Mohali,Kharar,Tomato,Vegetables,0.80,1500,2000,1800,2019-12-26
+Punjab,Mohali,Kurali,Other,Vegetables,0.70,1700,1900,1800,2019-12-26
+Punjab,Mohali,Lalru,Other,Vegetables,0.53,900,1500,1000,2019-12-26
+Punjab,Muktsar,Bariwala,Other,Vegetables,0.04,2000,2000,2000,2019-12-26
+Punjab,Muktsar,Giddarbaha,Tomato,Vegetables,1.30,1200,1600,1400,2019-12-26
+Punjab,Muktsar,Malout,Tomato,Vegetables,2.20,1200,1500,1350,2019-12-26
+Punjab,Nawanshahr,Balachaur,Other,Vegetables,1.20,2000,2200,2100,2019-12-26
+Punjab,Nawanshahr,Banga,Other,Vegetables,3.30,1234,1700,1476,2019-12-26
+Punjab,Pathankot,Pathankot,Tomato,Vegetables,19.74,1000,1200,1100,2019-12-26
+Punjab,Patiala,Nabha,Other,Vegetables,5.10,900,1500,1100,2019-12-26
+Punjab,Patiala,Patiala,Tomato,Vegetables,27.00,1200,2200,1800,2019-12-26
+Punjab,Patiala,Patran,Other,Vegetables,2.20,1000,1000,1000,2019-12-26
+Punjab,Patiala,Rajpura,Local,Vegetables,3.20,1000,2000,1500,2019-12-26
+Punjab,Sangrur,Bhawanigarh,Other,Vegetables,0.80,1000,1100,1050,2019-12-26
+Punjab,Sangrur,Lehra Gaga,Other,Vegetables,0.50,2500,3000,3000,2019-12-26
+Punjab,Sangrur,Malerkotla,Other,Vegetables,4.70,1300,1750,1600,2019-12-26
+Punjab,Sangrur,Sangrur,Tomato,Vegetables,3.20,1000,1100,1100,2019-12-26
+Punjab,Tarntaran,Patti,Other,Vegetables,0.31,1400,1600,1500,2019-12-26
+Punjab,Tarntaran,Tarantaran,Other,Vegetables,0.60,2000,3500,2800,2019-12-26
+-,-,-,-,Punjab Sub Total,263.82,-,-,-,
+-,-,-,-,Total:-,263.82,-,-,-,
+Punjab,Amritsar,Amritsar(Amritsar Mewa Mandi),Tomato,Vegetables,63.30,500,1000,700,2019-12-27
+Punjab,Amritsar,Rayya,Hybrid,Vegetables,0.30,2500,2500,2500,2019-12-27
+Punjab,Barnala,Barnala,Other,Vegetables,2.79,1000,1200,1100,2019-12-27
+Punjab,Bhatinda,Bathinda,Other,Vegetables,20.00,800,1000,800,2019-12-27
+Punjab,Bhatinda,Bhagta Bhai Ka,Other,Vegetables,0.20,1550,1550,1550,2019-12-27
+Punjab,Bhatinda,Goniana,Other,Vegetables,0.20,1200,1400,1400,2019-12-27
+Punjab,Bhatinda,Maur,Other,Vegetables,0.80,900,1200,1000,2019-12-27
+Punjab,Bhatinda,Raman,Other,Vegetables,0.10,1000,1250,1200,2019-12-27
+Punjab,Faridkot,Faridkot,Tomato,Vegetables,7.80,700,1000,800,2019-12-27
+Punjab,Faridkot,Jaitu,Deshi,Vegetables,0.11,1500,1500,1500,2019-12-27
+Punjab,Faridkot,Kotkapura,Tomato,Vegetables,2.50,1000,1600,1200,2019-12-27
+Punjab,Fatehgarh,Bassi Pathana,Tomato,Vegetables,0.70,1500,2200,2000,2019-12-27
+Punjab,Fatehgarh,Khamano,Tomato,Vegetables,0.10,1400,1400,1400,2019-12-27
+Punjab,Fatehgarh,Sirhind,Other,Vegetables,2.10,1100,1500,1200,2019-12-27
+Punjab,Fazilka,Abohar,Tomato,Vegetables,8.10,944,1310,1055,2019-12-27
+Punjab,Fazilka,Jalalabad,Other,Vegetables,0.71,1000,1200,1100,2019-12-27
+Punjab,Ferozpur,Firozepur City,Other,Vegetables,7.20,1000,1300,1150,2019-12-27
+Punjab,Ferozpur,Guru Har Sahai,Tomato,Vegetables,1.10,1400,1500,1500,2019-12-27
+Punjab,Ferozpur,Zira,Tomato,Vegetables,0.50,1200,1500,1300,2019-12-27
+Punjab,Gurdaspur,Batala,Other,Vegetables,2.50,1900,2200,2000,2019-12-27
+Punjab,Gurdaspur,Dinanagar,Tomato,Vegetables,0.90,1000,1200,1050,2019-12-27
+Punjab,Hoshiarpur,Dasuya,Other,Vegetables,0.80,1200,1500,1500,2019-12-27
+Punjab,Hoshiarpur,Garh Shankar,Deshi,Vegetables,1.10,1300,1600,1400,2019-12-27
+Punjab,Hoshiarpur,Garh Shankar(Mahalpur),Tomato,Vegetables,1.60,1200,1800,1500,2019-12-27
+Punjab,Hoshiarpur,GarhShankar (Kotfatuhi),Other,Vegetables,0.10,1500,1800,1600,2019-12-27
+Punjab,Hoshiarpur,Hoshiarpur,Other,Vegetables,8.00,1200,1500,1400,2019-12-27
+Punjab,Hoshiarpur,Mukerian,Tomato,Vegetables,1.80,2000,3000,2400,2019-12-27
+Punjab,Hoshiarpur,Tanda Urmur,Other,Vegetables,0.90,1200,1400,1300,2019-12-27
+Punjab,Jalandhar,Adampur,Other,Vegetables,1.00,1300,1500,1500,2019-12-27
+Punjab,Jalandhar,Goraya,Other,Vegetables,0.20,1000,1000,1000,2019-12-27
+Punjab,Jalandhar,Jalandhar City(Jalandhar),Other,Vegetables,49.30,400,800,600,2019-12-27
+Punjab,Jalandhar,Lohian Khas,Other,Vegetables,0.10,1400,1800,1600,2019-12-27
+Punjab,Jalandhar,Nakodar,Other,Vegetables,0.10,1900,1900,1900,2019-12-27
+Punjab,kapurthala,Phagwara,Other,Vegetables,8.60,1100,1500,1193,2019-12-27
+Punjab,Ludhiana,Jagraon,Other,Vegetables,2.00,1200,1500,1400,2019-12-27
+Punjab,Ludhiana,Sahnewal,Tomato,Vegetables,0.10,1500,1600,1600,2019-12-27
+Punjab,Ludhiana,Samrala,Other,Vegetables,1.30,1000,1200,1100,2019-12-27
+Punjab,Mansa,Mansa,Tomato,Vegetables,0.60,1000,1400,1200,2019-12-27
+Punjab,Moga,Baghapurana,Tomato,Vegetables,0.40,1200,1500,1400,2019-12-27
+Punjab,Moga,Dharamkot,Other,Vegetables,0.18,2000,2000,2000,2019-12-27
+Punjab,Moga,Moga,Other,Vegetables,6.40,1000,1400,1200,2019-12-27
+Punjab,Mohali,Banur (Kheragaju),Deshi,Vegetables,0.40,1200,1600,1600,2019-12-27
+Punjab,Mohali,Dera Bassi,Other,Vegetables,0.10,1600,1800,1700,2019-12-27
+Punjab,Mohali,Kharar,Tomato,Vegetables,0.90,1600,2000,1800,2019-12-27
+Punjab,Mohali,Kurali,Other,Vegetables,1.00,1800,2000,1900,2019-12-27
+Punjab,Mohali,Lalru,Other,Vegetables,1.30,1000,1400,1100,2019-12-27
+Punjab,Muktsar,Giddarbaha,Tomato,Vegetables,0.63,1200,1400,1300,2019-12-27
+Punjab,Muktsar,Malout,Tomato,Vegetables,1.50,1000,1500,1200,2019-12-27
+Punjab,Pathankot,Pathankot,Tomato,Vegetables,17.00,800,1200,1000,2019-12-27
+Punjab,Patiala,Nabha,Other,Vegetables,4.40,1000,1800,1400,2019-12-27
+Punjab,Patiala,Patiala,Tomato,Vegetables,23.00,1200,2200,1800,2019-12-27
+Punjab,Patiala,Patran,Other,Vegetables,1.20,1000,1000,1000,2019-12-27
+Punjab,Patiala,Rajpura,Local,Vegetables,3.10,1300,2000,1650,2019-12-27
+Punjab,Patiala,Samana,Hybrid,Vegetables,1.19,1200,2000,1600,2019-12-27
+Punjab,Sangrur,Dhuri,Other,Vegetables,0.30,1200,1300,1250,2019-12-27
+Punjab,Sangrur,Lehra Gaga,Other,Vegetables,0.50,2500,3000,3000,2019-12-27
+Punjab,Sangrur,Malerkotla,Other,Vegetables,4.80,1400,1700,1600,2019-12-27
+Punjab,Sangrur,Sangrur,Tomato,Vegetables,2.70,1200,1200,1200,2019-12-27
+Punjab,Tarntaran,Patti,Other,Vegetables,0.20,1200,1600,1400,2019-12-27
+Punjab,Tarntaran,Tarantaran,Other,Vegetables,0.80,2000,3500,2750,2019-12-27
+-,-,-,-,Punjab Sub Total,271.61,-,-,-,
+-,-,-,-,Total:-,271.61,-,-,-,
+Punjab,Amritsar,Amritsar(Amritsar Mewa Mandi),Tomato,Vegetables,47.50,500,1100,800,2019-12-28
+Punjab,Amritsar,Rayya,Hybrid,Vegetables,0.30,2400,2400,2400,2019-12-28
+Punjab,Barnala,Barnala,Other,Vegetables,3.31,700,1000,850,2019-12-28
+Punjab,Bhatinda,Bathinda,Other,Vegetables,19.00,900,1200,1000,2019-12-28
+Punjab,Bhatinda,Maur,Other,Vegetables,0.40,1000,1200,1100,2019-12-28
+Punjab,Faridkot,Faridkot,Tomato,Vegetables,9.00,600,1000,700,2019-12-28
+Punjab,Fazilka,Abohar,Tomato,Vegetables,4.18,709,1314,1026,2019-12-28
+Punjab,Fazilka,Jalalabad,Other,Vegetables,1.30,1100,1300,1200,2019-12-28
+Punjab,Ferozpur,Ferozepur Cantt.,Tomato,Vegetables,0.05,1200,1400,1300,2019-12-28
+Punjab,Ferozpur,Firozepur City,Other,Vegetables,6.50,1000,1300,1150,2019-12-28
+Punjab,Ferozpur,Zira,Tomato,Vegetables,0.30,1300,1800,1500,2019-12-28
+Punjab,Gurdaspur,Dera Baba Nanak,Tomato,Vegetables,0.10,1600,1800,1700,2019-12-28
+Punjab,Gurdaspur,F.G.Churian,Tomato,Vegetables,0.12,2480,2500,2490,2019-12-28
+Punjab,Hoshiarpur,Dasuya,Other,Vegetables,1.00,1500,2000,2000,2019-12-28
+Punjab,Hoshiarpur,Garh Shankar,Deshi,Vegetables,2.70,1000,1500,1200,2019-12-28
+Punjab,Hoshiarpur,Garh Shankar(Mahalpur),Tomato,Vegetables,1.60,1200,1788,1500,2019-12-28
+Punjab,Hoshiarpur,Mukerian(Talwara),Tomato,Vegetables,0.32,1200,1550,1400,2019-12-28
+Punjab,Jalandhar,Bilga,Other,Vegetables,0.10,1500,1700,1600,2019-12-28
+Punjab,Jalandhar,Jalandhar City(Jalandhar),Other,Vegetables,39.60,400,800,500,2019-12-28
+Punjab,Ludhiana,Jagraon,Other,Vegetables,2.00,1600,2100,1800,2019-12-28
+Punjab,Ludhiana,Sahnewal,Tomato,Vegetables,0.40,1500,1520,1520,2019-12-28
+Punjab,Moga,Baghapurana,Tomato,Vegetables,0.30,1200,1500,1400,2019-12-28
+Punjab,Moga,Dharamkot,Other,Vegetables,0.20,1100,1600,1100,2019-12-28
+Punjab,Moga,Moga,Other,Vegetables,6.00,1000,1500,1200,2019-12-28
+Punjab,Mohali,Banur (Kheragaju),Deshi,Vegetables,0.30,1500,1800,1800,2019-12-28
+Punjab,Mohali,Kharar,Tomato,Vegetables,1.00,1600,2000,1800,2019-12-28
+Punjab,Mohali,Kurali,Other,Vegetables,1.40,1800,2150,2000,2019-12-28
+Punjab,Muktsar,Giddarbaha,Tomato,Vegetables,0.99,1100,1300,1200,2019-12-28
+Punjab,Muktsar,Malout,Tomato,Vegetables,1.70,1000,1500,1200,2019-12-28
+Punjab,Muktsar,Muktsar,Tomato,Vegetables,2.00,800,1200,1000,2019-12-28
+Punjab,Nawanshahr,Banga,Other,Vegetables,2.20,1220,1700,1500,2019-12-28
+Punjab,Pathankot,Pathankot,Tomato,Vegetables,12.00,800,1500,1250,2019-12-28
+Punjab,Patiala,Dudhansadhan,Other,Vegetables,0.20,1500,2000,1800,2019-12-28
+Punjab,Patiala,Nabha,Other,Vegetables,4.30,900,1400,1100,2019-12-28
+Punjab,Patiala,Patiala,Tomato,Vegetables,21.00,1200,2200,1800,2019-12-28
+Punjab,Patiala,Rajpura,Local,Vegetables,4.30,1100,2000,1550,2019-12-28
+Punjab,Sangrur,Dhuri,Other,Vegetables,0.20,1100,1200,1150,2019-12-28
+Punjab,Sangrur,Sangrur,Tomato,Vegetables,3.20,1000,1200,1200,2019-12-28
+Punjab,Sangrur,Sunam,Tomato,Vegetables,1.00,1000,1300,1200,2019-12-28
+Punjab,Tarntaran,Patti,Other,Vegetables,0.35,2200,2400,2300,2019-12-28
+Punjab,Tarntaran,Tarantaran,Other,Vegetables,0.50,2000,3000,2500,2019-12-28
+-,-,-,-,Punjab Sub Total,202.92,-,-,-,
+-,-,-,-,Total:-,202.92,-,-,-,
+Punjab,Barnala,Barnala,Other,Vegetables,3.38,1000,1300,1150,2019-12-29
+Punjab,Bhatinda,Maur,Other,Vegetables,0.60,1000,1200,1100,2019-12-29
+Punjab,Fatehgarh,Bassi Pathana,Tomato,Vegetables,1.00,2000,2500,2200,2019-12-29
+Punjab,Ferozpur,Ferozepur Cantt.,Tomato,Vegetables,0.05,1100,1300,1200,2019-12-29
+Punjab,Ferozpur,Guru Har Sahai,Tomato,Vegetables,1.10,1200,1500,1500,2019-12-29
+Punjab,Ferozpur,Makhu,Other,Vegetables,0.20,1300,1500,1400,2019-12-29
+Punjab,Jalandhar,Bilga,Other,Vegetables,0.09,1500,1700,1600,2019-12-29
+Punjab,Jalandhar,Lohian Khas,Other,Vegetables,0.10,1400,1600,1500,2019-12-29
+Punjab,Ludhiana,Samrala,Other,Vegetables,1.00,1100,1300,1200,2019-12-29
+Punjab,Mohali,Banur (Kheragaju),Deshi,Vegetables,0.40,1500,2000,2000,2019-12-29
+Punjab,Mohali,Dera Bassi,Other,Vegetables,0.10,1600,2000,1800,2019-12-29
+Punjab,Mohali,Kharar,Tomato,Vegetables,0.80,1600,2000,1800,2019-12-29
+Punjab,Mohali,Lalru,Other,Vegetables,1.25,1100,1400,1200,2019-12-29
+Punjab,Muktsar,Muktsar,Tomato,Vegetables,0.50,1000,1400,1200,2019-12-29
+Punjab,Nawanshahr,Banga,Other,Vegetables,3.70,1197,1700,1605,2019-12-29
+Punjab,Patiala,Dudhansadhan,Other,Vegetables,0.30,800,1000,900,2019-12-29
+Punjab,Patiala,Rajpura,Local,Vegetables,2.83,1400,1700,1550,2019-12-29
+Punjab,Sangrur,Dhuri,Other,Vegetables,0.20,1200,1300,1250,2019-12-29
+Punjab,Sangrur,Lehra Gaga,Other,Vegetables,0.30,2500,3000,3000,2019-12-29
+Punjab,Sangrur,Sangrur,Tomato,Vegetables,2.00,1100,1100,1100,2019-12-29
+Punjab,Sangrur,Sunam,Tomato,Vegetables,0.90,1000,1400,1200,2019-12-29
+Punjab,Tarntaran,Patti,Other,Vegetables,0.30,1800,2400,2100,2019-12-29
+-,-,-,-,Punjab Sub Total,21.10,-,-,-,
+-,-,-,-,Total:-,21.10,-,-,-,
+Punjab,Amritsar,Amritsar(Amritsar Mewa Mandi),Tomato,Vegetables,33.20,400,1000,800,2019-12-30
+Punjab,Amritsar,Rayya,Hybrid,Vegetables,0.28,2400,2400,2400,2019-12-30
+Punjab,Barnala,Barnala,Other,Vegetables,5.10,1000,1500,1250,2019-12-30
+Punjab,Bhatinda,Bathinda,Other,Vegetables,20.00,1000,1200,1000,2019-12-30
+Punjab,Bhatinda,Goniana,Other,Vegetables,0.15,1000,1100,1100,2019-12-30
+Punjab,Bhatinda,Maur,Other,Vegetables,0.70,1400,1800,1500,2019-12-30
+Punjab,Faridkot,Faridkot,Tomato,Vegetables,18.00,600,1000,800,2019-12-30
+Punjab,Faridkot,Jaitu,Deshi,Vegetables,0.18,2500,2500,2500,2019-12-30
+Punjab,Faridkot,Kotkapura,Tomato,Vegetables,2.00,1000,1400,1200,2019-12-30
+Punjab,Fatehgarh,Bassi Pathana,Tomato,Vegetables,1.20,2000,2500,2200,2019-12-30
+Punjab,Fatehgarh,Khamano,Tomato,Vegetables,0.20,1500,1500,1500,2019-12-30
+Punjab,Fatehgarh,Sirhind,Other,Vegetables,3.30,1000,1600,1200,2019-12-30
+Punjab,Fazilka,Abohar,Tomato,Vegetables,3.46,955,1333,995,2019-12-30
+Punjab,Fazilka,Jalalabad,Other,Vegetables,0.36,1500,1700,1600,2019-12-30
+Punjab,Ferozpur,Makhu,Other,Vegetables,0.20,1300,1500,1400,2019-12-30
+Punjab,Ferozpur,Zira,Tomato,Vegetables,0.40,1300,1800,1500,2019-12-30
+Punjab,Gurdaspur,F.G.Churian,Tomato,Vegetables,0.42,480,500,490,2019-12-30
+Punjab,Gurdaspur,Gurdaspur,Other,Vegetables,2.10,1500,2000,1800,2019-12-30
+Punjab,Gurdaspur,Kalanaur,Other,Vegetables,0.01,2500,2500,2500,2019-12-30
+Punjab,Hoshiarpur,Dasuya,Other,Vegetables,1.20,1000,1500,1500,2019-12-30
+Punjab,Hoshiarpur,Garh Shankar,Deshi,Vegetables,2.03,1000,1500,1200,2019-12-30
+Punjab,Hoshiarpur,Garh Shankar(Mahalpur),Tomato,Vegetables,0.25,1200,1800,1500,2019-12-30
+Punjab,Hoshiarpur,Hoshiarpur,Other,Vegetables,8.00,1200,1500,1400,2019-12-30
+Punjab,Hoshiarpur,Mukerian,Tomato,Vegetables,1.60,2000,3000,2400,2019-12-30
+Punjab,Hoshiarpur,Mukerian(Talwara),Tomato,Vegetables,0.28,1100,1450,1200,2019-12-30
+Punjab,Jalandhar,Adampur,Other,Vegetables,0.60,1300,1500,1500,2019-12-30
+Punjab,Jalandhar,Bilga,Other,Vegetables,0.10,2000,2200,2100,2019-12-30
+Punjab,Jalandhar,Jalandhar City(Jalandhar),Other,Vegetables,77.10,400,900,600,2019-12-30
+Punjab,kapurthala,Phagwara,Other,Vegetables,11.10,1200,1292,1250,2019-12-30
+Punjab,Ludhiana,Jagraon,Other,Vegetables,2.50,1500,1800,1700,2019-12-30
+Punjab,Ludhiana,Sahnewal,Tomato,Vegetables,0.80,2000,2000,2000,2019-12-30
+Punjab,Ludhiana,Samrala,Other,Vegetables,1.00,1000,1200,1100,2019-12-30
+Punjab,Moga,Baghapurana,Tomato,Vegetables,0.40,1200,1500,1400,2019-12-30
+Punjab,Moga,Moga,Other,Vegetables,4.30,1500,2000,1800,2019-12-30
+Punjab,Mohali,Banur (Kheragaju),Deshi,Vegetables,0.40,1200,1600,1600,2019-12-30
+Punjab,Mohali,Kharar,Tomato,Vegetables,0.20,1600,2000,1800,2019-12-30
+Punjab,Mohali,Kurali,Other,Vegetables,1.20,1800,2000,1900,2019-12-30
+Punjab,Mohali,Lalru,Other,Vegetables,1.28,1200,2000,1500,2019-12-30
+Punjab,Muktsar,Bariwala,Other,Vegetables,0.01,2000,2000,2000,2019-12-30
+Punjab,Muktsar,Giddarbaha,Tomato,Vegetables,0.70,1100,1300,1200,2019-12-30
+Punjab,Muktsar,Malout,Tomato,Vegetables,1.10,1000,1500,1200,2019-12-30
+Punjab,Nawanshahr,Nawan Shahar(Subzi Mandi),Other,Vegetables,1.20,1500,2000,1800,2019-12-30
+Punjab,Pathankot,Pathankot,Tomato,Vegetables,30.91,1300,2500,1800,2019-12-30
+Punjab,Patiala,Ghanaur,Other,Vegetables,0.03,2000,2000,2000,2019-12-30
+Punjab,Patiala,Nabha,Other,Vegetables,4.90,1000,1600,1200,2019-12-30
+Punjab,Patiala,Patiala,Tomato,Vegetables,22.00,1200,2200,1800,2019-12-30
+Punjab,Patiala,Patran,Other,Vegetables,2.00,1000,1000,1000,2019-12-30
+Punjab,Patiala,Rajpura,Local,Vegetables,3.70,1500,2000,1750,2019-12-30
+Punjab,Sangrur,Dhuri,Other,Vegetables,0.20,1200,1400,1300,2019-12-30
+Punjab,Sangrur,Khanauri,Other,Vegetables,0.20,1800,2000,1900,2019-12-30
+Punjab,Sangrur,Malerkotla,Other,Vegetables,4.00,1400,1750,1600,2019-12-30
+Punjab,Sangrur,Sangrur,Tomato,Vegetables,2.20,1000,1200,1200,2019-12-30
+Punjab,Sangrur,Sunam,Tomato,Vegetables,1.00,1000,1300,1200,2019-12-30
+Punjab,Tarntaran,Patti,Other,Vegetables,0.32,1600,1800,1700,2019-12-30
+Punjab,Tarntaran,Tarantaran,Other,Vegetables,0.60,1800,3000,2700,2019-12-30
+-,-,-,-,Punjab Sub Total,280.67,-,-,-,
+-,-,-,-,Total:-,280.67,-,-,-,
+Punjab,Amritsar,Amritsar(Amritsar Mewa Mandi),Tomato,Vegetables,138.70,500,1000,800,2019-12-31
+Punjab,Amritsar,Gehri(Jandiala mandi),Tomato,Vegetables,0.50,1800,1800,1800,2019-12-31
+Punjab,Amritsar,Rayya,Hybrid,Vegetables,0.30,2400,2400,2400,2019-12-31
+Punjab,Bhatinda,Maur,Other,Vegetables,0.70,1300,1500,1400,2019-12-31
+Punjab,Faridkot,Faridkot,Tomato,Vegetables,20.00,800,800,800,2019-12-31
+Punjab,Faridkot,Jaitu,Deshi,Vegetables,0.19,1600,1600,1600,2019-12-31
+Punjab,Faridkot,Kotkapura,Tomato,Vegetables,2.00,1500,2000,1800,2019-12-31
+Punjab,Fatehgarh,Bassi Pathana,Tomato,Vegetables,1.80,2000,2500,2500,2019-12-31
+Punjab,Fatehgarh,Khamano,Tomato,Vegetables,0.20,2000,2000,2000,2019-12-31
+Punjab,Fatehgarh,Sirhind,Other,Vegetables,3.20,1400,1600,1500,2019-12-31
+Punjab,Fazilka,Abohar,Tomato,Vegetables,2.46,900,1350,1000,2019-12-31
+Punjab,Fazilka,Jalalabad,Other,Vegetables,1.35,1000,1200,1100,2019-12-31
+Punjab,Ferozpur,Firozepur City,Other,Vegetables,2.50,1000,1400,1200,2019-12-31
+Punjab,Ferozpur,Makhu,Other,Vegetables,0.40,1300,1500,1400,2019-12-31
+Punjab,Ferozpur,Zira,Tomato,Vegetables,0.20,1300,1800,1500,2019-12-31
+Punjab,Gurdaspur,Batala,Other,Vegetables,1.50,1100,1300,1200,2019-12-31
+Punjab,Gurdaspur,Dinanagar,Tomato,Vegetables,1.40,800,1200,1000,2019-12-31
+Punjab,Gurdaspur,F.G.Churian,Tomato,Vegetables,0.18,1950,2000,1980,2019-12-31
+Punjab,Gurdaspur,Gurdaspur,Other,Vegetables,2.10,1800,2000,1900,2019-12-31
+Punjab,Hoshiarpur,Dasuya,Other,Vegetables,1.50,1200,1500,1500,2019-12-31
+Punjab,Hoshiarpur,Garh Shankar,Deshi,Vegetables,1.11,1000,1500,1200,2019-12-31
+Punjab,Hoshiarpur,Garh Shankar(Mahalpur),Tomato,Vegetables,1.50,1200,1500,1400,2019-12-31
+Punjab,Hoshiarpur,GarhShankar (Kotfatuhi),Other,Vegetables,0.10,1500,1800,1600,2019-12-31
+Punjab,Hoshiarpur,Hoshiarpur,Other,Vegetables,6.00,1200,1500,1400,2019-12-31
+Punjab,Hoshiarpur,Mukerian,Tomato,Vegetables,2.00,2000,3000,2400,2019-12-31
+Punjab,Hoshiarpur,Mukerian(Talwara),Tomato,Vegetables,0.30,1200,1450,1300,2019-12-31
+Punjab,Jalandhar,Adampur,Other,Vegetables,0.90,1300,1500,1500,2019-12-31
+Punjab,Jalandhar,Bilga,Other,Vegetables,0.10,1500,1700,1600,2019-12-31
+Punjab,Jalandhar,Goraya,Other,Vegetables,0.20,1300,1300,1300,2019-12-31
+Punjab,Jalandhar,Jalandhar City(Jalandhar),Other,Vegetables,46.70,400,900,600,2019-12-31
+Punjab,Jalandhar,Noor Mehal,Other,Vegetables,0.15,1500,1500,1500,2019-12-31
+Punjab,kapurthala,Phagwara,Other,Vegetables,13.00,1076,1400,1250,2019-12-31
+Punjab,Ludhiana,Jagraon,Other,Vegetables,2.00,1500,1900,1700,2019-12-31
+Punjab,Ludhiana,Samrala,Other,Vegetables,1.00,1100,1300,1200,2019-12-31
+Punjab,Moga,Baghapurana,Tomato,Vegetables,0.40,1200,1500,1400,2019-12-31
+Punjab,Moga,Moga,Other,Vegetables,6.50,1500,2500,2000,2019-12-31
+Punjab,Mohali,Banur (Kheragaju),Deshi,Vegetables,0.50,2000,2500,2500,2019-12-31
+Punjab,Mohali,Dera Bassi,Other,Vegetables,0.10,1600,2000,1800,2019-12-31
+Punjab,Mohali,Kharar,Tomato,Vegetables,1.20,1500,2000,1800,2019-12-31
+Punjab,Mohali,Kurali,Other,Vegetables,1.50,1900,2100,2000,2019-12-31
+Punjab,Muktsar,Giddarbaha,Tomato,Vegetables,0.50,1400,1600,1500,2019-12-31
+Punjab,Muktsar,Malout,Tomato,Vegetables,1.60,1000,1500,1200,2019-12-31
+Punjab,Nawanshahr,Banga,Other,Vegetables,3.70,1197,1700,1605,2019-12-31
+Punjab,Nawanshahr,Nawan Shahar(Subzi Mandi),Other,Vegetables,1.00,1500,2000,1800,2019-12-31
+Punjab,Pathankot,Pathankot,Tomato,Vegetables,9.30,1200,1400,1300,2019-12-31
+Punjab,Patiala,Nabha,Other,Vegetables,4.90,1000,1700,1300,2019-12-31
+Punjab,Patiala,Patiala,Tomato,Vegetables,20.00,1200,2200,1800,2019-12-31
+Punjab,Patiala,Patran,Other,Vegetables,1.50,1200,1500,1390,2019-12-31
+Punjab,Patiala,Rajpura,Local,Vegetables,5.20,1100,1800,1450,2019-12-31
+Punjab,Sangrur,Dhuri,Other,Vegetables,0.20,1200,1300,1250,2019-12-31
+Punjab,Sangrur,Khanauri,Other,Vegetables,0.40,1800,2000,1900,2019-12-31
+Punjab,Sangrur,Malerkotla,Other,Vegetables,4.50,1800,2500,2300,2019-12-31
+Punjab,Tarntaran,Patti,Other,Vegetables,0.40,1500,1700,1600,2019-12-31
+Punjab,Tarntaran,Tarantaran,Other,Vegetables,0.60,2000,3000,2500,2019-12-31
+-,-,-,-,Punjab Sub Total,320.24,-,-,-,
+-,-,-,-,Total:-,320.24,-,-,-,
