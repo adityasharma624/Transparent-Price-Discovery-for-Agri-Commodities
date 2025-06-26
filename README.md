@@ -1,72 +1,73 @@
 # Transparent Price Discovery for Agri-Commodities
 
-This project aims to bring transparency to agricultural commodity pricing using machine learning techniques. It analyzes market trends and historical data to predict fair prices for various agri-commodities, helping reduce exploitation of farmers and ensure better market access.
+This project addresses the issue of market price volatility in agricultural commodities by leveraging time series forecasting and machine learning. By predicting daily prices for key vegetables—potato, onion, and tomato—we aim to reduce farmer exploitation, inform policy decisions, and enhance market efficiency.
 
 ---
 
 ## 📌 Problem Statement
 
-Agricultural commodity prices in India often lack transparency, leading to inefficient markets and farmer exploitation. This project leverages data science to:
+Agricultural markets in India suffer from unpredictable price fluctuations, which hurt both farmers and consumers. These fluctuations complicate interventions like the Minimum Support Price (MSP) and Price Stabilization Fund (PSF). This project aims to:
 
-- Analyze past commodity prices
-- Build predictive models for price discovery
-- Enable insights through data visualization
+- Forecast short-term price movements
+- Provide data-backed insights to support market transparency
+- Help farmers make informed decisions and reduce dependence on intermediaries
 
 ---
 
 ## 🧠 Techniques & Tools Used
 
-- Python
-- pandas (Data preprocessing & manipulation)
-- scikit-learn (Machine learning models)
-- matplotlib & seaborn (Data visualization)
-- Jupyter Notebook (Development environment)
+- **Languages & Libraries**: Python, pandas, numpy  
+- **Machine Learning**: XGBoost, SARIMAX, LSTM (Keras/TensorFlow)  
+- **Visualization**: matplotlib, seaborn  
+- **Development Environment**: Jupyter Notebook  
+- **Data Source**: Agmarknet (arrival and price data)
 
 ---
 
 ## 🔍 Approach
 
 1. **Data Collection**  
-   Collected historical price and market data for key agri-commodities.
+   Acquired historical daily prices and arrivals of potato, onion, and tomato from Agmarknet.
 
-2. **Preprocessing**  
-   Cleaned and formatted data, handled missing values, and prepared features.
+2. **Feature Engineering**  
+   Applied lag-based features, rolling averages, exponential smoothing, and log transformations to highlight trends and seasonality.
 
 3. **Exploratory Data Analysis (EDA)**  
-   Visualized trends, seasonality, and key statistical insights.
+   Visualized seasonal price patterns, supply spikes, and anomalies.
 
 4. **Modeling**  
-   Applied regression-based machine learning models including:
-   - Linear Regression
-   - Decision Tree Regressor
-   - Random Forest Regressor
+   Compared three forecasting models:
+   - **SARIMAX**: Statistical time series model
+   - **LSTM**: Deep learning sequence model
+   - **XGBoost**: Tree-based regression model
 
 5. **Evaluation**  
-   Evaluated model performance using:
-   - RMSE (Root Mean Square Error)
+   Assessed models using:
    - R² Score
+   - RMSE
 
 ---
 
 ## 📊 Results
 
-- Achieved accurate and interpretable price predictions.
-- Identified important features driving commodity price fluctuations.
-- Laid groundwork for decision-support tools for farmers and stakeholders.
+- **XGBoost** achieved the highest accuracy with R² scores nearing **0.99**, showing strong predictive power.
+- **LSTM** performed moderately well and set a realistic benchmark.
+- **SARIMAX** underperformed, with negative R² scores on real-time data.
+- Engineered features significantly improved temporal learning across models.
 
 ---
 
 ## 🚀 Future Work
 
-- Integrate real-time data feeds (e.g., APMC APIs, agri-portals)
-- Build an interactive web dashboard for farmers and policymakers
-- Explore time-series forecasting (ARIMA, Facebook Prophet)
+- Integrate real-time market data via APIs (e.g., APMC)
+- Deploy a web-based dashboard for farmers and policymakers
+- Expand forecasting to more commodities and regions
+- Incorporate rainfall, climate, and logistics data for enhanced prediction
 
 ---
 
 ## 📁 Project Structure
-
-├── data/                  # Raw and processed data
-├── notebooks/             # Jupyter notebooks for analysis and modeling
-├── results/               # Output plots and evaluation metrics
-├── README.md              # Project documentation
+├── data/ # Raw and processed data
+├── notebooks/ # Jupyter notebooks for EDA and modeling
+├── results/ # Plots, metrics, and model outputs
+├── README.md # Project documentation
